@@ -1,0 +1,79 @@
+---
+title: "Òtúrúpòn Òkànràn (Òtúrúpòn Kànà (Otrupo Kana))"
+aliases: ['Òtúrúpòn Kànà (Otrupo Kana)', 'Otrupon Kana', 'Òtúrúpòn Òkànràn']
+odu_id: "13_APOLA_OTURUPON_08"
+type: "Ọmọ Odù (Apòlà Òtúrúpòn)"
+padre: "[[12_Oturupon_Meji|Òtúrúpòn Méjì]]"
+madre: "[[08_Okanran_Meji|Òkànràn Méjì]]"
+signo_binario: |
+II   II
+II   II
+I   II
+II   I
+elemento: "Tierra medicinal y nutrición / Òkànràn Méjì"
+orishas_asociados:
+  - "Òsanyìn"
+  - "Ọbàlúayé"
+  - "Naná Burukú"
+  - "Èṣù"
+  - "Òkànràn"
+temas_clave: ['Sanación de enfermedades', 'Interacción armónica con Òkànràn Méjì', 'Cumplimiento de Èbọ y preservación del carácter']
+tags:
+  - ifa
+  - odu
+  - omo_odu
+  - apola_oturupon
+---
+
+# Òtúrúpòn Òkànràn (Òtúrúpòn Kànà (Otrupo Kana))
+
+## Notación Sagrada en Opón Ifá
+
+```text
+II   II
+II   II
+I   II
+II   I
+```
+
+> **Combinación:** [[12_Oturupon_Meji|Òtúrúpòn Méjì]] (Derecha) + [[08_Okanran_Meji|Òkànràn Méjì]] (Izquierda)  
+> **Elemento:** Tierra medicinal y nutrición / Òkànràn Méjì
+
+---
+
+## 1. Esencia y Dinámica del Signo
+Este Odù combina la energía de Òtúrúpòn Méjì con el poder de Òkànràn Méjì. Enseña equilibrio moral, observancia litúrgica y respeto a las jerarquías ancestrales.
+
+---
+
+## 2. Correspondencias y Simbolismo
+
+- **Òrìṣàs Tutelares:** [[Òsanyìn]], [[Ọbàlúayé]], [[Naná Burukú]], [[Èṣù]], [[Òkànràn]]
+- **Aspectos Clave:** Sanación de enfermedades, Interacción armónica con Òkànràn Méjì, Cumplimiento de Èbọ y preservación del carácter
+
+---
+
+## 3. Refranes y Enseñanzas Tradicionales
+- *"La fuerza de Òtúrúpòn se complementa con la gracia de Òkànràn."*
+- *"El que respeta los tabúes y las leyes cósmicas asegura su tranquilidad."*
+- *"La ofrenda propiciatoria abre los caminos cerrados."*
+
+---
+
+## 4. Vocabulario Litúrgico en Yorùbá
+
+| Término en Yorùbá | Significado y Contexto |
+| :--- | :--- |
+| **Èbọ** | Ofrenda ceremonial necesaria para consagrar la armonía en Òtúrúpòn Kànà (Otrupo Kana). |
+| **Àṣẹ** | Energía vital que respalda el decreto oracular de Ifá. |
+| **Ìwà Pèlé** | Conducta intachable exigida para sostener las bendiciones. |
+
+---
+
+## 5. Navegación en el Vault
+- **MOC de Apòlà Òtúrúpòn:** [[00_13_Apola_Oturupon|Índice de Apòlà Òtúrúpòn]]
+- **MOC General:** [[00_Indice_General_Ifa|Índice General de Ifá]]
+- **Odù Padre Matriz:** [[12_Oturupon_Meji|Òtúrúpòn Méjì]]
+- **Odù Madre:** [[08_Okanran_Meji|Òkànràn Méjì]]
+- **Anterior Omo Odù:** [[07_Otrupon_obàrà|Òtúrúpòn Òbàrà (Òtúrúpòn Òbàrà (Otrupon Baranife))]]
+- **Siguiente Omo Odù:** [[09_Otrupon_ogúndá|Òtúrúpòn Ògúndá (Òtúrúpòn Ògúndá (Otrupo Ogunda))]]

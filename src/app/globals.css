@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+body {
+  background: #faf7f2;
+  color: #241b16;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+}
+
+.font-serif {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+@keyframes fadeSlide {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes shake {
+  0%,
+  100% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(-8deg);
+  }
+  75% {
+    transform: rotate(8deg);
+  }
+}
+
+.animate-fade {
+  animation: fadeSlide 0.45s ease-out;
+}
+
+.animate-throw {
+  animation: shake 0.55s ease-in-out;
+}
