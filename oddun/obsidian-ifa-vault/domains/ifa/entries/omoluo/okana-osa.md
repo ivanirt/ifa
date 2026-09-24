@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Okana Osa
 slug: okana-osa
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Okana Osa
-family: Okana
-right: Okana
-left: Osa
-class: [omoluo, odu-compuesto]
-parent_meji: [[okana-meyi]]
-second_meji: [[osa-meyi]]
+n: 130
+familia: Okana
+padre: Okana
+segundo: Osa
+aliases: [Okana Osa, Okana Meyi Osa, okana osa]
+tags: [ifa, oddun, omoluo, familia/okana, cruce/osa]
+orishas: [Eshú, Shangó, Ikú, Oyá, Eggun]
+temas: [fuego, prisa, awofaka, viento, cambio, oyá]
+consulta: true
 ---
 
-# Okana Osa
+# 130. Okana Osa
 
-> Hijo de Okana con Osa. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]] (8)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]] (10)
+**Buscar en Obsidian:** `Okana Osa` · `Okana Osa` · `okana-osa`
+**Padre:** [[okana-meyi|Okana Meyi]] (8) · **Segundo:** [[osa-meyi|Osa Meyi]] (10) · **Inverso:** [[osa-okana|Osa Okana]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Okana Osa** es Okana Meyi cruzado con Osa Meyi. El padre Okana prende fuego corto, da prisa y pide trueque de caminos. El segundo pie Osa entra como viento, muda la casa y enciende a los muertos. Se lee primero [[okana-meyi|Okana Meyi]] (tono) y después [[osa-meyi|Osa Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[osa-okana|Osa Okana]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- El ikofa eshanile y el awofaka.
+- Los siete días del asentamiento de Osha en el igbodún.
+- Cruce Okana × Osa: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: fuego, violencia, awofaka × viento, oyá, eggun
-- Orishas a tener en cuenta: Eshú, Shangó, Ikú, Oyá, Eggun
+- Rezo de linaje de Okana Osa (anotar el texto que canta su casa).
+- Se invoca primero el padre Okana y se cierra con Osa.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Mal por dentro de una pierna; casa que se quiere desatar.
+- Vino porque quiere ir a un lugar; el camino trae dinero y Shangó detrás.
+- Lea el ire de Okana *a través* de Osa: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Osa Okana.
+
+## Lista de patakies
+
+- Eleguá pescando sin anzuelo y la pelea de los dueños de la canoa.
+- El rey curandero, dueño de la muerte.
+- Historias de la casa donde Okana se encuentra con Osa: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Okana (El vuelco ritual revela el ire tapado) llega *a través* de Osa.
+- Se sostiene si se respeta lo que pide Oyá y Eshú.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Frijoles colorados; lengua ajena en ausencia.
+- Cautela del segundo: Pelea de pareja; maldiciones; aborto.
+- Cruce típico: pelea + accidente se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Eshú, Shangó, Ikú, Oyá, Eggun
+- Ámbitos: pelea, accidente, cambio, cementerio
+- Temas: fuego, prisa, awofaka, viento, cambio, oyá
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Dónde está actuando con prisa de fuego?
+- ¿Qué viento está empujando la mudanza?
+- ¿Este asunto es más de Okana (tono) o de Osa (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[okana-meyi|Okana Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[osa-meyi|Osa Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[osa-okana|Osa Okana]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Okana
 
-- Padre: [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/osa-okana|Osa Okana]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[okana-ogbe|Okana Ogbe]] · [[okana-oyekun|Okana Oyekun]] · [[okana-iwori|Okana Iwori]] · [[okana-odi|Okana Odi]] · [[okana-iroso|Okana Iroso]] · [[okana-ojuani|Okana Ojuani]] · [[okana-obara|Okana Obara]] · [[okana-ogunda|Okana Ogunda]] · [[okana-osa|Okana Osa]] · [[okana-ika|Okana Ika]] · [[okana-otrupon|Okana Otrupon]] · [[okana-otura|Okana Otura]] · [[okana-irete|Okana Irete]] · [[okana-oshe|Okana Oshe]] · [[okana-ofun|Okana Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

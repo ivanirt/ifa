@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Obara Okana
 slug: obara-okana
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Obara Okana
-family: Obara
-right: Obara
-left: Okana
-class: [omoluo, odu-compuesto]
-parent_meji: [[obara-meyi]]
-second_meji: [[okana-meyi]]
+n: 113
+familia: Obara
+padre: Obara
+segundo: Okana
+aliases: [Obara Okana, Obara Meyi Okana, obara okana]
+tags: [ifa, oddun, omoluo, familia/obara, cruce/okana]
+orishas: [Shangó, Olofin, Eleguá, Eshú, Ikú]
+temas: [lengua, riqueza, realeza, fuego, prisa, awofaka]
+consulta: true
 ---
 
-# Obara Okana
+# 113. Obara Okana
 
-> Hijo de Obara con Okana. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/obara-meyi|Obara Meyi]] (7)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]] (8)
+**Buscar en Obsidian:** `Obara Okana` · `Obara Okana` · `obara-okana`
+**Padre:** [[obara-meyi|Obara Meyi]] (7) · **Segundo:** [[okana-meyi|Okana Meyi]] (8) · **Inverso:** [[okana-obara|Okana Obara]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Obara Okana** es Obara Meyi cruzado con Okana Meyi. El padre Obara pone la lengua en el centro y discute el reparto. El segundo pie Okana prende fuego corto, da prisa y pide trueque de caminos. Se lee primero [[obara-meyi|Obara Meyi]] (tono) y después [[okana-meyi|Okana Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[okana-obara|Okana Obara]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/obara-meyi|Obara Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- El baile del pacto del awó con Ikú.
+- El ikofa eshanile y el awofaka.
+- Cruce Obara × Okana: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: lengua, riqueza, realeza × fuego, violencia, awofaka
-- Orishas a tener en cuenta: Shangó, Olofin, Eleguá, la Lengua, Eshú, Ikú
+- Rezo de linaje de Obara Okana (anotar el texto que canta su casa).
+- Se invoca primero el padre Obara y se cierra con Okana.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Rey muerto, príncipe coronado.
+- Mal por dentro de una pierna; casa que se quiere desatar.
+- Lea el ire de Obara *a través* de Okana: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Okana Obara.
+
+## Lista de patakies
+
+- Obara desnudo tras el ebó: el pueblo lo nombra y Olofin le da traje y caballo.
+- Eleguá pescando sin anzuelo y la pelea de los dueños de la canoa.
+- Historias de la casa donde Obara se encuentra con Okana: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Obara (Traje de rey cuando se acepta el estado real) llega *a través* de Okana.
+- Se sostiene si se respeta lo que pide Eshú y Shangó.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Mentira, pobreza extrema, bebidas que devuelven al borracho.
+- Cautela del segundo: Frijoles colorados; lengua ajena en ausencia.
+- Cruce típico: negocio + rumor se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Shangó, Olofin, Eleguá, Eshú, Ikú
+- Ámbitos: negocio, rumor, pelea, accidente
+- Temas: lengua, riqueza, realeza, fuego, prisa, awofaka
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Su boca está construyendo o derribando?
+- ¿Dónde está actuando con prisa de fuego?
+- ¿Este asunto es más de Obara (tono) o de Okana (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[obara-meyi|Obara Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[okana-meyi|Okana Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[okana-obara|Okana Obara]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Obara
 
-- Padre: [[domains/ifa/entries/meji/obara-meyi|Obara Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/okana-obara|Okana Obara]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[obara-ogbe|Obara Ogbe]] · [[obara-oyekun|Obara Oyekun]] · [[obara-iwori|Obara Iwori]] · [[obara-odi|Obara Odi]] · [[obara-iroso|Obara Iroso]] · [[obara-ojuani|Obara Ojuani]] · [[obara-okana|Obara Okana]] · [[obara-ogunda|Obara Ogunda]] · [[obara-osa|Obara Osa]] · [[obara-ika|Obara Ika]] · [[obara-otrupon|Obara Otrupon]] · [[obara-otura|Obara Otura]] · [[obara-irete|Obara Irete]] · [[obara-oshe|Obara Oshe]] · [[obara-ofun|Obara Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

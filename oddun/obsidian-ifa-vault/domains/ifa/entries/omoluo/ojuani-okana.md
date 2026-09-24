@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Ojuani Okana
 slug: ojuani-okana
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Ojuani Okana
-family: Ojuani
-right: Ojuani
-left: Okana
-class: [omoluo, odu-compuesto]
-parent_meji: [[ojuani-meyi]]
-second_meji: [[okana-meyi]]
+n: 98
+familia: Ojuani
+padre: Ojuani
+segundo: Okana
+aliases: [Ojuani Okana, Ojuani Meyi Okana, ojuani okana]
+tags: [ifa, oddun, omoluo, familia/ojuani, cruce/okana]
+orishas: [Babalú Ayé, Eshú, Oggún, Shangó, Ikú]
+temas: [vuelco, envidia, revolución, fuego, prisa, awofaka]
+consulta: true
 ---
 
-# Ojuani Okana
+# 098. Ojuani Okana
 
-> Hijo de Ojuani con Okana. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/ojuani-meyi|Ojuani Meyi]] (6)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]] (8)
+**Buscar en Obsidian:** `Ojuani Okana` · `Ojuani Okana` · `ojuani-okana`
+**Padre:** [[ojuani-meyi|Ojuani Meyi]] (6) · **Segundo:** [[okana-meyi|Okana Meyi]] (8) · **Inverso:** [[okana-ojuani|Okana Ojuani]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Ojuani Okana** es Ojuani Meyi cruzado con Okana Meyi. El padre Ojuani voltea el tablero, despierta envidia y cambia de color. El segundo pie Okana prende fuego corto, da prisa y pide trueque de caminos. Se lee primero [[ojuani-meyi|Ojuani Meyi]] (tono) y después [[okana-meyi|Okana Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[okana-ojuani|Okana Ojuani]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/ojuani-meyi|Ojuani Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- Los arayes.
+- El ikofa eshanile y el awofaka.
+- Cruce Ojuani × Okana: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: revolucion, envidia, babalu × fuego, violencia, awofaka
-- Orishas a tener en cuenta: Babalú Ayé, Eshú, Oggún, el camaleón (itá), Shangó, Ikú
+- Rezo de linaje de Ojuani Okana (anotar el texto que canta su casa).
+- Se invoca primero el padre Ojuani y se cierra con Okana.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Piensa irse y no puede levantar cabeza hasta la rogación.
+- Mal por dentro de una pierna; casa que se quiere desatar.
+- Lea el ire de Ojuani *a través* de Okana: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Okana Ojuani.
+
+## Lista de patakies
+
+- El camaleón que quiere matar al perro por el color del collar.
+- Eleguá pescando sin anzuelo y la pelea de los dueños de la canoa.
+- Historias de la casa donde Ojuani se encuentra con Okana: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Ojuani (Cambio de casa o de bando que salva) llega *a través* de Okana.
+- Se sostiene si se respeta lo que pide Eshú y Babalú Ayé.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Celos entre religiosos.
+- Cautela del segundo: Frijoles colorados; lengua ajena en ausencia.
+- Cruce típico: mudanza + envidia se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Babalú Ayé, Eshú, Oggún, Shangó, Ikú
+- Ámbitos: mudanza, envidia, pelea, accidente
+- Temas: vuelco, envidia, revolución, fuego, prisa, awofaka
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿A quién le envidia el color?
+- ¿Dónde está actuando con prisa de fuego?
+- ¿Este asunto es más de Ojuani (tono) o de Okana (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[ojuani-meyi|Ojuani Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[okana-meyi|Okana Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[okana-ojuani|Okana Ojuani]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Ojuani
 
-- Padre: [[domains/ifa/entries/meji/ojuani-meyi|Ojuani Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/okana-ojuani|Okana Ojuani]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[ojuani-ogbe|Ojuani Ogbe]] · [[ojuani-oyekun|Ojuani Oyekun]] · [[ojuani-iwori|Ojuani Iwori]] · [[ojuani-odi|Ojuani Odi]] · [[ojuani-iroso|Ojuani Iroso]] · [[ojuani-obara|Ojuani Obara]] · [[ojuani-okana|Ojuani Okana]] · [[ojuani-ogunda|Ojuani Ogunda]] · [[ojuani-osa|Ojuani Osa]] · [[ojuani-ika|Ojuani Ika]] · [[ojuani-otrupon|Ojuani Otrupon]] · [[ojuani-otura|Ojuani Otura]] · [[ojuani-irete|Ojuani Irete]] · [[ojuani-oshe|Ojuani Oshe]] · [[ojuani-ofun|Ojuani Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

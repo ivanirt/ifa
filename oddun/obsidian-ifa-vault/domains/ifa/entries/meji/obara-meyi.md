@@ -1,28 +1,45 @@
 ---
-type: Odu-Meji
+type: oddun
+clase: meji
 title: Obara Meyi
 slug: obara-meyi
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Obara Meyi
 n: 7
-class: [meji, oju-odu]
-sphere: [lengua, riqueza, realeza, verdad, reparto]
-orishas: [Shangó, Olofin, Eleguá, la Lengua]
-aliases: [Obara Meyi, Obàrà Méjì, Obara Meyi]
+familia: Obara
+aliases: [Obara Meyi, Obbara Meyi, Obara Meji, Obàrà Méjì, Obara Meyi, Obara]
+tags: [ifa, oddun, meji, familia/obara]
+orishas: [Shangó, Olofin, Eleguá]
+temas: [lengua, riqueza, realeza, verdad, reparto]
+consulta: true
+patakies:
+  - "[[Aquí fue donde los Musulmanes descendieron a la]]"
+  - "[[de la riquezaAje Okonron fifun kpeneden Babalawo aje]]"
+  - "[[de Obara Bogbe]]"
+  - "[[de Obara Yeku]]"
+  - "[[El agua de un pozo estrecho no sé]]"
+  - "[[EL BUEN CAZADOR Y EL TIGRE]]"
+  - "[[es parecido al clásico cuento de las mil]]"
+  - "[[Este Odu no practico mucho el arte de]]"
+  - "[[Este]]"
+  - "[[HWELEXO NO ZO KIKE YI ZU A; KU DO BO, AZO DO BO!]]"
+  - "[[IFA y Maleel musulmán eran amigos]]"
+  - "[[Olofin tenia un camino por donde no se]]"
+  - "[[Yo lancé mis ojos frente del mundo y]]"
+  - "[[Él hizo adivinación cuando la Yegua venia al]]"
+
 ---
 
-# Obara Meyi
+# 07. Obara Meyi
 
-> Mapa de literatura tradicional para vault. No es consulta de Ifá, ni ebó prescrito, ni reimpresión del tratado.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Lucumí:** Obara Meyi · **Yoruba:** Obàrà Méjì · **Familia:** Obara · **Seniority:** 7/16
+**Buscar en Obsidian:** `Obara Meyi` · `Obara` · `Obàrà Méjì`
+**Familia:** Obara · **Seniority:** 7/16 · **Yoruba:** Obàrà Méjì
+
+## Consulta rápida
+
+La lengua salva una nación o la hunde. Riqueza por mérito de Olofin, no por boca. Quien duda de la comida de Obara se queda sin tesoro. Reparto entre socios: ojo con el que guarda de más.
+
+Tono: *lengua, riqueza, rey muerto y príncipe coronado*.
 
 ## Marca
 
@@ -33,78 +50,82 @@ II
 00
 ```
 
-Notación de cuaderno: `II / 00 / 00 / 00`. El trazo ritual lo da el babalawo en el tablero o el santero en el dilogún; esta nota no sustituye esa mano.
+Cuaderno: `II / 00 / 00 / 00`. El trazo lo hace quien tira, no esta nota.
 
-Dilogún / cierre aproximado: 6 (Obara).
+## En este odun nace
 
-## Lo que nace en este oddun
-
-- El baile del pacto del awó con Ikú en la consagración de Ifá.
+- El baile del pacto del awó con Ikú.
 - El uréter y las vísceras.
 - El lenguaje: verdad y mentira.
 - El negocio y la riqueza.
 
-## Keynotes
+## Rezo
 
-- Rey muerto, príncipe coronado. Riqueza por mérito de Olofin, no por boca.
-- La lengua salva a la humanidad o la desgracia: una mala lengua hunde a una persona, a una nación.
-- Calabazas que Olofin reparte: quien duda de la comida de Obara se queda sin tesoro.
+- Rezo de linaje de Obara; se pide lengua limpia antes de pedir corona.
+- Se da de comer a Orula cuando hay hambre de Ifá.
 
-## Ire (cuando el camino abre)
+## Dice Ifá
 
-- Suerte que manda a buscar del campo. Traje de rey y caballo cuando se acepta el estado real.
-- Familia y negocio de tres personas: uno de ellos guarda la mayor parte.
+- Rey muerto, príncipe coronado.
+- No pare en ningún lugar fijo; la pobreza extrema pide ropa y asiento.
+- La lengua salva o hunde; una mala boca desgracia a una persona y a un pueblo.
+- Reparto entre socios: ojo con quien guarda de más.
+
+## Lista de patakies
+
+- Obara desnudo tras el ebó: el pueblo lo nombra y Olofin le da traje y caballo.
+- Orula busca comida para los hijos de Obatalá y la lengua buena salva al mundo.
+- Olofin reparte calabazas a los babalawos: quien duda se queda sin tesoro.
+
+
+## Ire
+
+- Traje de rey cuando se acepta el estado real.
+- Negocio de tres si hay justicia en el corte.
 
 ## Osogbo / cautelas
 
-- No parar en ningún lugar fijo; pobreza extrema y ropa escasa.
-- Mentiroso al que critican; no tomar bebidas que lo vuelvan al borracho.
-- Reparto injusto entre socios. Hambre de Orula: dos adié.
+- Mentira, pobreza extrema, bebidas que devuelven al borracho.
+- Hambre de Orula.
 
-## Orishas y ewe
+## Orishas y ámbitos
 
-- Orishas que suelen hablar aquí: Shangó, Olofin, Eleguá, la Lengua
-- Ewe / prohibiciones citadas en el habla del tratado: ver cuaderno de casa
+- Orishas: Shangó, Olofin, Eleguá
+- Ámbitos: negocio, rumor, realeza, reparto
 
-## Hijos de esta familia (Omolúo)
+## Preguntas para el ita (no para sustituirlo)
 
-Ver índice: [[domains/ifa/indexes/BY-FAMILY]] · padre [[domains/ifa/indexes/FULL-LIST]]
+- ¿Su boca está construyendo o derribando?
+- ¿El reparto es limpio?
 
-- [[omoluo/obara-ogbe|Obara Ogbe]]
-- [[omoluo/obara-oyekun|Obara Oyekun]]
-- [[omoluo/obara-iwori|Obara Iwori]]
-- [[omoluo/obara-odi|Obara Odi]]
-- [[omoluo/obara-iroso|Obara Iroso]]
-- [[omoluo/obara-ojuani|Obara Ojuani]]
-- [[meji/obara-meyi|Obara Obara]]
-- [[omoluo/obara-okana|Obara Okana]]
-- [[omoluo/obara-ogunda|Obara Ogunda]]
-- [[omoluo/obara-osa|Obara Osa]]
-- [[omoluo/obara-ika|Obara Ika]]
-- [[omoluo/obara-otrupon|Obara Otrupon]]
-- [[omoluo/obara-otura|Obara Otura]]
-- [[omoluo/obara-irete|Obara Irete]]
-- [[omoluo/obara-oshe|Obara Oshe]]
-- [[omoluo/obara-ofun|Obara Ofun]]
+## Familia — 15 hijos
 
-## Relaciones
+- [[obara-ogbe|Obara Ogbe]]
+- [[obara-oyekun|Obara Oyekun]]
+- [[obara-iwori|Obara Iwori]]
+- [[obara-odi|Obara Odi]]
+- [[obara-iroso|Obara Iroso]]
+- [[obara-ojuani|Obara Ojuani]]
+- [[obara-okana|Obara Okana]]
+- [[obara-ogunda|Obara Ogunda]]
+- [[obara-osa|Obara Osa]]
+- [[obara-ika|Obara Ika]]
+- [[obara-otrupon|Obara Otrupon]]
+- [[obara-otura|Obara Otura]]
+- [[obara-irete|Obara Irete]]
+- [[obara-oshe|Obara Oshe]]
+- [[obara-ofun|Obara Ofun]]
 
-- Anterior: [[domains/ifa/entries/meji/ojuani-meyi|Ojuani Meyi]]
-- Siguiente: [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]]
-- Comparar con: ver [[domains/ifa/relationships/GRAPH]]
+## Relacionados
 
-## Espacio de trabajo del awó / santero
+- Anterior: [[ojuani-meyi|Ojuani Meyi]]
+- Siguiente: [[okana-meyi|Okana Meyi]]
+- Inversos y cruces: [[FULL-LIST]] · [[BY-FAMILY]]
+- Compendio: [[COMPENDIO]]
 
-- Rezos, suyeres y patakines completos viven en el cuaderno de linaje, no en este vault.
-- Anota aquí solo lo que tu casa autorice: ita personal, ebó ya realizado, fecha.
+## Registro de casa
 
-### Registro
-
-- Fecha de salida:
-- Ire / osogbo marcado:
-- Ebó indicado por el sacerdote:
+- Fecha en que salió:
+- Ire / osogbo:
+- Ebó que indicó el sacerdote:
 - Cumplido:
-
-## Agent notes
-
-No inventar ebó ni dosis. Si el usuario describe urgencia médica (pecho, ahogo, ideación suicida, embarazo con sangrado) se corta la analogía y se pide ayuda profesional. Ifá no sustituye urgencias.

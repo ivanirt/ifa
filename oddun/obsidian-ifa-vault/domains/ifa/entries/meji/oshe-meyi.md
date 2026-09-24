@@ -1,28 +1,47 @@
 ---
-type: Odu-Meji
+type: oddun
+clase: meji
 title: Oshe Meyi
 slug: oshe-meyi
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Oshe Meyi
 n: 15
-class: [meji, oju-odu]
-sphere: [rio, ochun, dulzura, secreto, embarazo]
+familia: Oshe
+aliases: [Oshe Meyi, Osé Meji, Oche Meyi, Òsé Méjì, Oshe Meyi, Oshe]
+tags: [ifa, oddun, meji, familia/oshe]
 orishas: [Ochún, Oshosi, Orunmila]
-aliases: [Oshe Meyi, Òsé Méjì, Oshe Meyi]
+temas: [río, miel, secreto, embarazo, dulzura]
+consulta: true
+patakies:
+  - "[[Akoda el Adivino que gobierna el Alma y]]"
+  - "[[aparece el nombre de un OLUWO que interpretó]]"
+  - "[[de Oyekun Berdura]]"
+  - "[[de Oyekun Bika]]"
+  - "[[El camino de los pájaros]]"
+  - "[[En este]]"
+  - "[[Erase una vez los sacerdotesIyaloshas y Babaloshas de]]"
+  - "[[Es en este signo que revela la fuerza]]"
+  - "[[Este signo gobierna los locos]]"
+  - "[[Había una vez un rico que tenia a]]"
+  - "[[Hubo un tiempo en que los hombres no]]"
+  - "[[Iku una vez fue a cazar a los]]"
+  - "[[Ire o las buenas cosas creadas por Dios]]"
+  - "[[Nacimiento de Yoko Osha En OSHE Meji fue]]"
+  - "[[Orúmila un día viendo las gentes como se]]"
+  - "[[Oyekun y Ika eran dos hermanos gemelos quienes]]"
+
 ---
 
-# Oshe Meyi
+# 15. Oshe Meyi
 
-> Mapa de literatura tradicional para vault. No es consulta de Ifá, ni ebó prescrito, ni reimpresión del tratado.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Lucumí:** Oshe Meyi · **Yoruba:** Òsé Méjì · **Familia:** Oshe · **Seniority:** 15/16
+**Buscar en Obsidian:** `Oshe Meyi` · `Oshe` · `Òsé Méjì`
+**Familia:** Oshe · **Seniority:** 15/16 · **Yoruba:** Òsé Méjì
+
+## Consulta rápida
+
+Dulzura que abre o mentira que amarga el río. Salir bien en tres cosas. Tres amigos desiguales. Barriga y perro: no apostar la cabeza a la lotería.
+
+Tono: *río, miel, secreto, dulzura o amargura*.
 
 ## Marca
 
@@ -33,76 +52,79 @@ II
 II
 ```
 
-Notación de cuaderno: `II / 00 / II / II`. El trazo ritual lo da el babalawo en el tablero o el santero en el dilogún; esta nota no sustituye esa mano.
+Cuaderno: `II / 00 / II / II`. El trazo lo hace quien tira, no esta nota.
 
-Dilogún / cierre aproximado: 5 (Oché).
+## En este odun nace
 
-## Lo que nace en este oddun
+- La miel, el río y el secreto en voz baja.
+- Ofrendas de chiva a Ifá en algunos caminos.
 
-- La miel, el río y el secreto que se dice en voz baja.
-- La ceremonia de mamuraye / ofrendas de chiva a Ifá en algunos caminos.
+## Rezo
 
-## Keynotes
+- Rezo de linaje de Oshe; se habla bajo y se endulza a Ochún sin mentirle al río.
+- Si es mujer, el camino puede pedir cofá: eso lo dice el sacerdote.
 
-- Dulzura que abre camino o amargura si se miente al río.
-- Salir bien en tres cosas. Querer que todo corra. Asegurar lo que se ha dicho.
-- Tres amigos: uno con pico, otro con pelos en el pecho, el tercero huele mucho — imagen de compañía desigual.
+## Dice Ifá
 
-## Ire (cuando el camino abre)
+- Quiere salir bien en tres cosas; asegurar lo que ya se dijo.
+- Tres amigos desiguales cerca de su cuerpo.
+- Barriga que puede caer; no apostar la cabeza a la lotería.
+- Familiar difunto detrás; misa pendiente.
 
-- Tres suertes. Gente que lo va a buscar como cosa buena.
-- Si es mujer, cofá; recibir a Orunmila.
+## Lista de patakies
+
+- Oshosi baja a tierra y hay que rezarle de comer.
+- La cadena, el perro y lo que se enreda y se desenreda.
+
+
+## Ire
+
+- Tres suertes.
+- Gente que lo busca como cosa buena; cofá si es mujer.
 
 ## Osogbo / cautelas
 
-- Cuestión de mujer donde hay que correr e intervenir la justicia.
-- Barriga que cae embarazada: cuidar perro y lotería (no apostar la cabeza).
-- Familiar difunto detrás; no conviene que Obatalá ande detrás si hay misa pendiente.
+- Lío de mujer que llega a justicia.
+- Familiar difunto detrás; misa pendiente.
 
-## Orishas y ewe
+## Orishas y ámbitos
 
-- Orishas que suelen hablar aquí: Ochún, Oshosi, Orunmila
-- Ewe / prohibiciones citadas en el habla del tratado: ver cuaderno de casa
+- Orishas: Ochún, Oshosi, Orunmila
+- Ámbitos: dinero dulce, río, amor, embarazo
 
-## Hijos de esta familia (Omolúo)
+## Preguntas para el ita (no para sustituirlo)
 
-Ver índice: [[domains/ifa/indexes/BY-FAMILY]] · padre [[domains/ifa/indexes/FULL-LIST]]
+- ¿Le está mintiendo al río?
+- ¿Hay un secreto de pareja o de dinero?
 
-- [[omoluo/oshe-ogbe|Oshe Ogbe]]
-- [[omoluo/oshe-oyekun|Oshe Oyekun]]
-- [[omoluo/oshe-iwori|Oshe Iwori]]
-- [[omoluo/oshe-odi|Oshe Odi]]
-- [[omoluo/oshe-iroso|Oshe Iroso]]
-- [[omoluo/oshe-ojuani|Oshe Ojuani]]
-- [[omoluo/oshe-obara|Oshe Obara]]
-- [[omoluo/oshe-okana|Oshe Okana]]
-- [[omoluo/oshe-ogunda|Oshe Ogunda]]
-- [[omoluo/oshe-osa|Oshe Osa]]
-- [[omoluo/oshe-ika|Oshe Ika]]
-- [[omoluo/oshe-otrupon|Oshe Otrupon]]
-- [[omoluo/oshe-otura|Oshe Otura]]
-- [[omoluo/oshe-irete|Oshe Irete]]
-- [[meji/oshe-meyi|Oshe Oshe]]
-- [[omoluo/oshe-ofun|Oshe Ofun]]
+## Familia — 15 hijos
 
-## Relaciones
+- [[oshe-ogbe|Oshe Ogbe]]
+- [[oshe-oyekun|Oshe Oyekun]]
+- [[oshe-iwori|Oshe Iwori]]
+- [[oshe-odi|Oshe Odi]]
+- [[oshe-iroso|Oshe Iroso]]
+- [[oshe-ojuani|Oshe Ojuani]]
+- [[oshe-obara|Oshe Obara]]
+- [[oshe-okana|Oshe Okana]]
+- [[oshe-ogunda|Oshe Ogunda]]
+- [[oshe-osa|Oshe Osa]]
+- [[oshe-ika|Oshe Ika]]
+- [[oshe-otrupon|Oshe Otrupon]]
+- [[oshe-otura|Oshe Otura]]
+- [[oshe-irete|Oshe Irete]]
+- [[oshe-ofun|Oshe Ofun]]
 
-- Anterior: [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]]
-- Siguiente: [[domains/ifa/entries/meji/ofun-meyi|Ofun Meyi (Oragun)]]
-- Comparar con: ver [[domains/ifa/relationships/GRAPH]]
+## Relacionados
 
-## Espacio de trabajo del awó / santero
+- Anterior: [[irete-meyi|Irete Meyi]]
+- Siguiente: [[ofun-meyi|Ofun Meyi (Oragun)]]
+- Inversos y cruces: [[FULL-LIST]] · [[BY-FAMILY]]
+- Compendio: [[COMPENDIO]]
 
-- Rezos, suyeres y patakines completos viven en el cuaderno de linaje, no en este vault.
-- Anota aquí solo lo que tu casa autorice: ita personal, ebó ya realizado, fecha.
+## Registro de casa
 
-### Registro
-
-- Fecha de salida:
-- Ire / osogbo marcado:
-- Ebó indicado por el sacerdote:
+- Fecha en que salió:
+- Ire / osogbo:
+- Ebó que indicó el sacerdote:
 - Cumplido:
-
-## Agent notes
-
-No inventar ebó ni dosis. Si el usuario describe urgencia médica (pecho, ahogo, ideación suicida, embarazo con sangrado) se corta la analogía y se pide ayuda profesional. Ifá no sustituye urgencias.

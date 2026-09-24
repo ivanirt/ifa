@@ -47,7 +47,18 @@ export function Ekele({
 }) {
   return (
     <div className={`relative mx-auto w-full max-w-[220px] ${throwing ? "animate-throw" : ""}`}>
-      <div className="rounded-sm border border-[#EADBCE] bg-white px-6 py-5">
+      <div className="rounded-sm border border-[#EADBCE] bg-white px-6 pb-5 pt-3">
+        <div className="mb-0 flex justify-center" aria-hidden>
+          <svg viewBox="0 0 28 18" className="h-5 w-7 text-[#C4A574]">
+            <path
+              d="M14 1 V17 M5 7 H23"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2.4"
+              strokeLinecap="square"
+            />
+          </svg>
+        </div>
         <div className="grid grid-cols-2 gap-x-8">
           <div className="flex flex-col items-center">
             {left.map((closed, i) => (

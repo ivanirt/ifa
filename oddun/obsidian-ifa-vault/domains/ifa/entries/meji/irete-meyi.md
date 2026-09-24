@@ -1,28 +1,42 @@
 ---
-type: Odu-Meji
+type: oddun
+clase: meji
 title: Irete Meyi
 slug: irete-meyi
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Irete Meyi
 n: 14
-class: [meji, oju-odu]
-sphere: [pie, exilio, navaja, eggun, pacto]
+familia: Irete
+aliases: [Irete Meyi, Irete Meji, Ìretè Méjì, Irete Meyi, Irete]
+tags: [ifa, oddun, meji, familia/irete]
 orishas: [Shangó, Oggún, Oyá, Eggun]
-aliases: [Irete Meyi, Ìretè Méjì, Irete Meyi]
+temas: [pie, exilio, navaja, pacto, eggun]
+consulta: true
+patakies:
+  - "[[Aconteció una vez que Olofin queriendo probar a]]"
+  - "[[COMO ODU SE CONVIRTIÓ EN LA ESPOSA DE ORUNMILA]]"
+  - "[[Como Orúmila libró la batalla por la prosperidad de]]"
+  - "[[de Irete Kutan]]"
+  - "[[de Irete Logbe]]"
+  - "[[de Irete Yekun]]"
+  - "[[En este de signo Irete Meji se abolió]]"
+  - "[[En este Ifa nació la fuerza de las]]"
+  - "[[Este es el Ifá donde los Deidades le]]"
+  - "[[IRETE KUTAN fue el primer hombre que en]]"
+  - "[[TO MO MI, TO NA GA; TO MA MO MI, TO NA KU]]"
+
 ---
 
-# Irete Meyi
+# 14. Irete Meyi
 
-> Mapa de literatura tradicional para vault. No es consulta de Ifá, ni ebó prescrito, ni reimpresión del tratado.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Lucumí:** Irete Meyi · **Yoruba:** Ìretè Méjì · **Familia:** Irete · **Seniority:** 14/16
+**Buscar en Obsidian:** `Irete Meyi` · `Irete` · `Ìretè Méjì`
+**Familia:** Irete · **Seniority:** 14/16 · **Yoruba:** Ìretè Méjì
+
+## Consulta rápida
+
+El pie pisa el destino. Caídas, lágrimas, golpes en brazos y piernas. Lo pactado con los viejos no se esconde. Un asunto muerto puede resucitar si se cumple el trato.
+
+Tono: *pie que pisa destino, destierro, navaja, pacto con eggun*.
 
 ## Marca
 
@@ -33,75 +47,79 @@ II
 II
 ```
 
-Notación de cuaderno: `II / II / II / II`. El trazo ritual lo da el babalawo en el tablero o el santero en el dilogún; esta nota no sustituye esa mano.
+Cuaderno: `II / 00 / II / II`. El trazo lo hace quien tira, no esta nota.
 
-Dilogún / cierre aproximado: caminos de Irete / pie que pisa.
+## En este odun nace
 
-## Lo que nace en este oddun
+- La barbería; tijera y navaja del babalawo en kariosha.
+- Que Ikú y eggun coman cárnea.
+- El destierro y la resurrección de lo dado por muerto.
+- Que Oggué viva en la batea de Shangó.
 
-- La barbería; que en kariosha el babalawo use primero la tijera y la navaja.
-- Que Ikú y Eggun coman cárnea.
-- La brutalidad del ologún; que Oyá lleve guadaña.
-- El destierro y el exilio; la resurrección de los muertos.
-- Gallos y pollones en sacrificio; que Oggué viva dentro de la batea de Shangó.
+## Rezo
 
-## Keynotes
+- Rezo de linaje de Irete; se nombra a Shangó, Oggún y Oyá.
+- Lo pactado con los viejos se dice en el rezo, no se esconde.
 
-- El pie que pisa destino. Caídas, lágrimas, lesión en brazos y piernas.
-- Olofin y los viejos: crías, yeguas, cabeza que no se corta si se cumple lo pactado.
+## Dice Ifá
 
-## Ire (cuando el camino abre)
+- El pie pisa destino: caídas, lágrimas, golpe en brazos y piernas.
+- Olofin y los viejos: la cría pactada no se niega.
+- Un asunto muerto puede resucitar si se cumple el trato.
 
-- Resurrección de un asunto dado por muerto. Oficio de navaja (cirujano, barbero, iniciador).
+## Lista de patakies
+
+- Olofin, los viejos y las yeguas que no se entregan.
+- El caballo que no paría y el hijo del viejo que llora.
+
+
+## Ire
+
+- Oficio de navaja (iniciar, cortar, operar).
+- Regreso del exilio.
 
 ## Osogbo / cautelas
 
-- Exilio. Golpe. Lo que se pactó y no se entregó.
+- Exilio; golpe; pacto incumplido.
 
-## Orishas y ewe
+## Orishas y ámbitos
 
-- Orishas que suelen hablar aquí: Shangó, Oggún, Oyá, Eggun
-- Ewe / prohibiciones citadas en el habla del tratado: ver cuaderno de casa
+- Orishas: Shangó, Oggún, Oyá, Eggun
+- Ámbitos: pies, exilio, pacto, navaja
 
-## Hijos de esta familia (Omolúo)
+## Preguntas para el ita (no para sustituirlo)
 
-Ver índice: [[domains/ifa/indexes/BY-FAMILY]] · padre [[domains/ifa/indexes/FULL-LIST]]
+- ¿Dónde está pisando sin mirar?
+- ¿Qué pacto con un viejo o un muerto está abierto?
 
-- [[omoluo/irete-ogbe|Irete Ogbe]]
-- [[omoluo/irete-oyekun|Irete Oyekun]]
-- [[omoluo/irete-iwori|Irete Iwori]]
-- [[omoluo/irete-odi|Irete Odi]]
-- [[omoluo/irete-iroso|Irete Iroso]]
-- [[omoluo/irete-ojuani|Irete Ojuani]]
-- [[omoluo/irete-obara|Irete Obara]]
-- [[omoluo/irete-okana|Irete Okana]]
-- [[omoluo/irete-ogunda|Irete Ogunda]]
-- [[omoluo/irete-osa|Irete Osa]]
-- [[omoluo/irete-ika|Irete Ika]]
-- [[omoluo/irete-otrupon|Irete Otrupon]]
-- [[omoluo/irete-otura|Irete Otura]]
-- [[meji/irete-meyi|Irete Irete]]
-- [[omoluo/irete-oshe|Irete Oshe]]
-- [[omoluo/irete-ofun|Irete Ofun]]
+## Familia — 15 hijos
 
-## Relaciones
+- [[irete-ogbe|Irete Ogbe]]
+- [[irete-oyekun|Irete Oyekun]]
+- [[irete-iwori|Irete Iwori]]
+- [[irete-odi|Irete Odi]]
+- [[irete-iroso|Irete Iroso]]
+- [[irete-ojuani|Irete Ojuani]]
+- [[irete-obara|Irete Obara]]
+- [[irete-okana|Irete Okana]]
+- [[irete-ogunda|Irete Ogunda]]
+- [[irete-osa|Irete Osa]]
+- [[irete-ika|Irete Ika]]
+- [[irete-otrupon|Irete Otrupon]]
+- [[irete-otura|Irete Otura]]
+- [[irete-oshe|Irete Oshe]]
+- [[irete-ofun|Irete Ofun]]
 
-- Anterior: [[domains/ifa/entries/meji/otura-meyi|Otura Meyi]]
-- Siguiente: [[domains/ifa/entries/meji/oshe-meyi|Oshe Meyi]]
-- Comparar con: ver [[domains/ifa/relationships/GRAPH]]
+## Relacionados
 
-## Espacio de trabajo del awó / santero
+- Anterior: [[otura-meyi|Otura Meyi]]
+- Siguiente: [[oshe-meyi|Oshe Meyi]]
+- Inversos y cruces: [[FULL-LIST]] · [[BY-FAMILY]]
+- Compendio: [[COMPENDIO]]
 
-- Rezos, suyeres y patakines completos viven en el cuaderno de linaje, no en este vault.
-- Anota aquí solo lo que tu casa autorice: ita personal, ebó ya realizado, fecha.
+## Registro de casa
 
-### Registro
-
-- Fecha de salida:
-- Ire / osogbo marcado:
-- Ebó indicado por el sacerdote:
+- Fecha en que salió:
+- Ire / osogbo:
+- Ebó que indicó el sacerdote:
 - Cumplido:
-
-## Agent notes
-
-No inventar ebó ni dosis. Si el usuario describe urgencia médica (pecho, ahogo, ideación suicida, embarazo con sangrado) se corta la analogía y se pide ayuda profesional. Ifá no sustituye urgencias.

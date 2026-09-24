@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Osa Ika
 slug: osa-ika
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Osa Ika
-family: Osa
-right: Osa
-left: Ika
-class: [omoluo, odu-compuesto]
-parent_meji: [[osa-meyi]]
-second_meji: [[ika-meyi]]
+n: 161
+familia: Osa
+padre: Osa
+segundo: Ika
+aliases: [Osa Ika, Osa Meyi Ika, osa ika]
+tags: [ifa, oddun, omoluo, familia/osa, cruce/ika]
+orishas: [Oyá, Eggun, Shangó, Ikú, Oggún, Orunmila, Eshú]
+temas: [viento, cambio, oyá, soberbia, oficio, humildad]
+consulta: true
 ---
 
-# Osa Ika
+# 161. Osa Ika
 
-> Hijo de Osa con Ika. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]] (10)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/ika-meyi|Ika Meyi]] (11)
+**Buscar en Obsidian:** `Osa Ika` · `Osa Ika` · `osa-ika`
+**Padre:** [[osa-meyi|Osa Meyi]] (10) · **Segundo:** [[ika-meyi|Ika Meyi]] (11) · **Inverso:** [[ika-osa|Ika Osa]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Osa Ika** es Osa Meyi cruzado con Ika Meyi. El padre Osa entra como viento, muda la casa y enciende a los muertos. El segundo pie Ika tuerce el dedo soberbio y exige oficio real. Se lee primero [[osa-meyi|Osa Meyi]] (tono) y después [[ika-meyi|Ika Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[ika-osa|Ika Osa]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/ika-meyi|Ika Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- Los siete días del asentamiento de Osha en el igbodún.
+- La humildad que corrige la soberbia.
+- Cruce Osa × Ika: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: viento, oyá, eggun × soberbia, oficio, hermanos
-- Orishas a tener en cuenta: Oyá, Eggun, Shangó, Ikú, Oggún, Orunmila, Eshú
+- Rezo de linaje de Osa Ika (anotar el texto que canta su casa).
+- Se invoca primero el padre Osa y se cierra con Ika.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Vino porque quiere ir a un lugar; el camino trae dinero y Shangó detrás.
+- Cinco hermanos y uno solo quiere oficio: ese carga el saco.
+- Lea el ire de Osa *a través* de Ika: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Ika Osa.
+
+## Lista de patakies
+
+- El rey curandero, dueño de la muerte.
+- Ika y los cinco hermanos: el saco al hombro y las herramientas de Oggún.
+- Historias de la casa donde Osa se encuentra con Ika: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Osa (Cambio de suerte si se da de comer a la puerta) llega *a través* de Ika.
+- Se sostiene si se respeta lo que pide Oggún y Oyá.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Pelea de pareja; maldiciones; aborto.
+- Cautela del segundo: Querer riqueza sin oficio.
+- Cruce típico: cambio + cementerio se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Oyá, Eggun, Shangó, Ikú, Oggún, Orunmila, Eshú
+- Ámbitos: cambio, cementerio, oficio, hermanos
+- Temas: viento, cambio, oyá, soberbia, oficio, humildad
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Qué viento está empujando la mudanza?
+- ¿Dónde está fingiendo un oficio que no tiene?
+- ¿Este asunto es más de Osa (tono) o de Ika (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[osa-meyi|Osa Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[ika-meyi|Ika Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[ika-osa|Ika Osa]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Osa
 
-- Padre: [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/ika-osa|Ika Osa]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[osa-ogbe|Osa Ogbe]] · [[osa-oyekun|Osa Oyekun]] · [[osa-iwori|Osa Iwori]] · [[osa-odi|Osa Odi]] · [[osa-iroso|Osa Iroso]] · [[osa-ojuani|Osa Ojuani]] · [[osa-obara|Osa Obara]] · [[osa-okana|Osa Okana]] · [[osa-ogunda|Osa Ogunda]] · [[osa-ika|Osa Ika]] · [[osa-otrupon|Osa Otrupon]] · [[osa-otura|Osa Otura]] · [[osa-irete|Osa Irete]] · [[osa-oshe|Osa Oshe]] · [[osa-ofun|Osa Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

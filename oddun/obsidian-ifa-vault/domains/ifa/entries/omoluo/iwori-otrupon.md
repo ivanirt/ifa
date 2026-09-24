@@ -1,76 +1,98 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Iwori Otrupon
 slug: iwori-otrupon
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Iwori Otrupon
-family: Iwori
-right: Iwori
-left: Otrupon
-class: [omoluo, odu-compuesto]
-parent_meji: [[iwori-meyi]]
-second_meji: [[otrupon-meyi]]
+n: 57
+familia: Iwori
+padre: Iwori
+segundo: Otrupon
+aliases: [Iwori Otrupon, Iwori Meyi Otrupon, iwori otrupon]
+tags: [ifa, oddun, omoluo, familia/iwori, cruce/otrupon]
+orishas: [Orunmila, Olofin, Olokun, Eleguá, Babalú Ayé, Osain, Eggun]
+temas: [ojo, investigación, sangre, enfermedad, humildad, ciclo]
+consulta: true
+patakies:
+  - "[[Este es el signo que les apareció a]]"
+  - "[[XLA vivió en AGBODO]]"
+
 ---
 
-# Iwori Otrupon
+# 057. Iwori Otrupon
 
-> Hijo de Iwori con Otrupon. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/iwori-meyi|Iwori Meyi]] (3)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/otrupon-meyi|Otrupon Meyi]] (12)
+**Buscar en Obsidian:** `Iwori Otrupon` · `Iwori Otrupon` · `iwori-otrupon`
+**Padre:** [[iwori-meyi|Iwori Meyi]] (3) · **Segundo:** [[otrupon-meyi|Otrupon Meyi]] (12) · **Inverso:** [[otrupon-iwori|Otrupon Iwori]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Iwori Otrupon** es Iwori Meyi cruzado con Otrupon Meyi. El padre Iwori obliga a mirar adentro, investigar y no firmar a ciegas. El segundo pie Otrupon enferma para enseñar y sube lo que estaba abajo. Se lee primero [[iwori-meyi|Iwori Meyi]] (tono) y después [[otrupon-meyi|Otrupon Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[otrupon-iwori|Otrupon Iwori]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/iwori-meyi|Iwori Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/otrupon-meyi|Otrupon Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- La letra del año.
+- La enfermedad que enseña.
+- Cruce Iwori × Otrupon: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: investigacion, sangre, justicia × enfermedad, humildad, justicia
-- Orishas a tener en cuenta: Orunmila, Olofin, Olokun, Eleguá, Babalú Ayé, Osain, Eggun
+- Rezo de linaje de Iwori Otrupon (anotar el texto que canta su casa).
+- Se invoca primero el padre Iwori y se cierra con Otrupon.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Se le sube la sangre a la cabeza; haga días de bajar costumbres.
+- Hija de Santa Bárbara: Shangó persigue; la fortuna puede traer lío de justicia.
+- Lea el ire de Iwori *a través* de Otrupon: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Otrupon Iwori.
+
+## Lista de patakies
+
+- Los ricos acusan a Olokun ante Olofin; Eure Meyi y las dos lerí en el camino.
+- Los que van arriba y los que van abajo.
+- Historias de la casa donde Iwori se encuentra con Otrupon: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Iwori (Dinero que llega si se cubre la cabeza y se cumple lo prometido) llega *a través* de Otrupon.
+- Se sostiene si se respeta lo que pide Babalú Ayé y Orunmila.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Herencia tramposa; empleo inseguro; sangre a la cabeza.
+- Cautela del segundo: Candela, robo, no tomar lo tapado.
+- Cruce típico: papeles + estudio se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Orunmila, Olofin, Olokun, Eleguá, Babalú Ayé, Osain, Eggun
+- Ámbitos: papeles, estudio, cuerpo, vergüenza
+- Temas: ojo, investigación, sangre, enfermedad, humildad, ciclo
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Qué no ha querido mirar de frente?
+- ¿Qué enfermedad está dando clase?
+- ¿Este asunto es más de Iwori (tono) o de Otrupon (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[iwori-meyi|Iwori Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[otrupon-meyi|Otrupon Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[otrupon-iwori|Otrupon Iwori]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Iwori
 
-- Padre: [[domains/ifa/entries/meji/iwori-meyi|Iwori Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/otrupon-iwori|Otrupon Iwori]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[iwori-ogbe|Iwori Bogbe]] · [[iwori-oyekun|Iwori Oyekun]] · [[iwori-odi|Iwori Odi]] · [[iwori-iroso|Iwori Iroso]] · [[iwori-ojuani|Iwori Ojuani]] · [[iwori-obara|Iwori Obara]] · [[iwori-okana|Iwori Okana]] · [[iwori-ogunda|Iwori Ogunda]] · [[iwori-osa|Iwori Osa]] · [[iwori-ika|Iwori Ika]] · [[iwori-otrupon|Iwori Otrupon]] · [[iwori-otura|Iwori Otura]] · [[iwori-irete|Iwori Irete]] · [[iwori-oshe|Iwori Oshe]] · [[iwori-ofun|Iwori Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

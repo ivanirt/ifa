@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Irete Ojuani
 slug: irete-ojuani
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Irete Ojuani
-family: Irete
-right: Irete
-left: Ojuani
-class: [omoluo, odu-compuesto]
-parent_meji: [[irete-meyi]]
-second_meji: [[ojuani-meyi]]
+n: 217
+familia: Irete
+padre: Irete
+segundo: Ojuani
+aliases: [Irete Ojuani, Irete Meyi Ojuani, irete ojuani]
+tags: [ifa, oddun, omoluo, familia/irete, cruce/ojuani]
+orishas: [Shangó, Oggún, Oyá, Eggun, Babalú Ayé, Eshú]
+temas: [pie, exilio, navaja, vuelco, envidia, revolución]
+consulta: true
 ---
 
-# Irete Ojuani
+# 217. Irete Ojuani
 
-> Hijo de Irete con Ojuani. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]] (14)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/ojuani-meyi|Ojuani Meyi]] (6)
+**Buscar en Obsidian:** `Irete Ojuani` · `Irete Ojuani` · `irete-ojuani`
+**Padre:** [[irete-meyi|Irete Meyi]] (14) · **Segundo:** [[ojuani-meyi|Ojuani Meyi]] (6) · **Inverso:** [[ojuani-irete|Ojuani Irete]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Irete Ojuani** es Irete Meyi cruzado con Ojuani Meyi. El padre Irete hace pisar el destino, destierra o resucita un pacto. El segundo pie Ojuani voltea el tablero, despierta envidia y cambia de color. Se lee primero [[irete-meyi|Irete Meyi]] (tono) y después [[ojuani-meyi|Ojuani Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[ojuani-irete|Ojuani Irete]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/ojuani-meyi|Ojuani Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- La barbería; tijera y navaja del babalawo en kariosha.
+- Los arayes.
+- Cruce Irete × Ojuani: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: pie, exilio, navaja × revolucion, envidia, babalu
-- Orishas a tener en cuenta: Shangó, Oggún, Oyá, Eggun, Babalú Ayé, Eshú, el camaleón (itá)
+- Rezo de linaje de Irete Ojuani (anotar el texto que canta su casa).
+- Se invoca primero el padre Irete y se cierra con Ojuani.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- El pie pisa destino: caídas, lágrimas, golpe en brazos y piernas.
+- Piensa irse y no puede levantar cabeza hasta la rogación.
+- Lea el ire de Irete *a través* de Ojuani: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Ojuani Irete.
+
+## Lista de patakies
+
+- Olofin, los viejos y las yeguas que no se entregan.
+- El camaleón que quiere matar al perro por el color del collar.
+- Historias de la casa donde Irete se encuentra con Ojuani: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Irete (Oficio de navaja (iniciar, cortar, operar)) llega *a través* de Ojuani.
+- Se sostiene si se respeta lo que pide Babalú Ayé y Shangó.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Exilio; golpe; pacto incumplido.
+- Cautela del segundo: Celos entre religiosos.
+- Cruce típico: pies + exilio se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Shangó, Oggún, Oyá, Eggun, Babalú Ayé, Eshú
+- Ámbitos: pies, exilio, mudanza, envidia
+- Temas: pie, exilio, navaja, vuelco, envidia, revolución
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Dónde está pisando sin mirar?
+- ¿A quién le envidia el color?
+- ¿Este asunto es más de Irete (tono) o de Ojuani (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[irete-meyi|Irete Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[ojuani-meyi|Ojuani Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[ojuani-irete|Ojuani Irete]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Irete
 
-- Padre: [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/ojuani-irete|Ojuani Irete]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[irete-ogbe|Irete Ogbe]] · [[irete-oyekun|Irete Oyekun]] · [[irete-iwori|Irete Iwori]] · [[irete-odi|Irete Odi]] · [[irete-iroso|Irete Iroso]] · [[irete-ojuani|Irete Ojuani]] · [[irete-obara|Irete Obara]] · [[irete-okana|Irete Okana]] · [[irete-ogunda|Irete Ogunda]] · [[irete-osa|Irete Osa]] · [[irete-ika|Irete Ika]] · [[irete-otrupon|Irete Otrupon]] · [[irete-otura|Irete Otura]] · [[irete-oshe|Irete Oshe]] · [[irete-ofun|Irete Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

@@ -22,5 +22,6 @@ COPY --from=builder /app/.next/static ./.next/static
 COPY --from=builder /app/public ./public
 COPY --from=builder /app/dafa ./dafa
 COPY --from=builder /app/oddun ./oddun
+COPY --from=builder /app/patakies ./patakies
 EXPOSE 3000
 CMD ["node", "server.js"]

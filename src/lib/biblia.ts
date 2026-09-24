@@ -10,6 +10,7 @@ export type BibliaRecord = {
   keyAspects: string[];
   orishas: string[];
   sayings: string[];
+  sayingsMd: string;
   element: string;
 };
 
@@ -61,7 +62,7 @@ function fold(s: string): string {
     .replace(/[^a-z]/g, "");
 }
 
-function asLeg(token: string): LegId | null {
+export function asLeg(token: string): LegId | null {
   const f = fold(token);
   if (!f) return null;
   if ((LEGS as readonly string[]).includes(f)) return f as LegId;
@@ -212,11 +213,12 @@ export function loadBiblia(): Record<string, BibliaRecord> {
     map[slug] = {
       slug,
       title: typeof data.title === "string" ? data.title : slug,
-      essence: stripMd(sectionByStart(body, "1\\. Esencia")).replace(/\s*-{2,}\s*$/, ""),
+      essence: sectionByStart(body, "1\\. Esencia").replace(/\s*-{2,}\s*$/, "").trim(),
       bodyParts: bodyParts.length ? bodyParts : fromMd.bodyParts,
       keyAspects: keyAspects.length ? keyAspects : fromMd.keyAspects,
       orishas: listField(data, "orishas_asociados").map((s) => s.replace(/\[\[|\]\]/g, "")),
       sayings: bullets(sectionByStart(body, "3\\. Refranes")).filter((s) => s !== "--"),
+      sayingsMd: sectionByStart(body, "3\\. Refranes").replace(/\s*-{2,}\s*$/, "").trim(),
       element: typeof data.elemento === "string" ? data.elemento : "",
     };
   }

@@ -1,76 +1,109 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Otrupon Iroso
 slug: otrupon-iroso
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Otrupon Iroso
-family: Otrupon
-right: Otrupon
-left: Iroso
-class: [omoluo, odu-compuesto]
-parent_meji: [[otrupon-meyi]]
-second_meji: [[iroso-meyi]]
+n: 186
+familia: Otrupon
+padre: Otrupon
+segundo: Iroso
+aliases: [Otrupon Iroso, Otrupon Meyi Iroso, otrupon iroso]
+tags: [ifa, oddun, omoluo, familia/otrupon, cruce/iroso]
+orishas: [Babalú Ayé, Osain, Eggun, Olokun, Shangó, Obatalá, Osún]
+temas: [enfermedad, humildad, ciclo, sangre, memoria]
+consulta: true
+patakies:
+  - "[[de Iroso Umbo]]"
+  - "[[Dice Ifa que en este signo Orunmila vivía]]"
+  - "[[Dice Ifa que era una nación que le]]"
+  - "[[Dios que IFA muestra en el país de]]"
+  - "[[El camino de Abita]]"
+  - "[[En el pueblo de Pobe vivía un Awo]]"
+  - "[[Fuego y Lluvia pelearon por una mujer]]"
+  - "[[Había un Awo que tenia a un ahijado]]"
+  - "[[Había una vez un matrimonio cuyo hombre era]]"
+  - "[[Iroso Meji LosoJime Es el signo que encontró]]"
+  - "[[La nuez de palma Sede invitó a IFA]]"
+  - "[[Metalofi encontró este signo cuando no tenia niños]]"
+  - "[[Pataki]]"
+
 ---
 
-# Otrupon Iroso
+# 186. Otrupon Iroso
 
-> Hijo de Otrupon con Iroso. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/otrupon-meyi|Otrupon Meyi]] (12)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/iroso-meyi|Iroso Meyi]] (5)
+**Buscar en Obsidian:** `Otrupon Iroso` · `Otrupon Iroso` · `otrupon-iroso`
+**Padre:** [[otrupon-meyi|Otrupon Meyi]] (12) · **Segundo:** [[iroso-meyi|Iroso Meyi]] (5) · **Inverso:** [[iroso-otrupon|Iroso Otrupon]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Otrupon Iroso** es Otrupon Meyi cruzado con Iroso Meyi. El padre Otrupon enferma para enseñar y sube lo que estaba abajo. El segundo pie Iroso trae sangre, memoria, lágrima y riesgo de trampa. Se lee primero [[otrupon-meyi|Otrupon Meyi]] (tono) y después [[iroso-meyi|Iroso Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[iroso-otrupon|Iroso Otrupon]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/otrupon-meyi|Otrupon Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/iroso-meyi|Iroso Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- La enfermedad que enseña.
+- La humildad.
+- Cruce Otrupon × Iroso: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: enfermedad, humildad, justicia × memoria, sangre, humildad
-- Orishas a tener en cuenta: Babalú Ayé, Osain, Eggun, Olokun, Shangó, Obatalá, Osún
+- Rezo de linaje de Otrupon Iroso (anotar el texto que canta su casa).
+- Se invoca primero el padre Otrupon y se cierra con Iroso.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Hija de Santa Bárbara: Shangó persigue; la fortuna puede traer lío de justicia.
+- Sueño con guacalote y collar colorado: cuidado con la candela.
+- Lea el ire de Otrupon *a través* de Iroso: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Iroso Otrupon.
+
+## Lista de patakies
+
+- Los que van arriba y los que van abajo.
+- El babalawo, la hija del rey y la prenda que Awóle devuelve.
+- Historias de la casa donde Otrupon se encuentra con Iroso: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Otrupon (Cura cuando cesa la vergüenza) llega *a través* de Iroso.
+- Se sostiene si se respeta lo que pide Shangó y Babalú Ayé.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Candela, robo, no tomar lo tapado.
+- Cautela del segundo: Trampa en el puesto o en el campo.
+- Cruce típico: cuerpo + vergüenza se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Babalú Ayé, Osain, Eggun, Olokun, Shangó, Obatalá, Osún
+- Ámbitos: cuerpo, vergüenza, salud de la vista, memoria
+- Temas: enfermedad, humildad, ciclo, sangre, memoria
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Qué enfermedad está dando clase?
+- ¿Qué no quiere recordar?
+- ¿Este asunto es más de Otrupon (tono) o de Iroso (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[otrupon-meyi|Otrupon Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[iroso-meyi|Iroso Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[iroso-otrupon|Iroso Otrupon]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Otrupon
 
-- Padre: [[domains/ifa/entries/meji/otrupon-meyi|Otrupon Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/iroso-otrupon|Iroso Otrupon]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[otrupon-ogbe|Otrupon Ogbe]] · [[otrupon-oyekun|Otrupon Oyekun]] · [[otrupon-iwori|Otrupon Iwori]] · [[otrupon-odi|Otrupon Odi]] · [[otrupon-iroso|Otrupon Iroso]] · [[otrupon-ojuani|Otrupon Ojuani]] · [[otrupon-obara|Otrupon Obara]] · [[otrupon-okana|Otrupon Okana]] · [[otrupon-ogunda|Otrupon Ogunda]] · [[otrupon-osa|Otrupon Osa]] · [[otrupon-ika|Otrupon Ika]] · [[otrupon-otura|Otrupon Otura]] · [[otrupon-irete|Otrupon Irete]] · [[otrupon-oshe|Otrupon Oshe]] · [[otrupon-ofun|Otrupon Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

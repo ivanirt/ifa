@@ -1,28 +1,29 @@
 ---
-type: Odu-Meji
+type: oddun
+clase: meji
 title: Otrupon Meyi
 slug: otrupon-meyi
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Otrupon Meyi
 n: 12
-class: [meji, oju-odu]
-sphere: [enfermedad, humildad, justicia, ciclos]
+familia: Otrupon
+aliases: [Otrupon Meyi, Oturupon Meji, Otrupo Meyi, Oturúpọ̀n Méjì, Otrupon Meyi, Otrupon]
+tags: [ifa, oddun, meji, familia/otrupon]
 orishas: [Babalú Ayé, Osain, Eggun, Olokun]
-aliases: [Otrupon Meyi, Oturúpọ̀n Méjì, Otrupon Meyi]
+temas: [enfermedad, humildad, ciclo, medicina, vergüenza]
+consulta: true
 ---
 
-# Otrupon Meyi
+# 12. Otrupon Meyi
 
-> Mapa de literatura tradicional para vault. No es consulta de Ifá, ni ebó prescrito, ni reimpresión del tratado.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Lucumí:** Otrupon Meyi · **Yoruba:** Oturúpọ̀n Méjì · **Familia:** Otrupon · **Seniority:** 12/16
+**Buscar en Obsidian:** `Otrupon Meyi` · `Otrupon` · `Oturúpọ̀n Méjì`
+**Familia:** Otrupon · **Seniority:** 12/16 · **Yoruba:** Oturúpọ̀n Méjì
+
+## Consulta rápida
+
+Lo que se pudre abona. Vergüenza del cuerpo que se suelta cuando se acepta el tratamiento. Los de arriba bajan y los de abajo suben. Hija de Santa Bárbara: Shangó persigue, la fortuna trae lío.
+
+Tono: *enfermedad que enseña, lo que se pudre para abonar, sube y baja*.
 
 ## Marca
 
@@ -33,76 +34,79 @@ II
 00
 ```
 
-Notación de cuaderno: `II / 00 / II / 00`. El trazo ritual lo da el babalawo en el tablero o el santero en el dilogún; esta nota no sustituye esa mano.
+Cuaderno: `II / 00 / II / 00`. El trazo lo hace quien tira, no esta nota.
 
-Dilogún / cierre aproximado: 12 (Eyila) en algunos cierres; putrefacción / medicina.
-
-## Lo que nace en este oddun
+## En este odun nace
 
 - La enfermedad que enseña.
 - Lo que se pudre para abonar.
-- El destierro y el que vuelve con medicina.
+- El destierro y la medicina del que vuelve.
 
-## Keynotes
+## Rezo
 
-- Sufrimiento largo que se resuelve cuando se acepta el cuerpo y se deja la vergüenza.
-- Sube y baja: los de arriba vienen, los de abajo van — evolución del día y de la noche (imagen del tratado).
-- Hija de Santa Bárbara; Shangó persigue. Fortuna con lío de justicia.
+- Rezo de linaje de Otrupon; se pide a Babalú y a Osain sin vergüenza del cuerpo.
+- Se da luz a quienes suben y bajan.
 
-## Ire (cuando el camino abre)
+## Dice Ifá
 
-- Comprar billetes con el dinero que llega. Recibir a Orula. Preguntar a Shangó qué quiere.
+- Hija de Santa Bárbara: Shangó persigue; la fortuna puede traer lío de justicia.
+- No tome lo tapado; no haga favor que cueste la cabeza.
+- Pobreza y mano en la cabeza por nada.
+
+## Lista de patakies
+
+- Los que van arriba y los que van abajo.
+- El sombrero viejo y el lío con el hermano.
+
+
+## Ire
+
+- Cura cuando cesa la vergüenza.
+- Fortuna con tribunal si se habla claro.
 
 ## Osogbo / cautelas
 
-- Candela, robo, coja nada de lo tapado.
-- Pobreza y mano en la cabeza por nada. Sombrero viejo o prieto: lío con el hermano.
-- No tomar. No hacer favor que cueste la cabeza.
+- Candela, robo, no tomar lo tapado.
+- Favor que cuesta la cabeza.
 
-## Orishas y ewe
+## Orishas y ámbitos
 
-- Orishas que suelen hablar aquí: Babalú Ayé, Osain, Eggun, Olokun
-- Ewe / prohibiciones citadas en el habla del tratado: ver cuaderno de casa
+- Orishas: Babalú Ayé, Osain, Eggun, Olokun
+- Ámbitos: cuerpo, vergüenza, medicina, ciclos
 
-## Hijos de esta familia (Omolúo)
+## Preguntas para el ita (no para sustituirlo)
 
-Ver índice: [[domains/ifa/indexes/BY-FAMILY]] · padre [[domains/ifa/indexes/FULL-LIST]]
+- ¿Qué enfermedad está dando clase?
+- ¿Qué sube y baja en su casa?
 
-- [[omoluo/otrupon-ogbe|Otrupon Ogbe]]
-- [[omoluo/otrupon-oyekun|Otrupon Oyekun]]
-- [[omoluo/otrupon-iwori|Otrupon Iwori]]
-- [[omoluo/otrupon-odi|Otrupon Odi]]
-- [[omoluo/otrupon-iroso|Otrupon Iroso]]
-- [[omoluo/otrupon-ojuani|Otrupon Ojuani]]
-- [[omoluo/otrupon-obara|Otrupon Obara]]
-- [[omoluo/otrupon-okana|Otrupon Okana]]
-- [[omoluo/otrupon-ogunda|Otrupon Ogunda]]
-- [[omoluo/otrupon-osa|Otrupon Osa]]
-- [[omoluo/otrupon-ika|Otrupon Ika]]
-- [[meji/otrupon-meyi|Otrupon Otrupon]]
-- [[omoluo/otrupon-otura|Otrupon Otura]]
-- [[omoluo/otrupon-irete|Otrupon Irete]]
-- [[omoluo/otrupon-oshe|Otrupon Oshe]]
-- [[omoluo/otrupon-ofun|Otrupon Ofun]]
+## Familia — 15 hijos
 
-## Relaciones
+- [[otrupon-ogbe|Otrupon Ogbe]]
+- [[otrupon-oyekun|Otrupon Oyekun]]
+- [[otrupon-iwori|Otrupon Iwori]]
+- [[otrupon-odi|Otrupon Odi]]
+- [[otrupon-iroso|Otrupon Iroso]]
+- [[otrupon-ojuani|Otrupon Ojuani]]
+- [[otrupon-obara|Otrupon Obara]]
+- [[otrupon-okana|Otrupon Okana]]
+- [[otrupon-ogunda|Otrupon Ogunda]]
+- [[otrupon-osa|Otrupon Osa]]
+- [[otrupon-ika|Otrupon Ika]]
+- [[otrupon-otura|Otrupon Otura]]
+- [[otrupon-irete|Otrupon Irete]]
+- [[otrupon-oshe|Otrupon Oshe]]
+- [[otrupon-ofun|Otrupon Ofun]]
 
-- Anterior: [[domains/ifa/entries/meji/ika-meyi|Ika Meyi]]
-- Siguiente: [[domains/ifa/entries/meji/otura-meyi|Otura Meyi]]
-- Comparar con: ver [[domains/ifa/relationships/GRAPH]]
+## Relacionados
 
-## Espacio de trabajo del awó / santero
+- Anterior: [[ika-meyi|Ika Meyi]]
+- Siguiente: [[otura-meyi|Otura Meyi]]
+- Inversos y cruces: [[FULL-LIST]] · [[BY-FAMILY]]
+- Compendio: [[COMPENDIO]]
 
-- Rezos, suyeres y patakines completos viven en el cuaderno de linaje, no en este vault.
-- Anota aquí solo lo que tu casa autorice: ita personal, ebó ya realizado, fecha.
+## Registro de casa
 
-### Registro
-
-- Fecha de salida:
-- Ire / osogbo marcado:
-- Ebó indicado por el sacerdote:
+- Fecha en que salió:
+- Ire / osogbo:
+- Ebó que indicó el sacerdote:
 - Cumplido:
-
-## Agent notes
-
-No inventar ebó ni dosis. Si el usuario describe urgencia médica (pecho, ahogo, ideación suicida, embarazo con sangrado) se corta la analogía y se pide ayuda profesional. Ifá no sustituye urgencias.

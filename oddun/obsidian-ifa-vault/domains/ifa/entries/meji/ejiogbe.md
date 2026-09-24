@@ -1,28 +1,40 @@
 ---
-type: Odu-Meji
+type: oddun
+clase: meji
 title: Baba Ejiogbe
 slug: ejiogbe
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Baba Ejiogbe
 n: 1
-class: [meji, oju-odu]
-sphere: [gobierno, orí, creación, pacto-iku, justicia]
+familia: Ogbe
+aliases: [Ejiogbe, Eyiogbe, Baba Ejiogbe, Ogbe Meji, Ogbe Meyi, Èjì Ogbè, Baba Ejiogbe, Ogbe]
+tags: [ifa, oddun, meji, familia/ogbe]
 orishas: [Orunmila, Obatalá, Eleguá, Olodumare]
-aliases: [Ejiogbe, Èjì Ogbè, Ogbe Meyi]
+temas: [luz, gobierno, orí, creación, pacto]
+consulta: true
+patakies:
+  - "[[Alguien dijo mis Ojos son buenos]]"
+  - "[[AQUÍ PELEAN TRES CAMINOS TIERRA, PLAZA Y AGUA,]]"
+  - "[[Cuando este Odu sale en ceremonia de Ifa]]"
+  - "[[EJIOGBE tenía a una mujer que le dio]]"
+  - "[[Este signo fue el que le salió a]]"
+  - "[[Hay en la albuferaLago una planta pequeña flotante]]"
+  - "[[LA TRAMPA DE OLOFIN]]"
+  - "[[NU MASO ATE NA DO YA NU ME]]"
+  - "[[Una vez IFA era un personaje de color]]"
+
 ---
 
-# Baba Ejiogbe
+# 01. Baba Ejiogbe
 
-> Mapa de literatura tradicional para vault. No es consulta de Ifá, ni ebó prescrito, ni reimpresión del tratado.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Lucumí:** Ejiogbe · **Yoruba:** Èjì Ogbè · **Familia:** Ogbe · **Seniority:** 1/16
+**Buscar en Obsidian:** `Baba Ejiogbe` · `Ogbe` · `Èjì Ogbè`
+**Familia:** Ogbe · **Seniority:** 1/16 · **Yoruba:** Èjì Ogbè
+
+## Consulta rápida
+
+Primer ojo de Odù. Habla de empezar, de gobernar y de no soltar la cabeza. La suerte grande atrae envidia: el camino se sostiene con carácter, no con alarde. Tres hermanos o tres tronos; a veces hereda el que menos gritaba.
+
+Tono: *luz que abre, gobierno, cabeza, nacimiento del mundo*.
 
 ## Marca
 
@@ -33,80 +45,100 @@ aliases: [Ejiogbe, Èjì Ogbè, Ogbe Meyi]
 ||
 ```
 
-Notación de cuaderno: `I I / I I / I I / I I`. El trazo ritual lo da el babalawo en el tablero o el santero en el dilogún; esta nota no sustituye esa mano.
+Cuaderno: `I I / I I / I I / I I`. El trazo lo hace quien tira, no esta nota.
 
-Dilogún / cierre aproximado: 8 (Eyeunle) cuando cierra en meyi.
+## En este odun nace
 
-## Lo que nace en este oddun
-
-- La separación de aguas y tierras; la unidad y la lucha de contrarios.
+- Las aguas y las tierras; la unidad y la lucha de contrarios.
+- La separación, la discordia y la traición.
 - La columna, el pecho y el ita de Osha.
-- El pacto del awó con Ikú y la posibilidad de que el olúo interceda.
-- El derecho del sacerdote a un honorario justo y el omi tutu a orishas que llegan de lejos.
+- El pacto del awó con Ikú y el derecho del olúo a honorario justo.
+- El omi tutu para orishas que llegan de lejos.
 
-## Keynotes
+## Rezo
 
-- Luz, expansión, gobierno y nacimiento del mundo. Primer oddun; todo camino arranca aquí.
-- Contrarios que deben convivir: unidad / discordia, ire / osogbo.
-- Envidia sobre quien tiene suerte grande; hay que moderar el genio y no abandonar a quien un día dio suerte.
-- Cabeza (orí) como trono: no se come guanábana ni se maltrata el cráneo ritual.
-- Tres hermanos o tres caminos de gobierno; el último hijo a veces hereda lo que los mayores no supieron guardar.
+- Rezo de linaje: cantar a Orunmila / Baba Ejiogbe según el cuaderno de la casa (no se reproduce el tratado).
+- Se refresca la cabeza y se llama a Eleguá antes de pedir gobierno.
+- Cuando se invoca de lejos, se ofrece omi tutu primero.
 
-## Ire (cuando el camino abre)
+## Dice Ifá
 
-- Gobierno, riqueza que llega si se respeta a Orunmila y se da de comer a la cabeza.
-- Ángel de la guarda que cubre contra enemigos visibles.
+- Hay suerte grande y ojos puestos encima: la envidia acompaña al que se eleva.
+- Modere el genio; no abandone a quien un día le dio camino.
+- Pelea por una paz verdadera, pero alguien le trastorna los ideales.
+- Cuidado con la cintura, la espalda y con la risa que ahoga.
+- No vaya a tribunal por chisme; no salga de noche ni a velorio sin licencia.
+- Vino a gobernar y a veces huye de su propio mando: ese es el mal que no se explica.
+- Tres hermanos o tres tronos; el último puede heredar lo que los mayores no guardaron.
+- Dele de comer a la cabeza; no guanábana sobre el orí.
+
+## Lista de patakies
+
+- Orunmila no duerme: el ruido del ekute y el puesto que hay que ocupar.
+- La mujer que se va y el mal que se le sale del cuerpo cuando se le da lo justo.
+- Olofin quiere dejar la tierra y pone a Orunmila a prueba de hambre.
+- Cosobe, el fuego de Shangó y las reliquias que se recuperan con ebó.
+- El rey que pierde Ejio gbe y busca un hombre del mismo color para gobernar.
+- Ikú en casa de Orunmila: por qué el awó puede interceder por un artículo de muerte.
+- Alle y Olokun: dos mujeres, un río y la casa que se queda con Yemayá.
+- Los dos pueblos, los prisioneros y el hombre que parecía el rey muerto.
+- La hija de la montaña y los tres hábitos (blanco, colorado, negro).
+- Olofin sediento y el omi que llega tarde: por eso se da agua apenas llegan los santos.
+- El león manso, el pueblo que lo provoca y Olofin que no quiere guerra inútil.
+- La cabeza sola en la plaza y los obí del comercio.
+- Los tres hermanos (artista, cazador, comerciante) y el nombre nuevo.
+- Oshún hermana de Yemayá: el río, la unión y el palacio de la profecía.
+
+
+## Ire
+
+- Gobierno, apertura de camino, riqueza si se respeta Orunmila y el orí.
+- El ángel de la guarda cubre contra enemigos visibles.
 
 ## Osogbo / cautelas
 
-- Traición entre cercanos, chisme que llega a justicia, pérdida de empleo o de casa si no se asienta Osha.
-- Enfermedad de espalda y cintura; risa que ahoga (cuidado con la vía aérea y con la burla).
-- No salir de noche antes de que enciendan las luces; no ir a velorios ni a enfermos sin licencia.
+- Traición cercana, chisme que llega a tribunal, casa o empleo que se pierde si se desprecia Osha.
+- Espalda y cintura; no salir de noche ni a velorio sin licencia.
+- No guanábana sobre la cabeza ritual; no reírse de lo sagrado.
 
-## Orishas y ewe
+## Orishas y ámbitos
 
-- Orishas que suelen hablar aquí: Orunmila, Obatalá, Eleguá, Olodumare
-- Ewe / prohibiciones citadas en el habla del tratado: malanga (ewe ikoko), albahaca
+- Orishas: Orunmila, Obatalá, Eleguá, Olodumare
+- Ámbitos: orí, mando, inicio, casa grande
 
-## Hijos de esta familia (Omolúo)
+## Preguntas para el ita (no para sustituirlo)
 
-Ver índice: [[domains/ifa/indexes/BY-FAMILY]] · padre [[domains/ifa/indexes/FULL-LIST]]
+- ¿Está gobernando su cabeza o lo gobiernan otros?
+- ¿Hay un pacto o promesa con Orula sin cumplir?
 
-- [[meji/ejiogbe|Ogbe Ogbe]]
-- [[omoluo/ogbe-oyekun|Ogbe Oyekun]]
-- [[omoluo/ogbe-iwori|Ogbe Iwori]]
-- [[omoluo/ogbe-odi|Ogbe Odi]]
-- [[omoluo/ogbe-iroso|Ogbe Iroso]]
-- [[omoluo/ogbe-ojuani|Ogbe Ojuani]]
-- [[omoluo/ogbe-obara|Ogbe Obara]]
-- [[omoluo/ogbe-okana|Ogbe Okana]]
-- [[omoluo/ogbe-ogunda|Ogbe Ogunda]]
-- [[omoluo/ogbe-osa|Ogbe Osa]]
-- [[omoluo/ogbe-ika|Ogbe Ika]]
-- [[omoluo/ogbe-otrupon|Ogbe Otrupon]]
-- [[omoluo/ogbe-otura|Ogbe Otura]]
-- [[omoluo/ogbe-irete|Ogbe Irete]]
-- [[omoluo/ogbe-oshe|Ogbe Oshe]]
-- [[omoluo/ogbe-ofun|Ogbe Ofun]]
+## Familia — 15 hijos
 
-## Relaciones
+- [[ogbe-oyekun|Ogbe Yekun]]
+- [[ogbe-iwori|Ogbe Weñe]]
+- [[ogbe-odi|Ogbe Di]]
+- [[ogbe-iroso|Ogbe Iroso]]
+- [[ogbe-ojuani|Ogbe Ojuani]]
+- [[ogbe-obara|Ogbe Bara]]
+- [[ogbe-okana|Ogbe Kana]]
+- [[ogbe-ogunda|Ogbe Gunda]]
+- [[ogbe-osa|Ogbe Sa]]
+- [[ogbe-ika|Ogbe Ika]]
+- [[ogbe-otrupon|Ogbe Trupon]]
+- [[ogbe-otura|Ogbe Tua]]
+- [[ogbe-irete|Ogbe Rete]]
+- [[ogbe-oshe|Ogbe She]]
+- [[ogbe-ofun|Ogbe Fun]]
 
-- Anterior: — origen
-- Siguiente: [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]]
-- Comparar con: ver [[domains/ifa/relationships/GRAPH]]
+## Relacionados
 
-## Espacio de trabajo del awó / santero
+- Anterior: origen del ciclo
+- Siguiente: [[oyekun-meyi|Oyekun Meyi]]
+- Inversos y cruces: [[FULL-LIST]] · [[BY-FAMILY]]
+- Compendio: [[COMPENDIO]]
 
-- Rezos, suyeres y patakines completos viven en el cuaderno de linaje, no en este vault.
-- Anota aquí solo lo que tu casa autorice: ita personal, ebó ya realizado, fecha.
+## Registro de casa
 
-### Registro
-
-- Fecha de salida:
-- Ire / osogbo marcado:
-- Ebó indicado por el sacerdote:
+- Fecha en que salió:
+- Ire / osogbo:
+- Ebó que indicó el sacerdote:
 - Cumplido:
-
-## Agent notes
-
-No inventar ebó ni dosis. Si el usuario describe urgencia médica (pecho, ahogo, ideación suicida, embarazo con sangrado) se corta la analogía y se pide ayuda profesional. Ifá no sustituye urgencias.

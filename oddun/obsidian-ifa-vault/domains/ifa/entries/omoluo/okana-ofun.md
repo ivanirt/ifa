@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Okana Ofun
 slug: okana-ofun
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Okana Ofun
-family: Okana
-right: Okana
-left: Ofun
-class: [omoluo, odu-compuesto]
-parent_meji: [[okana-meyi]]
-second_meji: [[ofun-meyi]]
+n: 136
+familia: Okana
+padre: Okana
+segundo: Ofun
+aliases: [Okana Ofun, Okana Meyi Ofun, okana ofun]
+tags: [ifa, oddun, omoluo, familia/okana, cruce/ofun]
+orishas: [Eshú, Shangó, Ikú, Oduduwa, Obatalá, Olofin, Eggun]
+temas: [fuego, prisa, awofaka, origen, memoria, blanco]
+consulta: true
 ---
 
-# Okana Ofun
+# 136. Okana Ofun
 
-> Hijo de Okana con Ofun. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]] (8)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/ofun-meyi|Ofun Meyi (Oragun)]] (16)
+**Buscar en Obsidian:** `Okana Ofun` · `Okana Ofun` · `okana-ofun`
+**Padre:** [[okana-meyi|Okana Meyi]] (8) · **Segundo:** [[ofun-meyi|Ofun Meyi (Oragun)]] (16) · **Inverso:** [[ofun-okana|Ofun Okana]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Okana Ofun** es Okana Meyi cruzado con Ofun Meyi (Oragun). El padre Okana prende fuego corto, da prisa y pide trueque de caminos. El segundo pie Ofun devuelve al origen blanco y señala al santo desobedecido. Se lee primero [[okana-meyi|Okana Meyi]] (tono) y después [[ofun-meyi|Ofun Meyi (Oragun)]] (matiz). Si la salida se siente al revés, abra también el inverso [[ofun-okana|Ofun Okana]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/ofun-meyi|Ofun Meyi (Oragun)]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- El ikofa eshanile y el awofaka.
+- Los museos, los monstruos y la memoria.
+- Cruce Okana × Ofun: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: fuego, violencia, awofaka × origen, memoria, blanco
-- Orishas a tener en cuenta: Eshú, Shangó, Ikú, Oduduwa, Obatalá, Olofin, Eggun
+- Rezo de linaje de Okana Ofun (anotar el texto que canta su casa).
+- Se invoca primero el padre Okana y se cierra con Ofun.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Mal por dentro de una pierna; casa que se quiere desatar.
+- Ángel peleando; niño enfermo en casa — dé de comer a su ángel.
+- Lea el ire de Okana *a través* de Ofun: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Ofun Okana.
+
+## Lista de patakies
+
+- Eleguá pescando sin anzuelo y la pelea de los dueños de la canoa.
+- El santo amarrado y la desobediencia que lo tiene preso.
+- Historias de la casa donde Okana se encuentra con Ofun: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Okana (El vuelco ritual revela el ire tapado) llega *a través* de Ofun.
+- Se sostiene si se respeta lo que pide Oduduwa y Eshú.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Frijoles colorados; lengua ajena en ausencia.
+- Cautela del segundo: Desobediencia al santo.
+- Cruce típico: pelea + accidente se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Eshú, Shangó, Ikú, Oduduwa, Obatalá, Olofin, Eggun
+- Ámbitos: pelea, accidente, origen, obediencia
+- Temas: fuego, prisa, awofaka, origen, memoria, blanco
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Dónde está actuando con prisa de fuego?
+- ¿Qué origen está desobedeciendo?
+- ¿Este asunto es más de Okana (tono) o de Ofun (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[okana-meyi|Okana Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[ofun-meyi|Ofun Meyi (Oragun)]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[ofun-okana|Ofun Okana]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Okana
 
-- Padre: [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/ofun-okana|Ofun Okana]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[okana-ogbe|Okana Ogbe]] · [[okana-oyekun|Okana Oyekun]] · [[okana-iwori|Okana Iwori]] · [[okana-odi|Okana Odi]] · [[okana-iroso|Okana Iroso]] · [[okana-ojuani|Okana Ojuani]] · [[okana-obara|Okana Obara]] · [[okana-ogunda|Okana Ogunda]] · [[okana-osa|Okana Osa]] · [[okana-ika|Okana Ika]] · [[okana-otrupon|Okana Otrupon]] · [[okana-otura|Okana Otura]] · [[okana-irete|Okana Irete]] · [[okana-oshe|Okana Oshe]] · [[okana-ofun|Okana Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

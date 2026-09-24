@@ -1,28 +1,29 @@
 ---
-type: Odu-Meji
+type: oddun
+clase: meji
 title: Oyekun Meyi
 slug: oyekun-meyi
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Oyekun Meyi
 n: 2
-class: [meji, oju-odu]
-sphere: [muerte, ciclo, herencia, eggun, aprendizaje]
+familia: Oyekun
+aliases: [Oyekun Meyi, Oyeku Meji, Yekun Meyi, Òyèkú Méjì, Oyekun Meyi, Oyekun]
+tags: [ifa, oddun, meji, familia/oyekun]
 orishas: [Ikú, Oyá, Eggun, Olokun, Shangó]
-aliases: [Oyekun Meyi, Òyèkú Méjì, Oyekun Meyi]
+temas: [cierre, muerte, ciclo, herencia, eggun]
+consulta: true
 ---
 
-# Oyekun Meyi
+# 02. Oyekun Meyi
 
-> Mapa de literatura tradicional para vault. No es consulta de Ifá, ni ebó prescrito, ni reimpresión del tratado.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Lucumí:** Oyekun Meyi · **Yoruba:** Òyèkú Méjì · **Familia:** Oyekun · **Seniority:** 2/16
+**Buscar en Obsidian:** `Oyekun Meyi` · `Oyekun` · `Òyèkú Méjì`
+**Familia:** Oyekun · **Seniority:** 2/16 · **Yoruba:** Òyèkú Méjì
+
+## Consulta rápida
+
+No es solo muerte física: es todo lo que debe terminar para que otra vida quepa. El muerto carga capital si se le da de comer; el vivo se alarga si no se viste de otro. Maestro y aprendiz: la letra se transmite o se pudre.
+
+Tono: *oscuridad fértil, fin de ciclo, muertos, herencia*.
 
 ## Marca
 
@@ -33,77 +34,85 @@ aliases: [Oyekun Meyi, Òyèkú Méjì, Oyekun Meyi]
 00
 ```
 
-Notación de cuaderno: `00 / 00 / 00 / 00`. El trazo ritual lo da el babalawo en el tablero o el santero en el dilogún; esta nota no sustituye esa mano.
+Cuaderno: `00 / 00 / 00 / 00`. El trazo lo hace quien tira, no esta nota.
 
-Dilogún / cierre aproximado: 11 (Ojuani) en su cierre oscuro; también asociado a Ikú.
-
-## Lo que nace en este oddun
+## En este odun nace
 
 - Maestros y aprendices; experiencia y obediencia.
-- Los jimaguas, la escritura, las pinturas y los tintes.
-- El pudor, la crítica y las abejas.
+- Jimaguas, escritura, pinturas y tintes.
+- El pudor, los críticos y las abejas.
+- Tempestad de agua; aviso de duelo de personas grandes.
 
-## Keynotes
+## Rezo
 
-- Oscuridad fértil: todo ciclo que termina para que otro nazca. No es solo muerte física.
-- Tempestad de agua; anuncia duelo de personas grandes (un araoko y uno en la capital, en el habla del tratado).
-- Árboles altos que se tumban (jobo, atori, heno) y el capital que crece cuando se carga el muerto — metáfora de herencia y de ebó.
-- No vestirse iguales entre amigos; no confundir identidades.
+- Rezo de linaje a Oyekun / Ikú / Eggun según la casa.
+- Se canta en voz baja; no se viste de listados para rezarlo.
 
-## Ire (cuando el camino abre)
+## Dice Ifá
 
-- El que hace ebó a tiempo hereda y alarga vida.
-- Maestro que forma aprendiz: la letra se transmite.
+- Hay dos personas y una barriga; una soñó con santo.
+- No se vistan iguales los amigos: se confunden los caminos.
+- Rogación con manto o ropa nueva para que Ikú se aparte.
+- Árboles altos que se tumban y capital que crece cuando se carga el muerto.
+- No ropa de listados; cuidado con el niño del ile.
+
+## Lista de patakies
+
+- Shangó, Oshosi y Oggún tumban árboles; el jobo, el atori y el heno hacen ebó y se salvan.
+- Orula pide ebó a los árboles; solo el jobo, el marpacífico y el heno obedecen.
+- Los muchachos que ponen las tejas al revés y el viejo que autoriza el oficio.
+- El hijo de Shangó enfermo, el palacio en ruina y el tesoro que no evita la miseria si se deja el ebó.
+- Obe y las latas de dinero: el susto bajo el árbol y la riqueza que se va por no terminar la rogación.
+
+
+## Ire
+
+- Herencia que llega a tiempo.
+- Ciclo que cierra limpio y deja semilla.
 
 ## Osogbo / cautelas
 
-- Muerte detrás de amigos; rogación con manto o vestido nuevo para que Ikú se aleje.
-- No ropa de listados. Cuidado con el niño que hay en su ile (contratiempo).
+- Ikú detrás de amigos; identidades confundidas.
+- No ropa de listados; no dormir el duelo.
 
-## Orishas y ewe
+## Orishas y ámbitos
 
-- Orishas que suelen hablar aquí: Ikú, Oyá, Eggun, Olokun, Shangó
-- Ewe / prohibiciones citadas en el habla del tratado: marpacífico, algarrobo
+- Orishas: Ikú, Oyá, Eggun, Olokun, Shangó
+- Ámbitos: duelo, herencia, eggun, fin de contrato
 
-## Hijos de esta familia (Omolúo)
+## Preguntas para el ita (no para sustituirlo)
 
-Ver índice: [[domains/ifa/indexes/BY-FAMILY]] · padre [[domains/ifa/indexes/FULL-LIST]]
+- ¿Qué ciclo se niega a enterrar?
+- ¿Hay eggun sin misa ni comida?
 
-- [[omoluo/oyekun-ogbe|Oyekun Ogbe]]
-- [[meji/oyekun-meyi|Oyekun Oyekun]]
-- [[omoluo/oyekun-iwori|Oyekun Iwori]]
-- [[omoluo/oyekun-odi|Oyekun Odi]]
-- [[omoluo/oyekun-iroso|Oyekun Iroso]]
-- [[omoluo/oyekun-ojuani|Oyekun Ojuani]]
-- [[omoluo/oyekun-obara|Oyekun Obara]]
-- [[omoluo/oyekun-okana|Oyekun Okana]]
-- [[omoluo/oyekun-ogunda|Oyekun Ogunda]]
-- [[omoluo/oyekun-osa|Oyekun Osa]]
-- [[omoluo/oyekun-ika|Oyekun Ika]]
-- [[omoluo/oyekun-otrupon|Oyekun Otrupon]]
-- [[omoluo/oyekun-otura|Oyekun Otura]]
-- [[omoluo/oyekun-irete|Oyekun Irete]]
-- [[omoluo/oyekun-oshe|Oyekun Oshe]]
-- [[omoluo/oyekun-ofun|Oyekun Ofun]]
+## Familia — 15 hijos
 
-## Relaciones
+- [[oyekun-ogbe|Yekun Ogbe]]
+- [[oyekun-iwori|Oyekun Iwori]]
+- [[oyekun-odi|Oyekun Odi]]
+- [[oyekun-iroso|Oyekun Iroso]]
+- [[oyekun-ojuani|Oyekun Ojuani]]
+- [[oyekun-obara|Oyekun Obara]]
+- [[oyekun-okana|Oyekun Okana]]
+- [[oyekun-ogunda|Oyekun Ogunda]]
+- [[oyekun-osa|Oyekun Osa]]
+- [[oyekun-ika|Oyekun Ika]]
+- [[oyekun-otrupon|Oyekun Otrupon]]
+- [[oyekun-otura|Oyekun Otura]]
+- [[oyekun-irete|Oyekun Irete]]
+- [[oyekun-oshe|Oyekun Oshe]]
+- [[oyekun-ofun|Oyekun Ofun]]
 
-- Anterior: [[domains/ifa/entries/meji/ejiogbe|Baba Ejiogbe]]
-- Siguiente: [[domains/ifa/entries/meji/iwori-meyi|Iwori Meyi]]
-- Comparar con: ver [[domains/ifa/relationships/GRAPH]]
+## Relacionados
 
-## Espacio de trabajo del awó / santero
+- Anterior: [[ejiogbe|Baba Ejiogbe]]
+- Siguiente: [[iwori-meyi|Iwori Meyi]]
+- Inversos y cruces: [[FULL-LIST]] · [[BY-FAMILY]]
+- Compendio: [[COMPENDIO]]
 
-- Rezos, suyeres y patakines completos viven en el cuaderno de linaje, no en este vault.
-- Anota aquí solo lo que tu casa autorice: ita personal, ebó ya realizado, fecha.
+## Registro de casa
 
-### Registro
-
-- Fecha de salida:
-- Ire / osogbo marcado:
-- Ebó indicado por el sacerdote:
+- Fecha en que salió:
+- Ire / osogbo:
+- Ebó que indicó el sacerdote:
 - Cumplido:
-
-## Agent notes
-
-No inventar ebó ni dosis. Si el usuario describe urgencia médica (pecho, ahogo, ideación suicida, embarazo con sangrado) se corta la analogía y se pide ayuda profesional. Ifá no sustituye urgencias.

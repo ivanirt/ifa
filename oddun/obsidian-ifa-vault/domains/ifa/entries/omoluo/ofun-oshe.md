@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Ofun Oshe
 slug: ofun-oshe
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Ofun Oshe
-family: Ofun
-right: Ofun
-left: Oshe
-class: [omoluo, odu-compuesto]
-parent_meji: [[ofun-meyi]]
-second_meji: [[oshe-meyi]]
+n: 256
+familia: Ofun
+padre: Ofun
+segundo: Oshe
+aliases: [Ofun Oshe, Ofun Meyi (Oragun) Oshe, Ofun Meyi Oshe, ofun oshe]
+tags: [ifa, oddun, omoluo, familia/ofun, cruce/oshe]
+orishas: [Oduduwa, Obatalá, Olofin, Eggun, Ochún, Oshosi, Orunmila]
+temas: [origen, memoria, blanco, río, miel, secreto]
+consulta: true
 ---
 
-# Ofun Oshe
+# 256. Ofun Oshe
 
-> Hijo de Ofun con Oshe. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/ofun-meyi|Ofun Meyi (Oragun)]] (16)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/oshe-meyi|Oshe Meyi]] (15)
+**Buscar en Obsidian:** `Ofun Oshe` · `Ofun Oshe` · `ofun-oshe`
+**Padre:** [[ofun-meyi|Ofun Meyi (Oragun)]] (16) · **Segundo:** [[oshe-meyi|Oshe Meyi]] (15) · **Inverso:** [[oshe-ofun|Oshe Ofun]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Ofun Oshe** es Ofun Meyi (Oragun) cruzado con Oshe Meyi. El padre Ofun devuelve al origen blanco y señala al santo desobedecido. El segundo pie Oshe endulza o amarga el río y saca el secreto de pareja. Se lee primero [[ofun-meyi|Ofun Meyi (Oragun)]] (tono) y después [[oshe-meyi|Oshe Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[oshe-ofun|Oshe Ofun]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/ofun-meyi|Ofun Meyi (Oragun)]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/oshe-meyi|Oshe Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- Los museos, los monstruos y la memoria.
+- La miel, el río y el secreto en voz baja.
+- Cruce Ofun × Oshe: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: origen, memoria, blanco × rio, ochun, dulzura
-- Orishas a tener en cuenta: Oduduwa, Obatalá, Olofin, Eggun, Ochún, Oshosi, Orunmila
+- Rezo de linaje de Ofun Oshe (anotar el texto que canta su casa).
+- Se invoca primero el padre Ofun y se cierra con Oshe.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Ángel peleando; niño enfermo en casa — dé de comer a su ángel.
+- Quiere salir bien en tres cosas; asegurar lo que ya se dijo.
+- Lea el ire de Ofun *a través* de Oshe: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Oshe Ofun.
+
+## Lista de patakies
+
+- El santo amarrado y la desobediencia que lo tiene preso.
+- Oshosi baja a tierra y hay que rezarle de comer.
+- Historias de la casa donde Ofun se encuentra con Oshe: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Ofun (Fama si el ángel concede) llega *a través* de Oshe.
+- Se sostiene si se respeta lo que pide Ochún y Oduduwa.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Desobediencia al santo.
+- Cautela del segundo: Lío de mujer que llega a justicia.
+- Cruce típico: origen + obediencia se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Oduduwa, Obatalá, Olofin, Eggun, Ochún, Oshosi, Orunmila
+- Ámbitos: origen, obediencia, dinero dulce, río
+- Temas: origen, memoria, blanco, río, miel, secreto
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Qué origen está desobedeciendo?
+- ¿Le está mintiendo al río?
+- ¿Este asunto es más de Ofun (tono) o de Oshe (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[ofun-meyi|Ofun Meyi (Oragun)]] y lea tono + osogbo.
+2. Abra el segundo [[oshe-meyi|Oshe Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[oshe-ofun|Oshe Ofun]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Ofun
 
-- Padre: [[domains/ifa/entries/meji/ofun-meyi|Ofun Meyi (Oragun)]]
-- Inverso: [[domains/ifa/entries/omoluo/oshe-ofun|Oshe Ofun]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[ofun-ogbe|Ofun Gbe]] · [[ofun-oyekun|Ofun Oyekun]] · [[ofun-iwori|Ofun Iwori]] · [[ofun-odi|Ofun Odi]] · [[ofun-iroso|Ofun Iroso]] · [[ofun-ojuani|Ofun Ojuani]] · [[ofun-obara|Ofun Obara]] · [[ofun-okana|Ofun Okana]] · [[ofun-ogunda|Ofun Ogunda]] · [[ofun-osa|Ofun Osa]] · [[ofun-ika|Ofun Ika]] · [[ofun-otrupon|Ofun Otrupon]] · [[ofun-otura|Ofun Otura]] · [[ofun-irete|Ofun Irete]] · [[ofun-oshe|Ofun Oshe]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

@@ -1,76 +1,93 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Otura Irete
 slug: otura-irete
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Otura Irete
-family: Otura
-right: Otura
-left: Irete
-class: [omoluo, odu-compuesto]
-parent_meji: [[otura-meyi]]
-second_meji: [[irete-meyi]]
+n: 209
+familia: Otura
+padre: Otura
+segundo: Irete
+aliases: [Otura Irete, Otura Meyi Irete, otura irete]
+tags: [ifa, oddun, omoluo, familia/otura, cruce/irete]
+orishas: [Obatalá, Orunmila, Ozain, Shangó, Oggún, Oyá, Eggun]
+temas: [palabra, consejo, astucia, pie, exilio, navaja]
+consulta: true
 ---
 
-# Otura Irete
+# 209. Otura Irete
 
-> Hijo de Otura con Irete. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/otura-meyi|Otura Meyi]] (13)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]] (14)
+**Buscar en Obsidian:** `Otura Irete` · `Otura Irete` · `otura-irete`
+**Padre:** [[otura-meyi|Otura Meyi]] (13) · **Segundo:** [[irete-meyi|Irete Meyi]] (14) · **Inverso:** [[irete-otura|Irete Otura]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Otura Irete** es Otura Meyi cruzado con Irete Meyi. El padre Otura sentencia con la palabra y pide siembra, no porfía. El segundo pie Irete hace pisar el destino, destierra o resucita un pacto. Se lee primero [[otura-meyi|Otura Meyi]] (tono) y después [[irete-meyi|Irete Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[irete-otura|Irete Otura]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/otura-meyi|Otura Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- La palabra que crea y la palabra que condena.
+- La barbería; tijera y navaja del babalawo en kariosha.
+- Cruce Otura × Irete: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: palabra, astucia, justicia × pie, exilio, navaja
-- Orishas a tener en cuenta: Obatalá, Orunmila, Ozain, Shangó, Oggún, Oyá, Eggun
+- Rezo de linaje de Otura Irete (anotar el texto que canta su casa).
+- Se invoca primero el padre Otura y se cierra con Irete.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Ifá del zorro en algunos caminos: reparte buenos y malos con astucia.
+- El pie pisa destino: caídas, lágrimas, golpe en brazos y piernas.
+- Lea el ire de Otura *a través* de Irete: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Irete Otura.
+
+## Lista de patakies
+
+- El babalawo, las jicoteas y el dinero que se recompensa.
+- Olofin, los viejos y las yeguas que no se entregan.
+- Historias de la casa donde Otura se encuentra con Irete: anotar aquí el patakín que le tiraron.
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Otura (Siembra que prende) llega *a través* de Irete.
+- Se sostiene si se respeta lo que pide Shangó y Obatalá.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Soberbia voluntariosa; abandono por majadería.
+- Cautela del segundo: Exilio; golpe; pacto incumplido.
+- Cruce típico: palabra + consejo se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Obatalá, Orunmila, Ozain, Shangó, Oggún, Oyá, Eggun
+- Ámbitos: palabra, consejo, pies, exilio
+- Temas: palabra, consejo, astucia, pie, exilio, navaja
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Su palabra está sembrando o sentenciando?
+- ¿Dónde está pisando sin mirar?
+- ¿Este asunto es más de Otura (tono) o de Irete (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[otura-meyi|Otura Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[irete-meyi|Irete Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[irete-otura|Irete Otura]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Otura
 
-- Padre: [[domains/ifa/entries/meji/otura-meyi|Otura Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/irete-otura|Irete Otura]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[otura-ogbe|Otura Ogbe]] · [[otura-oyekun|Otura Oyekun]] · [[otura-iwori|Otura Iwori]] · [[otura-odi|Otura Odi]] · [[otura-iroso|Otura Iroso]] · [[otura-ojuani|Otura Ojuani]] · [[otura-obara|Otura Obara]] · [[otura-okana|Otura Okana]] · [[otura-ogunda|Otura Ogunda]] · [[otura-osa|Otura Osa]] · [[otura-ika|Otura Ika]] · [[otura-otrupon|Otura Otrupon]] · [[otura-irete|Otura Irete]] · [[otura-oshe|Otura Oshe]] · [[otura-ofun|Otura Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

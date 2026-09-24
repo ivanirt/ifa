@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Irete Iroso
 slug: irete-iroso
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Irete Iroso
-family: Irete
-right: Irete
-left: Iroso
-class: [omoluo, odu-compuesto]
-parent_meji: [[irete-meyi]]
-second_meji: [[iroso-meyi]]
+n: 216
+familia: Irete
+padre: Irete
+segundo: Iroso
+aliases: [Irete Iroso, Irete Meyi Iroso, irete iroso]
+tags: [ifa, oddun, omoluo, familia/irete, cruce/iroso]
+orishas: [Shangó, Oggún, Oyá, Eggun, Obatalá, Osún]
+temas: [pie, exilio, navaja, sangre, memoria, humildad]
+consulta: true
 ---
 
-# Irete Iroso
+# 216. Irete Iroso
 
-> Hijo de Irete con Iroso. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]] (14)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/iroso-meyi|Iroso Meyi]] (5)
+**Buscar en Obsidian:** `Irete Iroso` · `Irete Iroso` · `irete-iroso`
+**Padre:** [[irete-meyi|Irete Meyi]] (14) · **Segundo:** [[iroso-meyi|Iroso Meyi]] (5) · **Inverso:** [[iroso-irete|Iroso Irete]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Irete Iroso** es Irete Meyi cruzado con Iroso Meyi. El padre Irete hace pisar el destino, destierra o resucita un pacto. El segundo pie Iroso trae sangre, memoria, lágrima y riesgo de trampa. Se lee primero [[irete-meyi|Irete Meyi]] (tono) y después [[iroso-meyi|Iroso Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[iroso-irete|Iroso Irete]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/iroso-meyi|Iroso Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- La barbería; tijera y navaja del babalawo en kariosha.
+- La humildad.
+- Cruce Irete × Iroso: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: pie, exilio, navaja × memoria, sangre, humildad
-- Orishas a tener en cuenta: Shangó, Oggún, Oyá, Eggun, Obatalá, Osún
+- Rezo de linaje de Irete Iroso (anotar el texto que canta su casa).
+- Se invoca primero el padre Irete y se cierra con Iroso.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- El pie pisa destino: caídas, lágrimas, golpe en brazos y piernas.
+- Sueño con guacalote y collar colorado: cuidado con la candela.
+- Lea el ire de Irete *a través* de Iroso: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Iroso Irete.
+
+## Lista de patakies
+
+- Olofin, los viejos y las yeguas que no se entregan.
+- El babalawo, la hija del rey y la prenda que Awóle devuelve.
+- Historias de la casa donde Irete se encuentra con Iroso: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Irete (Oficio de navaja (iniciar, cortar, operar)) llega *a través* de Iroso.
+- Se sostiene si se respeta lo que pide Shangó y Shangó.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Exilio; golpe; pacto incumplido.
+- Cautela del segundo: Trampa en el puesto o en el campo.
+- Cruce típico: pies + exilio se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Shangó, Oggún, Oyá, Eggun, Obatalá, Osún
+- Ámbitos: pies, exilio, salud de la vista, memoria
+- Temas: pie, exilio, navaja, sangre, memoria, humildad
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Dónde está pisando sin mirar?
+- ¿Qué no quiere recordar?
+- ¿Este asunto es más de Irete (tono) o de Iroso (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[irete-meyi|Irete Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[iroso-meyi|Iroso Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[iroso-irete|Iroso Irete]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Irete
 
-- Padre: [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/iroso-irete|Iroso Irete]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[irete-ogbe|Irete Ogbe]] · [[irete-oyekun|Irete Oyekun]] · [[irete-iwori|Irete Iwori]] · [[irete-odi|Irete Odi]] · [[irete-iroso|Irete Iroso]] · [[irete-ojuani|Irete Ojuani]] · [[irete-obara|Irete Obara]] · [[irete-okana|Irete Okana]] · [[irete-ogunda|Irete Ogunda]] · [[irete-osa|Irete Osa]] · [[irete-ika|Irete Ika]] · [[irete-otrupon|Irete Otrupon]] · [[irete-otura|Irete Otura]] · [[irete-oshe|Irete Oshe]] · [[irete-ofun|Irete Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

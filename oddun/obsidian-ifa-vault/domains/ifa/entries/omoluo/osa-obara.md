@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Osa Obara
 slug: osa-obara
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Osa Obara
-family: Osa
-right: Osa
-left: Obara
-class: [omoluo, odu-compuesto]
-parent_meji: [[osa-meyi]]
-second_meji: [[obara-meyi]]
+n: 158
+familia: Osa
+padre: Osa
+segundo: Obara
+aliases: [Osa Obara, Osa Meyi Obara, osa obara]
+tags: [ifa, oddun, omoluo, familia/osa, cruce/obara]
+orishas: [Oyá, Eggun, Shangó, Ikú, Olofin, Eleguá]
+temas: [viento, cambio, oyá, lengua, riqueza, realeza]
+consulta: true
 ---
 
-# Osa Obara
+# 158. Osa Obara
 
-> Hijo de Osa con Obara. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]] (10)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/obara-meyi|Obara Meyi]] (7)
+**Buscar en Obsidian:** `Osa Obara` · `Osa Obara` · `osa-obara`
+**Padre:** [[osa-meyi|Osa Meyi]] (10) · **Segundo:** [[obara-meyi|Obara Meyi]] (7) · **Inverso:** [[obara-osa|Obara Osa]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Osa Obara** es Osa Meyi cruzado con Obara Meyi. El padre Osa entra como viento, muda la casa y enciende a los muertos. El segundo pie Obara pone la lengua en el centro y discute el reparto. Se lee primero [[osa-meyi|Osa Meyi]] (tono) y después [[obara-meyi|Obara Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[obara-osa|Obara Osa]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/obara-meyi|Obara Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- Los siete días del asentamiento de Osha en el igbodún.
+- El baile del pacto del awó con Ikú.
+- Cruce Osa × Obara: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: viento, oyá, eggun × lengua, riqueza, realeza
-- Orishas a tener en cuenta: Oyá, Eggun, Shangó, Ikú, Olofin, Eleguá, la Lengua
+- Rezo de linaje de Osa Obara (anotar el texto que canta su casa).
+- Se invoca primero el padre Osa y se cierra con Obara.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Vino porque quiere ir a un lugar; el camino trae dinero y Shangó detrás.
+- Rey muerto, príncipe coronado.
+- Lea el ire de Osa *a través* de Obara: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Obara Osa.
+
+## Lista de patakies
+
+- El rey curandero, dueño de la muerte.
+- Obara desnudo tras el ebó: el pueblo lo nombra y Olofin le da traje y caballo.
+- Historias de la casa donde Osa se encuentra con Obara: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Osa (Cambio de suerte si se da de comer a la puerta) llega *a través* de Obara.
+- Se sostiene si se respeta lo que pide Shangó y Oyá.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Pelea de pareja; maldiciones; aborto.
+- Cautela del segundo: Mentira, pobreza extrema, bebidas que devuelven al borracho.
+- Cruce típico: cambio + cementerio se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Oyá, Eggun, Shangó, Ikú, Olofin, Eleguá
+- Ámbitos: cambio, cementerio, negocio, rumor
+- Temas: viento, cambio, oyá, lengua, riqueza, realeza
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Qué viento está empujando la mudanza?
+- ¿Su boca está construyendo o derribando?
+- ¿Este asunto es más de Osa (tono) o de Obara (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[osa-meyi|Osa Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[obara-meyi|Obara Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[obara-osa|Obara Osa]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Osa
 
-- Padre: [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/obara-osa|Obara Osa]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[osa-ogbe|Osa Ogbe]] · [[osa-oyekun|Osa Oyekun]] · [[osa-iwori|Osa Iwori]] · [[osa-odi|Osa Odi]] · [[osa-iroso|Osa Iroso]] · [[osa-ojuani|Osa Ojuani]] · [[osa-obara|Osa Obara]] · [[osa-okana|Osa Okana]] · [[osa-ogunda|Osa Ogunda]] · [[osa-ika|Osa Ika]] · [[osa-otrupon|Osa Otrupon]] · [[osa-otura|Osa Otura]] · [[osa-irete|Osa Irete]] · [[osa-oshe|Osa Oshe]] · [[osa-ofun|Osa Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

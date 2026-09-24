@@ -1,76 +1,116 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Oyekun Ogunda
 slug: oyekun-ogunda
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Oyekun Ogunda
-family: Oyekun
-right: Oyekun
-left: Ogunda
-class: [omoluo, odu-compuesto]
-parent_meji: [[oyekun-meyi]]
-second_meji: [[ogunda-meyi]]
+n: 39
+familia: Oyekun
+padre: Oyekun
+segundo: Ogunda
+aliases: [Oyekun Ogunda, Oyekun Meyi Ogunda, oyekun ogunda]
+tags: [ifa, oddun, omoluo, familia/oyekun, cruce/ogunda]
+orishas: [Ikú, Oyá, Eggun, Olokun, Shangó, Oggún, Ochosi, Eleguá, Obatalá]
+temas: [cierre, muerte, ciclo, hierro, trabajo, justicia]
+consulta: true
+patakies:
+  - "[[AGBALI WE NO FA DO IFE, BO ME NO KU. AGBIGBI WE NO]]"
+  - "[[Alguien estaba trabajando con ratas y pescados enviando]]"
+  - "[[de Ogunda Bede]]"
+  - "[[Dice Ifa que en la casa de un]]"
+  - "[[Dice Ifa que Obatala hacía mucho tiempo que]]"
+  - "[[El Asê era estéril]]"
+  - "[[El hijo del Oba de Ayo llamado Tela]]"
+  - "[[Eleguá estaba pescando con una vara y un]]"
+  - "[[En una época remota había un monstruo que]]"
+  - "[[EYE NLA FO GBAYI EYE NLA BA GBAYI]]"
+  - "[[GUDAFLIGBE es un Ifa poderoso]]"
+  - "[[Había un Rey que tenía un hijo enfermo]]"
+  - "[[Hubo tiempo en que los viejos esperaban en]]"
+  - "[[Hubo un tiempo en que todos los años]]"
+  - "[[KPIITI! ME JI EKA SI ESI DO OGUNDA KPO MEJI KPA JI]]"
+  - "[[LA CREACION DE LA FAMILIA]]"
+  - "[[O GBE NO GBLE NU ADOWE NO DO AZI WIWI]]"
+  - "[[Ogun Badagli era el jefe del ejército de]]"
+  - "[[Ogunda Meji fue a buscar a la OSHA]]"
+  - "[[Olofin tenia presos a los Babalawos por mentirosos]]"
+  - "[[Oyeku Gbiri fue consultado por la Malanga Ewe]]"
+
 ---
 
-# Oyekun Ogunda
+# 039. Oyekun Ogunda
 
-> Hijo de Oyekun con Ogunda. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]] (2)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/ogunda-meyi|Ogunda Meyi]] (9)
+**Buscar en Obsidian:** `Oyekun Ogunda` · `Oyekun Ogunda` · `oyekun-ogunda`
+**Padre:** [[oyekun-meyi|Oyekun Meyi]] (2) · **Segundo:** [[ogunda-meyi|Ogunda Meyi]] (9) · **Inverso:** [[ogunda-oyekun|Ogunda Oyekun]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Oyekun Ogunda** es Oyekun Meyi cruzado con Ogunda Meyi. El padre Oyekun cierra el ciclo, llama a eggun y pide entierro de lo viejo. El segundo pie Ogunda saca el hierro, el oficio y el riesgo de justicia. Se lee primero [[oyekun-meyi|Oyekun Meyi]] (tono) y después [[ogunda-meyi|Ogunda Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[ogunda-oyekun|Ogunda Oyekun]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/ogunda-meyi|Ogunda Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- Maestros y aprendices; experiencia y obediencia.
+- El hierro y el juramento.
+- Cruce Oyekun × Ogunda: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: muerte, ciclo, herencia × hierro, trabajo, prision
-- Orishas a tener en cuenta: Ikú, Oyá, Eggun, Olokun, Shangó, Oggún, Ochosi, Eleguá, Obatalá
+- Rezo de linaje de Oyekun Ogunda (anotar el texto que canta su casa).
+- Se invoca primero el padre Oyekun y se cierra con Ogunda.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Hay dos personas y una barriga; una soñó con santo.
+- Puede caer preso por un favor hecho o por un favor no agradecido.
+- Lea el ire de Oyekun *a través* de Ogunda: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Ogunda Oyekun.
+
+## Lista de patakies
+
+- Shangó, Oshosi y Oggún tumban árboles; el jobo, el atori y el heno hacen ebó y se salvan.
+- Eleguá, el anzuelo y Oggún que parte el asunto en dos.
+- Historias de la casa donde Oyekun se encuentra con Ogunda: anotar aquí el patakín que le tiraron.
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Oyekun (Herencia que llega a tiempo) llega *a través* de Ogunda.
+- Se sostiene si se respeta lo que pide Oggún y Ikú.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Ikú detrás de amigos; identidades confundidas.
+- Cautela del segundo: Pierna; gente que lo busca por la calle.
+- Cruce típico: duelo + herencia se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Ikú, Oyá, Eggun, Olokun, Shangó, Oggún, Ochosi, Eleguá, Obatalá
+- Ámbitos: duelo, herencia, trabajo, herramienta
+- Temas: cierre, muerte, ciclo, hierro, trabajo, justicia
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Qué ciclo se niega a enterrar?
+- ¿Qué hierro está oxidado (oficio, juramento, cuchillo)?
+- ¿Este asunto es más de Oyekun (tono) o de Ogunda (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[oyekun-meyi|Oyekun Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[ogunda-meyi|Ogunda Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[ogunda-oyekun|Ogunda Oyekun]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Oyekun
 
-- Padre: [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/ogunda-oyekun|Ogunda Oyekun]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[oyekun-ogbe|Yekun Ogbe]] · [[oyekun-iwori|Oyekun Iwori]] · [[oyekun-odi|Oyekun Odi]] · [[oyekun-iroso|Oyekun Iroso]] · [[oyekun-ojuani|Oyekun Ojuani]] · [[oyekun-obara|Oyekun Obara]] · [[oyekun-okana|Oyekun Okana]] · [[oyekun-ogunda|Oyekun Ogunda]] · [[oyekun-osa|Oyekun Osa]] · [[oyekun-ika|Oyekun Ika]] · [[oyekun-otrupon|Oyekun Otrupon]] · [[oyekun-otura|Oyekun Otura]] · [[oyekun-irete|Oyekun Irete]] · [[oyekun-oshe|Oyekun Oshe]] · [[oyekun-ofun|Oyekun Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

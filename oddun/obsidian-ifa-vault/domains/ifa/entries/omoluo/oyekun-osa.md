@@ -1,76 +1,110 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Oyekun Osa
 slug: oyekun-osa
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Oyekun Osa
-family: Oyekun
-right: Oyekun
-left: Osa
-class: [omoluo, odu-compuesto]
-parent_meji: [[oyekun-meyi]]
-second_meji: [[osa-meyi]]
+n: 40
+familia: Oyekun
+padre: Oyekun
+segundo: Osa
+aliases: [Oyekun Osa, Oyekun Meyi Osa, oyekun osa]
+tags: [ifa, oddun, omoluo, familia/oyekun, cruce/osa]
+orishas: [Ikú, Oyá, Eggun, Olokun, Shangó]
+temas: [cierre, muerte, ciclo, viento, cambio, oyá]
+consulta: true
+patakies:
+  - "[[!OSA MEJI! OSHA SI HU JE NUKO, HO KO WA SA TO]]"
+  - "[[El algodón y el surco fueron a verse]]"
+  - "[[El hombre no debería resbalar en el barro]]"
+  - "[[El nudo llega al pie y termina el]]"
+  - "[[Había en IFE dos hombres]]"
+  - "[[La hija de Olofin Oba de IFE llamada]]"
+  - "[[Obatala Madre de Shango estaba en muy mala]]"
+  - "[[Oduduwa cuando tenía que crear a las mujeres]]"
+  - "[[Oke estaba muy perdido y fue a casa]]"
+  - "[[Orula llego una vez a un pueblo y]]"
+  - "[[OSA MEJI BESE KPO AGBO KPA WE DO NU; BESE TO E WU GA]]"
+  - "[[SEGBO BA TE NU WUTU BI, BO NA TO WA JE TO]]"
+  - "[[XE WA ADA MO NE XO AVO KA FU(AVO KA FU)]]"
+  - "[[Yo despierto y veo a la tiñosa sobre]]"
+  - "[[Él invalido de las piernas no sabia como]]"
+
 ---
 
-# Oyekun Osa
+# 040. Oyekun Osa
 
-> Hijo de Oyekun con Osa. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]] (2)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]] (10)
+**Buscar en Obsidian:** `Oyekun Osa` · `Oyekun Osa` · `oyekun-osa`
+**Padre:** [[oyekun-meyi|Oyekun Meyi]] (2) · **Segundo:** [[osa-meyi|Osa Meyi]] (10) · **Inverso:** [[osa-oyekun|Osa Oyekun]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Oyekun Osa** es Oyekun Meyi cruzado con Osa Meyi. El padre Oyekun cierra el ciclo, llama a eggun y pide entierro de lo viejo. El segundo pie Osa entra como viento, muda la casa y enciende a los muertos. Se lee primero [[oyekun-meyi|Oyekun Meyi]] (tono) y después [[osa-meyi|Osa Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[osa-oyekun|Osa Oyekun]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- Maestros y aprendices; experiencia y obediencia.
+- Los siete días del asentamiento de Osha en el igbodún.
+- Cruce Oyekun × Osa: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: muerte, ciclo, herencia × viento, oyá, eggun
-- Orishas a tener en cuenta: Ikú, Oyá, Eggun, Olokun, Shangó
+- Rezo de linaje de Oyekun Osa (anotar el texto que canta su casa).
+- Se invoca primero el padre Oyekun y se cierra con Osa.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Hay dos personas y una barriga; una soñó con santo.
+- Vino porque quiere ir a un lugar; el camino trae dinero y Shangó detrás.
+- Lea el ire de Oyekun *a través* de Osa: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Osa Oyekun.
+
+## Lista de patakies
+
+- Shangó, Oshosi y Oggún tumban árboles; el jobo, el atori y el heno hacen ebó y se salvan.
+- El rey curandero, dueño de la muerte.
+- Historias de la casa donde Oyekun se encuentra con Osa: anotar aquí el patakín que le tiraron.
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Oyekun (Herencia que llega a tiempo) llega *a través* de Osa.
+- Se sostiene si se respeta lo que pide Oyá y Ikú.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Ikú detrás de amigos; identidades confundidas.
+- Cautela del segundo: Pelea de pareja; maldiciones; aborto.
+- Cruce típico: duelo + herencia se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Ikú, Oyá, Eggun, Olokun, Shangó
+- Ámbitos: duelo, herencia, cambio, cementerio
+- Temas: cierre, muerte, ciclo, viento, cambio, oyá
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Qué ciclo se niega a enterrar?
+- ¿Qué viento está empujando la mudanza?
+- ¿Este asunto es más de Oyekun (tono) o de Osa (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[oyekun-meyi|Oyekun Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[osa-meyi|Osa Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[osa-oyekun|Osa Oyekun]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Oyekun
 
-- Padre: [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/osa-oyekun|Osa Oyekun]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[oyekun-ogbe|Yekun Ogbe]] · [[oyekun-iwori|Oyekun Iwori]] · [[oyekun-odi|Oyekun Odi]] · [[oyekun-iroso|Oyekun Iroso]] · [[oyekun-ojuani|Oyekun Ojuani]] · [[oyekun-obara|Oyekun Obara]] · [[oyekun-okana|Oyekun Okana]] · [[oyekun-ogunda|Oyekun Ogunda]] · [[oyekun-osa|Oyekun Osa]] · [[oyekun-ika|Oyekun Ika]] · [[oyekun-otrupon|Oyekun Otrupon]] · [[oyekun-otura|Oyekun Otura]] · [[oyekun-irete|Oyekun Irete]] · [[oyekun-oshe|Oyekun Oshe]] · [[oyekun-ofun|Oyekun Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

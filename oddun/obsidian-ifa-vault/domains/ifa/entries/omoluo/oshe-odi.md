@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Oshe Odi
 slug: oshe-odi
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Oshe Odi
-family: Oshe
-right: Oshe
-left: Odi
-class: [omoluo, odu-compuesto]
-parent_meji: [[oshe-meyi]]
-second_meji: [[odi-meyi]]
+n: 230
+familia: Oshe
+padre: Oshe
+segundo: Odi
+aliases: [Oshe Odi, Oshe Meyi Odi, oshe odi]
+tags: [ifa, oddun, omoluo, familia/oshe, cruce/odi]
+orishas: [Ochún, Oshosi, Orunmila, Yemayá, Olokun, Oduduwa, Obatalá]
+temas: [río, miel, secreto, cierre, vientre, mar]
+consulta: true
 ---
 
-# Oshe Odi
+# 230. Oshe Odi
 
-> Hijo de Oshe con Odi. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/oshe-meyi|Oshe Meyi]] (15)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/odi-meyi|Odi Meyi]] (4)
+**Buscar en Obsidian:** `Oshe Odi` · `Oshe Odi` · `oshe-odi`
+**Padre:** [[oshe-meyi|Oshe Meyi]] (15) · **Segundo:** [[odi-meyi|Odi Meyi]] (4) · **Inverso:** [[odi-oshe|Odi Oshe]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Oshe Odi** es Oshe Meyi cruzado con Odi Meyi. El padre Oshe endulza o amarga el río y saca el secreto de pareja. El segundo pie Odi guarda, gesta, cierra bocas y pone el asunto en el mar o en el vientre. Se lee primero [[oshe-meyi|Oshe Meyi]] (tono) y después [[odi-meyi|Odi Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[odi-oshe|Odi Oshe]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/oshe-meyi|Oshe Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/odi-meyi|Odi Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- La miel, el río y el secreto en voz baja.
+- Los mares.
+- Cruce Oshe × Odi: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: rio, ochun, dulzura × cierre, vientre, familia
-- Orishas a tener en cuenta: Ochún, Oshosi, Orunmila, Yemayá, Olokun, Oduduwa, Obatalá
+- Rezo de linaje de Oshe Odi (anotar el texto que canta su casa).
+- Se invoca primero el padre Oshe y se cierra con Odi.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Quiere salir bien en tres cosas; asegurar lo que ya se dijo.
+- Promesa a Obatalá o a San Francisco que está pendiente.
+- Lea el ire de Oshe *a través* de Odi: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Odi Oshe.
+
+## Lista de patakies
+
+- Oshosi baja a tierra y hay que rezarle de comer.
+- La mujer de Orunmila que compra criados y Eshú le marca el ebó que no quiso hacer.
+- Historias de la casa donde Oshe se encuentra con Odi: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Oshe (Tres suertes) llega *a través* de Odi.
+- Se sostiene si se respeta lo que pide Yemayá y Ochún.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Lío de mujer que llega a justicia.
+- Cautela del segundo: Bebida; ahogo; acusación de robo al hijo.
+- Cruce típico: dinero dulce + río se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Ochún, Oshosi, Orunmila, Yemayá, Olokun, Oduduwa, Obatalá
+- Ámbitos: dinero dulce, río, familia, embarazo
+- Temas: río, miel, secreto, cierre, vientre, mar
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Le está mintiendo al río?
+- ¿Qué secreto de familia está por reventar?
+- ¿Este asunto es más de Oshe (tono) o de Odi (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[oshe-meyi|Oshe Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[odi-meyi|Odi Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[odi-oshe|Odi Oshe]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Oshe
 
-- Padre: [[domains/ifa/entries/meji/oshe-meyi|Oshe Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/odi-oshe|Odi Oshe]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[oshe-ogbe|Oshe Ogbe]] · [[oshe-oyekun|Oshe Oyekun]] · [[oshe-iwori|Oshe Iwori]] · [[oshe-odi|Oshe Odi]] · [[oshe-iroso|Oshe Iroso]] · [[oshe-ojuani|Oshe Ojuani]] · [[oshe-obara|Oshe Obara]] · [[oshe-okana|Oshe Okana]] · [[oshe-ogunda|Oshe Ogunda]] · [[oshe-osa|Oshe Osa]] · [[oshe-ika|Oshe Ika]] · [[oshe-otrupon|Oshe Otrupon]] · [[oshe-otura|Oshe Otura]] · [[oshe-irete|Oshe Irete]] · [[oshe-ofun|Oshe Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

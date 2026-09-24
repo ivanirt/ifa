@@ -1,76 +1,101 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Ogbe Weñe
 slug: ogbe-iwori
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Ogbe Weñe
-family: Ogbe
-right: Ogbe
-left: Iwori
-class: [omoluo, odu-compuesto]
-parent_meji: [[ejiogbe]]
-second_meji: [[iwori-meyi]]
+n: 18
+familia: Ogbe
+padre: Ogbe
+segundo: Iwori
+aliases: [Ogbe Weñe, Ogbe Iwori, Baba Ejiogbe Iwori, Ogbe Wene, ogbe iwori]
+tags: [ifa, oddun, omoluo, familia/ogbe, cruce/iwori]
+orishas: [Orunmila, Obatalá, Eleguá, Olodumare, Olofin, Olokun]
+temas: [luz, gobierno, orí, ojo, investigación, sangre]
+consulta: true
+patakies:
+  - "[[Bajo este signo fue que Osha Olou Oro]]"
+  - "[[Cuando Orunmila lloraba por no tener mujer el]]"
+  - "[[de Ogbe Roso Ogbe Roso nos enseña como]]"
+  - "[[Orobanta Awuwobi y Owu adivinaron para el mundo]]"
+  - "[[Él pierde rumbo]]"
+
 ---
 
-# Ogbe Weñe
+# 018. Ogbe Weñe
 
-> Hijo de Ogbe con Iwori. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/ejiogbe|Baba Ejiogbe]] (1)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/iwori-meyi|Iwori Meyi]] (3)
+**Buscar en Obsidian:** `Ogbe Weñe` · `Ogbe Iwori` · `ogbe-iwori`
+**Padre:** [[ejiogbe|Baba Ejiogbe]] (1) · **Segundo:** [[iwori-meyi|Iwori Meyi]] (3) · **Inverso:** [[iwori-ogbe|Iwori Bogbe]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Ogbe Weñe** es Baba Ejiogbe cruzado con Iwori Meyi. El padre Ogbe abre, ilumina, pone en el trono y exige cabeza. El segundo pie Iwori obliga a mirar adentro, investigar y no firmar a ciegas. Se lee primero [[ejiogbe|Baba Ejiogbe]] (tono) y después [[iwori-meyi|Iwori Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[iwori-ogbe|Iwori Bogbe]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/ejiogbe|Baba Ejiogbe]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/iwori-meyi|Iwori Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- Las aguas y las tierras; la unidad y la lucha de contrarios.
+- La letra del año.
+- Cruce Ogbe × Iwori: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: gobierno, orí, creación × investigacion, sangre, justicia
-- Orishas a tener en cuenta: Orunmila, Obatalá, Eleguá, Olodumare, Olofin, Olokun
+- Rezo de linaje de Ogbe Iwori (anotar el texto que canta su casa).
+- Se invoca primero el padre Ogbe y se cierra con Iwori.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Hay suerte grande y ojos puestos encima: la envidia acompaña al que se eleva.
+- Se le sube la sangre a la cabeza; haga días de bajar costumbres.
+- Lea el ire de Ogbe *a través* de Iwori: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Iwori Ogbe.
+
+## Lista de patakies
+
+- Orunmila no duerme: el ruido del ekute y el puesto que hay que ocupar.
+- Los ricos acusan a Olokun ante Olofin; Eure Meyi y las dos lerí en el camino.
+- Historias de la casa donde Ogbe se encuentra con Iwori: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Ogbe (Gobierno, apertura de camino, riqueza si se respeta Orunmila y el orí) llega *a través* de Iwori.
+- Se sostiene si se respeta lo que pide Orunmila y Orunmila.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Traición cercana, chisme que llega a tribunal, casa o empleo que se pierde si se desprecia Osha.
+- Cautela del segundo: Herencia tramposa; empleo inseguro; sangre a la cabeza.
+- Cruce típico: orí + mando se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Orunmila, Obatalá, Eleguá, Olodumare, Olofin, Olokun
+- Ámbitos: orí, mando, papeles, estudio
+- Temas: luz, gobierno, orí, ojo, investigación, sangre
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Está gobernando su cabeza o lo gobiernan otros?
+- ¿Qué no ha querido mirar de frente?
+- ¿Este asunto es más de Ogbe (tono) o de Iwori (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[ejiogbe|Baba Ejiogbe]] y lea tono + osogbo.
+2. Abra el segundo [[iwori-meyi|Iwori Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[iwori-ogbe|Iwori Bogbe]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Ogbe
 
-- Padre: [[domains/ifa/entries/meji/ejiogbe|Baba Ejiogbe]]
-- Inverso: [[domains/ifa/entries/omoluo/iwori-ogbe|Iwori Ogbe]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[ogbe-oyekun|Ogbe Yekun]] · [[ogbe-iwori|Ogbe Weñe]] · [[ogbe-odi|Ogbe Di]] · [[ogbe-iroso|Ogbe Iroso]] · [[ogbe-ojuani|Ogbe Ojuani]] · [[ogbe-obara|Ogbe Bara]] · [[ogbe-okana|Ogbe Kana]] · [[ogbe-ogunda|Ogbe Gunda]] · [[ogbe-osa|Ogbe Sa]] · [[ogbe-ika|Ogbe Ika]] · [[ogbe-otrupon|Ogbe Trupon]] · [[ogbe-otura|Ogbe Tua]] · [[ogbe-irete|Ogbe Rete]] · [[ogbe-oshe|Ogbe She]] · [[ogbe-ofun|Ogbe Fun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

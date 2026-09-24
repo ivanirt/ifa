@@ -1,76 +1,110 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Obara Oyekun
 slug: obara-oyekun
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Obara Oyekun
-family: Obara
-right: Obara
-left: Oyekun
-class: [omoluo, odu-compuesto]
-parent_meji: [[obara-meyi]]
-second_meji: [[oyekun-meyi]]
+n: 108
+familia: Obara
+padre: Obara
+segundo: Oyekun
+aliases: [Obara Oyekun, Obara Meyi Oyekun, obara oyekun]
+tags: [ifa, oddun, omoluo, familia/obara, cruce/oyekun]
+orishas: [Shangó, Olofin, Eleguá, Ikú, Oyá, Eggun, Olokun]
+temas: [lengua, riqueza, realeza, cierre, muerte, ciclo]
+consulta: true
+patakies:
+  - "[[Aquí fue donde los Musulmanes descendieron a la]]"
+  - "[[de la riquezaAje Okonron fifun kpeneden Babalawo aje]]"
+  - "[[de Obara Bogbe]]"
+  - "[[de Obara Yeku]]"
+  - "[[El agua de un pozo estrecho no sé]]"
+  - "[[EL BUEN CAZADOR Y EL TIGRE]]"
+  - "[[es parecido al clásico cuento de las mil]]"
+  - "[[Este Odu no practico mucho el arte de]]"
+  - "[[Este]]"
+  - "[[HWELEXO NO ZO KIKE YI ZU A; KU DO BO, AZO DO BO!]]"
+  - "[[IFA y Maleel musulmán eran amigos]]"
+  - "[[Olofin tenia un camino por donde no se]]"
+  - "[[Yo lancé mis ojos frente del mundo y]]"
+  - "[[Él hizo adivinación cuando la Yegua venia al]]"
+
 ---
 
-# Obara Oyekun
+# 108. Obara Oyekun
 
-> Hijo de Obara con Oyekun. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/obara-meyi|Obara Meyi]] (7)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]] (2)
+**Buscar en Obsidian:** `Obara Oyekun` · `Obara Oyekun` · `obara-oyekun`
+**Padre:** [[obara-meyi|Obara Meyi]] (7) · **Segundo:** [[oyekun-meyi|Oyekun Meyi]] (2) · **Inverso:** [[oyekun-obara|Oyekun Obara]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Obara Oyekun** es Obara Meyi cruzado con Oyekun Meyi. El padre Obara pone la lengua en el centro y discute el reparto. El segundo pie Oyekun cierra el ciclo, llama a eggun y pide entierro de lo viejo. Se lee primero [[obara-meyi|Obara Meyi]] (tono) y después [[oyekun-meyi|Oyekun Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[oyekun-obara|Oyekun Obara]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/obara-meyi|Obara Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- El baile del pacto del awó con Ikú.
+- Maestros y aprendices; experiencia y obediencia.
+- Cruce Obara × Oyekun: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: lengua, riqueza, realeza × muerte, ciclo, herencia
-- Orishas a tener en cuenta: Shangó, Olofin, Eleguá, la Lengua, Ikú, Oyá, Eggun, Olokun
+- Rezo de linaje de Obara Oyekun (anotar el texto que canta su casa).
+- Se invoca primero el padre Obara y se cierra con Oyekun.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Rey muerto, príncipe coronado.
+- Hay dos personas y una barriga; una soñó con santo.
+- Lea el ire de Obara *a través* de Oyekun: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Oyekun Obara.
+
+## Lista de patakies
+
+- Obara desnudo tras el ebó: el pueblo lo nombra y Olofin le da traje y caballo.
+- Shangó, Oshosi y Oggún tumban árboles; el jobo, el atori y el heno hacen ebó y se salvan.
+- Historias de la casa donde Obara se encuentra con Oyekun: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Obara (Traje de rey cuando se acepta el estado real) llega *a través* de Oyekun.
+- Se sostiene si se respeta lo que pide Ikú y Shangó.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Mentira, pobreza extrema, bebidas que devuelven al borracho.
+- Cautela del segundo: Ikú detrás de amigos; identidades confundidas.
+- Cruce típico: negocio + rumor se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Shangó, Olofin, Eleguá, Ikú, Oyá, Eggun, Olokun
+- Ámbitos: negocio, rumor, duelo, herencia
+- Temas: lengua, riqueza, realeza, cierre, muerte, ciclo
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Su boca está construyendo o derribando?
+- ¿Qué ciclo se niega a enterrar?
+- ¿Este asunto es más de Obara (tono) o de Oyekun (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[obara-meyi|Obara Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[oyekun-meyi|Oyekun Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[oyekun-obara|Oyekun Obara]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Obara
 
-- Padre: [[domains/ifa/entries/meji/obara-meyi|Obara Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/oyekun-obara|Oyekun Obara]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[obara-ogbe|Obara Ogbe]] · [[obara-oyekun|Obara Oyekun]] · [[obara-iwori|Obara Iwori]] · [[obara-odi|Obara Odi]] · [[obara-iroso|Obara Iroso]] · [[obara-ojuani|Obara Ojuani]] · [[obara-okana|Obara Okana]] · [[obara-ogunda|Obara Ogunda]] · [[obara-osa|Obara Osa]] · [[obara-ika|Obara Ika]] · [[obara-otrupon|Obara Otrupon]] · [[obara-otura|Obara Otura]] · [[obara-irete|Obara Irete]] · [[obara-oshe|Obara Oshe]] · [[obara-ofun|Obara Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

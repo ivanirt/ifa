@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Irete Ogunda
 slug: irete-ogunda
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Irete Ogunda
-family: Irete
-right: Irete
-left: Ogunda
-class: [omoluo, odu-compuesto]
-parent_meji: [[irete-meyi]]
-second_meji: [[ogunda-meyi]]
+n: 220
+familia: Irete
+padre: Irete
+segundo: Ogunda
+aliases: [Irete Ogunda, Irete Meyi Ogunda, irete ogunda]
+tags: [ifa, oddun, omoluo, familia/irete, cruce/ogunda]
+orishas: [Shangó, Oggún, Oyá, Eggun, Ochosi, Eleguá, Obatalá]
+temas: [pie, exilio, navaja, hierro, trabajo, justicia]
+consulta: true
 ---
 
-# Irete Ogunda
+# 220. Irete Ogunda
 
-> Hijo de Irete con Ogunda. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]] (14)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/ogunda-meyi|Ogunda Meyi]] (9)
+**Buscar en Obsidian:** `Irete Ogunda` · `Irete Ogunda` · `irete-ogunda`
+**Padre:** [[irete-meyi|Irete Meyi]] (14) · **Segundo:** [[ogunda-meyi|Ogunda Meyi]] (9) · **Inverso:** [[ogunda-irete|Ogunda Irete]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Irete Ogunda** es Irete Meyi cruzado con Ogunda Meyi. El padre Irete hace pisar el destino, destierra o resucita un pacto. El segundo pie Ogunda saca el hierro, el oficio y el riesgo de justicia. Se lee primero [[irete-meyi|Irete Meyi]] (tono) y después [[ogunda-meyi|Ogunda Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[ogunda-irete|Ogunda Irete]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/ogunda-meyi|Ogunda Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- La barbería; tijera y navaja del babalawo en kariosha.
+- El hierro y el juramento.
+- Cruce Irete × Ogunda: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: pie, exilio, navaja × hierro, trabajo, prision
-- Orishas a tener en cuenta: Shangó, Oggún, Oyá, Eggun, Ochosi, Eleguá, Obatalá
+- Rezo de linaje de Irete Ogunda (anotar el texto que canta su casa).
+- Se invoca primero el padre Irete y se cierra con Ogunda.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- El pie pisa destino: caídas, lágrimas, golpe en brazos y piernas.
+- Puede caer preso por un favor hecho o por un favor no agradecido.
+- Lea el ire de Irete *a través* de Ogunda: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Ogunda Irete.
+
+## Lista de patakies
+
+- Olofin, los viejos y las yeguas que no se entregan.
+- Eleguá, el anzuelo y Oggún que parte el asunto en dos.
+- Historias de la casa donde Irete se encuentra con Ogunda: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Irete (Oficio de navaja (iniciar, cortar, operar)) llega *a través* de Ogunda.
+- Se sostiene si se respeta lo que pide Oggún y Shangó.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Exilio; golpe; pacto incumplido.
+- Cautela del segundo: Pierna; gente que lo busca por la calle.
+- Cruce típico: pies + exilio se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Shangó, Oggún, Oyá, Eggun, Ochosi, Eleguá, Obatalá
+- Ámbitos: pies, exilio, trabajo, herramienta
+- Temas: pie, exilio, navaja, hierro, trabajo, justicia
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Dónde está pisando sin mirar?
+- ¿Qué hierro está oxidado (oficio, juramento, cuchillo)?
+- ¿Este asunto es más de Irete (tono) o de Ogunda (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[irete-meyi|Irete Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[ogunda-meyi|Ogunda Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[ogunda-irete|Ogunda Irete]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Irete
 
-- Padre: [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/ogunda-irete|Ogunda Irete]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[irete-ogbe|Irete Ogbe]] · [[irete-oyekun|Irete Oyekun]] · [[irete-iwori|Irete Iwori]] · [[irete-odi|Irete Odi]] · [[irete-iroso|Irete Iroso]] · [[irete-ojuani|Irete Ojuani]] · [[irete-obara|Irete Obara]] · [[irete-okana|Irete Okana]] · [[irete-ogunda|Irete Ogunda]] · [[irete-osa|Irete Osa]] · [[irete-ika|Irete Ika]] · [[irete-otrupon|Irete Otrupon]] · [[irete-otura|Irete Otura]] · [[irete-oshe|Irete Oshe]] · [[irete-ofun|Irete Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

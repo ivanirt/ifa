@@ -1,28 +1,52 @@
 ---
-type: Odu-Meji
+type: oddun
+clase: meji
 title: Ogunda Meyi
 slug: ogunda-meyi
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Ogunda Meyi
 n: 9
-class: [meji, oju-odu]
-sphere: [hierro, trabajo, prision, camino, juramento]
+familia: Ogunda
+aliases: [Ogunda Meyi, Oggunda Meyi, Ogunda Meji, Ògúndá Méjì, Ogunda Meyi, Ogunda]
+tags: [ifa, oddun, meji, familia/ogunda]
 orishas: [Oggún, Ochosi, Eleguá, Obatalá]
-aliases: [Ogunda Meyi, Ògúndá Méjì, Ogunda Meyi]
+temas: [hierro, trabajo, justicia, camino, juramento]
+consulta: true
+patakies:
+  - "[[AGBALI WE NO FA DO IFE, BO ME NO KU. AGBIGBI WE NO]]"
+  - "[[Alguien estaba trabajando con ratas y pescados enviando]]"
+  - "[[de Ogunda Bede]]"
+  - "[[Dice Ifa que en la casa de un]]"
+  - "[[Dice Ifa que Obatala hacía mucho tiempo que]]"
+  - "[[El Asê era estéril]]"
+  - "[[El hijo del Oba de Ayo llamado Tela]]"
+  - "[[Eleguá estaba pescando con una vara y un]]"
+  - "[[En una época remota había un monstruo que]]"
+  - "[[EYE NLA FO GBAYI EYE NLA BA GBAYI]]"
+  - "[[GUDAFLIGBE es un Ifa poderoso]]"
+  - "[[Había un Rey que tenía un hijo enfermo]]"
+  - "[[Hubo tiempo en que los viejos esperaban en]]"
+  - "[[Hubo un tiempo en que todos los años]]"
+  - "[[KPIITI! ME JI EKA SI ESI DO OGUNDA KPO MEJI KPA JI]]"
+  - "[[LA CREACION DE LA FAMILIA]]"
+  - "[[O GBE NO GBLE NU ADOWE NO DO AZI WIWI]]"
+  - "[[Ogun Badagli era el jefe del ejército de]]"
+  - "[[Ogunda Meji fue a buscar a la OSHA]]"
+  - "[[Olofin tenia presos a los Babalawos por mentirosos]]"
+  - "[[Oyeku Gbiri fue consultado por la Malanga Ewe]]"
+
 ---
 
-# Ogunda Meyi
+# 09. Ogunda Meyi
 
-> Mapa de literatura tradicional para vault. No es consulta de Ifá, ni ebó prescrito, ni reimpresión del tratado.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Lucumí:** Ogunda Meyi · **Yoruba:** Ògúndá Méjì · **Familia:** Ogunda · **Seniority:** 9/16
+**Buscar en Obsidian:** `Ogunda Meyi` · `Ogunda` · `Ògúndá Méjì`
+**Familia:** Ogunda · **Seniority:** 9/16 · **Yoruba:** Ògúndá Méjì
+
+## Consulta rápida
+
+Oggún corta lo que no circula. Favor no agradecido o favor mal hecho puede terminar en preso. Siete días de encierro salvan más que mil discusiones. Tres mujeres del refrán: iburú, iboya, iboshé.
+
+Tono: *hierro, trabajo, prisión posible, camino que se abre a machetazo*.
 
 ## Marca
 
@@ -33,77 +57,80 @@ II
 00
 ```
 
-Notación de cuaderno: `II / II / II / 00`. El trazo ritual lo da el babalawo en el tablero o el santero en el dilogún; esta nota no sustituye esa mano.
+Cuaderno: `II / II / II / 00`. El trazo lo hace quien tira, no esta nota.
 
-Dilogún / cierre aproximado: 3 (Ogundá).
+## En este odun nace
 
-## Lo que nace en este oddun
+- El hierro y el juramento.
+- El camino que se abre a machetazo.
+- La guerra justa y la herramienta.
 
-- El hierro, el camino que se abre a machetazo.
-- La guerra justa y el juramento.
+## Rezo
 
-## Keynotes
+- Rezo de linaje de Ogunda; se nombra a Oggún, Ochosi y Eleguá.
+- Siete días de encierro se piden con el rezo, no con discusiones.
 
-- Oggún corta lo que no circula: trabajo, cirugía, pelea, herramienta.
-- Tragedia donde puede caer preso por un favor hecho o por no agradecer un favor recibido.
-- Siete días sin salir; reliquia o cadena; no mentir.
-- Tres mujeres (iburú iboya iboshé) a las que se les da algo.
+## Dice Ifá
 
-## Ire (cuando el camino abre)
+- Puede caer preso por un favor hecho o por un favor no agradecido.
+- No mienta; use reliquia o cadena.
+- Tres mujeres del refrán: iburú, iboya, iboshé — dele algo.
+- Dinero por camino de oficio; viaje; punto de fortuna.
 
-- Dinero por un buen camino; viaje; punto donde hay una fortuna.
-- Recibir a Orula. Lucha que se gana si no se pelea a solas.
+## Lista de patakies
+
+- Eleguá, el anzuelo y Oggún que parte el asunto en dos.
+- El favor que no se paga y la calle que lo busca.
+
+
+## Ire
+
+- Dinero por camino de oficio.
+- Viaje; punto de fortuna; recibir a Orula.
 
 ## Osogbo / cautelas
 
-- Pierna que se tulliría; gente corriendo por las calles a buscarlo.
-- Hijas pretendidas; marido que se opone a desgracias.
-- Enfermedad que dura poco si se obedece el encierro.
+- Pierna; gente que lo busca por la calle.
+- Mentira; salir antes de tiempo.
 
-## Orishas y ewe
+## Orishas y ámbitos
 
-- Orishas que suelen hablar aquí: Oggún, Ochosi, Eleguá, Obatalá
-- Ewe / prohibiciones citadas en el habla del tratado: ver cuaderno de casa
+- Orishas: Oggún, Ochosi, Eleguá, Obatalá
+- Ámbitos: trabajo, herramienta, tribunal, viaje
 
-## Hijos de esta familia (Omolúo)
+## Preguntas para el ita (no para sustituirlo)
 
-Ver índice: [[domains/ifa/indexes/BY-FAMILY]] · padre [[domains/ifa/indexes/FULL-LIST]]
+- ¿Qué hierro está oxidado (oficio, juramento, cuchillo)?
+- ¿Hay un favor que no se pagó?
 
-- [[omoluo/ogunda-ogbe|Ogunda Ogbe]]
-- [[omoluo/ogunda-oyekun|Ogunda Oyekun]]
-- [[omoluo/ogunda-iwori|Ogunda Iwori]]
-- [[omoluo/ogunda-odi|Ogunda Odi]]
-- [[omoluo/ogunda-iroso|Ogunda Iroso]]
-- [[omoluo/ogunda-ojuani|Ogunda Ojuani]]
-- [[omoluo/ogunda-obara|Ogunda Obara]]
-- [[omoluo/ogunda-okana|Ogunda Okana]]
-- [[meji/ogunda-meyi|Ogunda Ogunda]]
-- [[omoluo/ogunda-osa|Ogunda Osa]]
-- [[omoluo/ogunda-ika|Ogunda Ika]]
-- [[omoluo/ogunda-otrupon|Ogunda Otrupon]]
-- [[omoluo/ogunda-otura|Ogunda Otura]]
-- [[omoluo/ogunda-irete|Ogunda Irete]]
-- [[omoluo/ogunda-oshe|Ogunda Oshe]]
-- [[omoluo/ogunda-ofun|Ogunda Ofun]]
+## Familia — 15 hijos
 
-## Relaciones
+- [[ogunda-ogbe|Ogunda Ogbe]]
+- [[ogunda-oyekun|Ogunda Oyekun]]
+- [[ogunda-iwori|Ogunda Iwori]]
+- [[ogunda-odi|Ogunda Odi]]
+- [[ogunda-iroso|Ogunda Iroso]]
+- [[ogunda-ojuani|Ogunda Ojuani]]
+- [[ogunda-obara|Ogunda Obara]]
+- [[ogunda-okana|Ogunda Okana]]
+- [[ogunda-osa|Ogunda Osa]]
+- [[ogunda-ika|Ogunda Ika]]
+- [[ogunda-otrupon|Ogunda Otrupon]]
+- [[ogunda-otura|Ogunda Otura]]
+- [[ogunda-irete|Ogunda Irete]]
+- [[ogunda-oshe|Ogunda Oshe]]
+- [[ogunda-ofun|Ogunda Ofun]]
 
-- Anterior: [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]]
-- Siguiente: [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]]
-- Comparar con: ver [[domains/ifa/relationships/GRAPH]]
+## Relacionados
 
-## Espacio de trabajo del awó / santero
+- Anterior: [[okana-meyi|Okana Meyi]]
+- Siguiente: [[osa-meyi|Osa Meyi]]
+- Inversos y cruces: [[FULL-LIST]] · [[BY-FAMILY]]
+- Compendio: [[COMPENDIO]]
 
-- Rezos, suyeres y patakines completos viven en el cuaderno de linaje, no en este vault.
-- Anota aquí solo lo que tu casa autorice: ita personal, ebó ya realizado, fecha.
+## Registro de casa
 
-### Registro
-
-- Fecha de salida:
-- Ire / osogbo marcado:
-- Ebó indicado por el sacerdote:
+- Fecha en que salió:
+- Ire / osogbo:
+- Ebó que indicó el sacerdote:
 - Cumplido:
-
-## Agent notes
-
-No inventar ebó ni dosis. Si el usuario describe urgencia médica (pecho, ahogo, ideación suicida, embarazo con sangrado) se corta la analogía y se pide ayuda profesional. Ifá no sustituye urgencias.

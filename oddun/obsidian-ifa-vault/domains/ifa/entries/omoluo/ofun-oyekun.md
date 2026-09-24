@@ -1,76 +1,102 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Ofun Oyekun
 slug: ofun-oyekun
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Ofun Oyekun
-family: Ofun
-right: Ofun
-left: Oyekun
-class: [omoluo, odu-compuesto]
-parent_meji: [[ofun-meyi]]
-second_meji: [[oyekun-meyi]]
+n: 243
+familia: Ofun
+padre: Ofun
+segundo: Oyekun
+aliases: [Ofun Oyekun, Ofun Meyi (Oragun) Oyekun, Ofun Meyi Oyekun, ofun oyekun]
+tags: [ifa, oddun, omoluo, familia/ofun, cruce/oyekun]
+orishas: [Oduduwa, Obatalá, Olofin, Eggun, Ikú, Oyá, Olokun, Shangó]
+temas: [origen, memoria, blanco, cierre, muerte, ciclo]
+consulta: true
+patakies:
+  - "[[El cosechero y su siembra en la loma]]"
+  - "[[La cosa es completamente blanca]]"
+  - "[[LA HIJA DE OLOFIN Y EL PACTO ENTRE ORO Y ORUNMILA]]"
+  - "[[Ofun Meji U Oduduwa U Oduduwa es el]]"
+  - "[[Ofun Meji y EJIOGBE estaban hablando hasta medianoche]]"
+  - "[[PACTO DE ORUMILA Oddudua CON LA MUERTE]]"
+
 ---
 
-# Ofun Oyekun
+# 243. Ofun Oyekun
 
-> Hijo de Ofun con Oyekun. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/ofun-meyi|Ofun Meyi (Oragun)]] (16)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]] (2)
+**Buscar en Obsidian:** `Ofun Oyekun` · `Ofun Oyekun` · `ofun-oyekun`
+**Padre:** [[ofun-meyi|Ofun Meyi (Oragun)]] (16) · **Segundo:** [[oyekun-meyi|Oyekun Meyi]] (2) · **Inverso:** [[oyekun-ofun|Oyekun Ofun]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Ofun Oyekun** es Ofun Meyi (Oragun) cruzado con Oyekun Meyi. El padre Ofun devuelve al origen blanco y señala al santo desobedecido. El segundo pie Oyekun cierra el ciclo, llama a eggun y pide entierro de lo viejo. Se lee primero [[ofun-meyi|Ofun Meyi (Oragun)]] (tono) y después [[oyekun-meyi|Oyekun Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[oyekun-ofun|Oyekun Ofun]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/ofun-meyi|Ofun Meyi (Oragun)]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- Los museos, los monstruos y la memoria.
+- Maestros y aprendices; experiencia y obediencia.
+- Cruce Ofun × Oyekun: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: origen, memoria, blanco × muerte, ciclo, herencia
-- Orishas a tener en cuenta: Oduduwa, Obatalá, Olofin, Eggun, Ikú, Oyá, Olokun, Shangó
+- Rezo de linaje de Ofun Oyekun (anotar el texto que canta su casa).
+- Se invoca primero el padre Ofun y se cierra con Oyekun.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Ángel peleando; niño enfermo en casa — dé de comer a su ángel.
+- Hay dos personas y una barriga; una soñó con santo.
+- Lea el ire de Ofun *a través* de Oyekun: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Oyekun Ofun.
+
+## Lista de patakies
+
+- El santo amarrado y la desobediencia que lo tiene preso.
+- Shangó, Oshosi y Oggún tumban árboles; el jobo, el atori y el heno hacen ebó y se salvan.
+- Historias de la casa donde Ofun se encuentra con Oyekun: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Ofun (Fama si el ángel concede) llega *a través* de Oyekun.
+- Se sostiene si se respeta lo que pide Ikú y Oduduwa.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Desobediencia al santo.
+- Cautela del segundo: Ikú detrás de amigos; identidades confundidas.
+- Cruce típico: origen + obediencia se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Oduduwa, Obatalá, Olofin, Eggun, Ikú, Oyá, Olokun, Shangó
+- Ámbitos: origen, obediencia, duelo, herencia
+- Temas: origen, memoria, blanco, cierre, muerte, ciclo
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Qué origen está desobedeciendo?
+- ¿Qué ciclo se niega a enterrar?
+- ¿Este asunto es más de Ofun (tono) o de Oyekun (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[ofun-meyi|Ofun Meyi (Oragun)]] y lea tono + osogbo.
+2. Abra el segundo [[oyekun-meyi|Oyekun Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[oyekun-ofun|Oyekun Ofun]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Ofun
 
-- Padre: [[domains/ifa/entries/meji/ofun-meyi|Ofun Meyi (Oragun)]]
-- Inverso: [[domains/ifa/entries/omoluo/oyekun-ofun|Oyekun Ofun]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[ofun-ogbe|Ofun Gbe]] · [[ofun-oyekun|Ofun Oyekun]] · [[ofun-iwori|Ofun Iwori]] · [[ofun-odi|Ofun Odi]] · [[ofun-iroso|Ofun Iroso]] · [[ofun-ojuani|Ofun Ojuani]] · [[ofun-obara|Ofun Obara]] · [[ofun-okana|Ofun Okana]] · [[ofun-ogunda|Ofun Ogunda]] · [[ofun-osa|Ofun Osa]] · [[ofun-ika|Ofun Ika]] · [[ofun-otrupon|Ofun Otrupon]] · [[ofun-otura|Ofun Otura]] · [[ofun-irete|Ofun Irete]] · [[ofun-oshe|Ofun Oshe]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

@@ -1,76 +1,93 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Otura Ofun
 slug: otura-ofun
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Otura Ofun
-family: Otura
-right: Otura
-left: Ofun
-class: [omoluo, odu-compuesto]
-parent_meji: [[otura-meyi]]
-second_meji: [[ofun-meyi]]
+n: 211
+familia: Otura
+padre: Otura
+segundo: Ofun
+aliases: [Otura Ofun, Otura Meyi Ofun, otura ofun]
+tags: [ifa, oddun, omoluo, familia/otura, cruce/ofun]
+orishas: [Obatalá, Orunmila, Ozain, Oduduwa, Olofin, Eggun]
+temas: [palabra, consejo, astucia, origen, memoria, blanco]
+consulta: true
 ---
 
-# Otura Ofun
+# 211. Otura Ofun
 
-> Hijo de Otura con Ofun. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/otura-meyi|Otura Meyi]] (13)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/ofun-meyi|Ofun Meyi (Oragun)]] (16)
+**Buscar en Obsidian:** `Otura Ofun` · `Otura Ofun` · `otura-ofun`
+**Padre:** [[otura-meyi|Otura Meyi]] (13) · **Segundo:** [[ofun-meyi|Ofun Meyi (Oragun)]] (16) · **Inverso:** [[ofun-otura|Ofun Otura]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Otura Ofun** es Otura Meyi cruzado con Ofun Meyi (Oragun). El padre Otura sentencia con la palabra y pide siembra, no porfía. El segundo pie Ofun devuelve al origen blanco y señala al santo desobedecido. Se lee primero [[otura-meyi|Otura Meyi]] (tono) y después [[ofun-meyi|Ofun Meyi (Oragun)]] (matiz). Si la salida se siente al revés, abra también el inverso [[ofun-otura|Ofun Otura]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/otura-meyi|Otura Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/ofun-meyi|Ofun Meyi (Oragun)]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- La palabra que crea y la palabra que condena.
+- Los museos, los monstruos y la memoria.
+- Cruce Otura × Ofun: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: palabra, astucia, justicia × origen, memoria, blanco
-- Orishas a tener en cuenta: Obatalá, Orunmila, Ozain, Oduduwa, Olofin, Eggun
+- Rezo de linaje de Otura Ofun (anotar el texto que canta su casa).
+- Se invoca primero el padre Otura y se cierra con Ofun.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Ifá del zorro en algunos caminos: reparte buenos y malos con astucia.
+- Ángel peleando; niño enfermo en casa — dé de comer a su ángel.
+- Lea el ire de Otura *a través* de Ofun: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Ofun Otura.
+
+## Lista de patakies
+
+- El babalawo, las jicoteas y el dinero que se recompensa.
+- El santo amarrado y la desobediencia que lo tiene preso.
+- Historias de la casa donde Otura se encuentra con Ofun: anotar aquí el patakín que le tiraron.
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Otura (Siembra que prende) llega *a través* de Ofun.
+- Se sostiene si se respeta lo que pide Oduduwa y Obatalá.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Soberbia voluntariosa; abandono por majadería.
+- Cautela del segundo: Desobediencia al santo.
+- Cruce típico: palabra + consejo se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Obatalá, Orunmila, Ozain, Oduduwa, Olofin, Eggun
+- Ámbitos: palabra, consejo, origen, obediencia
+- Temas: palabra, consejo, astucia, origen, memoria, blanco
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Su palabra está sembrando o sentenciando?
+- ¿Qué origen está desobedeciendo?
+- ¿Este asunto es más de Otura (tono) o de Ofun (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[otura-meyi|Otura Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[ofun-meyi|Ofun Meyi (Oragun)]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[ofun-otura|Ofun Otura]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Otura
 
-- Padre: [[domains/ifa/entries/meji/otura-meyi|Otura Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/ofun-otura|Ofun Otura]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[otura-ogbe|Otura Ogbe]] · [[otura-oyekun|Otura Oyekun]] · [[otura-iwori|Otura Iwori]] · [[otura-odi|Otura Odi]] · [[otura-iroso|Otura Iroso]] · [[otura-ojuani|Otura Ojuani]] · [[otura-obara|Otura Obara]] · [[otura-okana|Otura Okana]] · [[otura-ogunda|Otura Ogunda]] · [[otura-osa|Otura Osa]] · [[otura-ika|Otura Ika]] · [[otura-otrupon|Otura Otrupon]] · [[otura-irete|Otura Irete]] · [[otura-oshe|Otura Oshe]] · [[otura-ofun|Otura Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

@@ -1,28 +1,39 @@
 ---
-type: Odu-Meji
+type: oddun
+clase: meji
 title: Okana Meyi
 slug: okana-meyi
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Okana Meyi
 n: 8
-class: [meji, oju-odu]
-sphere: [fuego, violencia, awofaka, intercambio-orisha]
+familia: Okana
+aliases: [Okana Meyi, Okanran Meji, Okana Meji, Ọ̀kànràn Méjì, Okana Sorde, Okana Meyi, Okana]
+tags: [ifa, oddun, meji, familia/okana]
 orishas: [Eshú, Shangó, Ikú]
-aliases: [Okana Meyi, Ọ̀kànràn Méjì, Okana Meyi]
+temas: [fuego, prisa, awofaka, violencia, trueque]
+consulta: true
+patakies:
+  - "[[Dice Ifa que el Akuko fue a una]]"
+  - "[[Dice Ifa que habían Awo Mefa muy pobres]]"
+  - "[[Dice que era un Okuni muy caprichoso y]]"
+  - "[[En esos días el Cielo Oke estaba muy]]"
+  - "[[ENTENDER LO BUENO DE LO MALO]]"
+  - "[[GBETO NU KU DO KLA A. LA NUKU KA DO KLA A. MA LO NU]]"
+  - "[[Lerifo era una niña que desde que nació]]"
+  - "[[Shango vino al mundo bajo este signo]]"
+
 ---
 
-# Okana Meyi
+# 08. Okana Meyi
 
-> Mapa de literatura tradicional para vault. No es consulta de Ifá, ni ebó prescrito, ni reimpresión del tratado.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Lucumí:** Okana Meyi · **Yoruba:** Ọ̀kànràn Méjì · **Familia:** Okana · **Seniority:** 8/16
+**Buscar en Obsidian:** `Okana Meyi` · `Okana` · `Ọ̀kànràn Méjì`
+**Familia:** Okana · **Seniority:** 8/16 · **Yoruba:** Ọ̀kànràn Méjì
+
+## Consulta rápida
+
+Se hace al revés para ver si el bien estaba escondido. Lo que pide Eshú a veces se paga a Shangó y al contrario. Pierna, casa que se desata, hijo y dinero si no se deja llevar a otro ile.
+
+Tono: *fuego corto, prisa, violencia, trueque Eshú-Shangó*.
 
 ## Marca
 
@@ -30,77 +41,81 @@ aliases: [Okana Meyi, Ọ̀kànràn Méjì, Okana Meyi]
 00
 00
 00
-II
+00
 ```
 
-Notación de cuaderno: `00 / 00 / 00 / II`. El trazo ritual lo da el babalawo en el tablero o el santero en el dilogún; esta nota no sustituye esa mano.
+Cuaderno: `00 / 00 / 00 / II`. El trazo lo hace quien tira, no esta nota.
 
-Dilogún / cierre aproximado: 1 (Okana).
-
-## Lo que nace en este oddun
+## En este odun nace
 
 - El ikofa eshanile y el awofaka.
-- Avisos de muerte súbita de varias personas (leer como urgencia de ebó, no como sentencia).
+- Avisos de golpe súbito: urgencia de ebó, no sentencia.
 
-## Keynotes
+## Rezo
 
-- Fuego corto, violencia, lo que se hace al revés para ver si enderezó.
-- Lo que pide Eshú se da a Shangó y lo que pide Shangó se da a Eshú — intercambio de caminos.
-- Pierna mala, casa que se desata, hijo y dinero que llegan si no se deja engañar.
+- Rezo de linaje de Okana; lo que pide Eshú a veces se paga a Shangó y al contrario.
+- Se hace al revés para revelar el ire tapado.
 
-## Ire (cuando el camino abre)
+## Dice Ifá
 
-- Cuando sale este Ifá se hace todo al revés para revelar el bien escondido.
+- Mal por dentro de una pierna; casa que se quiere desatar.
+- Persona que habla mal en ausencia.
+- Hijo y dinero llegan si no se deja llevar a otro ile.
+- No frijoles colorados.
+
+## Lista de patakies
+
+- Eleguá pescando sin anzuelo y la pelea de los dueños de la canoa.
+- El trueque de caminos entre Eshú y Shangó.
+
+
+## Ire
+
+- El vuelco ritual revela el ire tapado.
 
 ## Osogbo / cautelas
 
-- No frijoles colorados. Persona que habla mal en ausencia.
-- Mujer que le gusta tomar; babalawo que quiere llevarlo a otro lugar.
+- Frijoles colorados; lengua ajena en ausencia.
+- Engaño de quien quiere mudarlo de casa.
 
-## Orishas y ewe
+## Orishas y ámbitos
 
-- Orishas que suelen hablar aquí: Eshú, Shangó, Ikú
-- Ewe / prohibiciones citadas en el habla del tratado: llantén
+- Orishas: Eshú, Shangó, Ikú
+- Ámbitos: pelea, accidente, awofaka, prisa
 
-## Hijos de esta familia (Omolúo)
+## Preguntas para el ita (no para sustituirlo)
 
-Ver índice: [[domains/ifa/indexes/BY-FAMILY]] · padre [[domains/ifa/indexes/FULL-LIST]]
+- ¿Dónde está actuando con prisa de fuego?
+- ¿Hay un trueque de caminos sin permiso?
 
-- [[omoluo/okana-ogbe|Okana Ogbe]]
-- [[omoluo/okana-oyekun|Okana Oyekun]]
-- [[omoluo/okana-iwori|Okana Iwori]]
-- [[omoluo/okana-odi|Okana Odi]]
-- [[omoluo/okana-iroso|Okana Iroso]]
-- [[omoluo/okana-ojuani|Okana Ojuani]]
-- [[omoluo/okana-obara|Okana Obara]]
-- [[meji/okana-meyi|Okana Okana]]
-- [[omoluo/okana-ogunda|Okana Ogunda]]
-- [[omoluo/okana-osa|Okana Osa]]
-- [[omoluo/okana-ika|Okana Ika]]
-- [[omoluo/okana-otrupon|Okana Otrupon]]
-- [[omoluo/okana-otura|Okana Otura]]
-- [[omoluo/okana-irete|Okana Irete]]
-- [[omoluo/okana-oshe|Okana Oshe]]
-- [[omoluo/okana-ofun|Okana Ofun]]
+## Familia — 15 hijos
 
-## Relaciones
+- [[okana-ogbe|Okana Ogbe]]
+- [[okana-oyekun|Okana Oyekun]]
+- [[okana-iwori|Okana Iwori]]
+- [[okana-odi|Okana Odi]]
+- [[okana-iroso|Okana Iroso]]
+- [[okana-ojuani|Okana Ojuani]]
+- [[okana-obara|Okana Obara]]
+- [[okana-ogunda|Okana Ogunda]]
+- [[okana-osa|Okana Osa]]
+- [[okana-ika|Okana Ika]]
+- [[okana-otrupon|Okana Otrupon]]
+- [[okana-otura|Okana Otura]]
+- [[okana-irete|Okana Irete]]
+- [[okana-oshe|Okana Oshe]]
+- [[okana-ofun|Okana Ofun]]
 
-- Anterior: [[domains/ifa/entries/meji/obara-meyi|Obara Meyi]]
-- Siguiente: [[domains/ifa/entries/meji/ogunda-meyi|Ogunda Meyi]]
-- Comparar con: ver [[domains/ifa/relationships/GRAPH]]
+## Relacionados
 
-## Espacio de trabajo del awó / santero
+- Anterior: [[obara-meyi|Obara Meyi]]
+- Siguiente: [[ogunda-meyi|Ogunda Meyi]]
+- Inversos y cruces: [[FULL-LIST]] · [[BY-FAMILY]]
+- Compendio: [[COMPENDIO]]
 
-- Rezos, suyeres y patakines completos viven en el cuaderno de linaje, no en este vault.
-- Anota aquí solo lo que tu casa autorice: ita personal, ebó ya realizado, fecha.
+## Registro de casa
 
-### Registro
-
-- Fecha de salida:
-- Ire / osogbo marcado:
-- Ebó indicado por el sacerdote:
+- Fecha en que salió:
+- Ire / osogbo:
+- Ebó que indicó el sacerdote:
 - Cumplido:
-
-## Agent notes
-
-No inventar ebó ni dosis. Si el usuario describe urgencia médica (pecho, ahogo, ideación suicida, embarazo con sangrado) se corta la analogía y se pide ayuda profesional. Ifá no sustituye urgencias.

@@ -1,76 +1,93 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Oyekun Otrupon
 slug: oyekun-otrupon
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Oyekun Otrupon
-family: Oyekun
-right: Oyekun
-left: Otrupon
-class: [omoluo, odu-compuesto]
-parent_meji: [[oyekun-meyi]]
-second_meji: [[otrupon-meyi]]
+n: 42
+familia: Oyekun
+padre: Oyekun
+segundo: Otrupon
+aliases: [Oyekun Otrupon, Oyekun Meyi Otrupon, oyekun otrupon]
+tags: [ifa, oddun, omoluo, familia/oyekun, cruce/otrupon]
+orishas: [Ikú, Oyá, Eggun, Olokun, Shangó, Babalú Ayé, Osain]
+temas: [cierre, muerte, ciclo, enfermedad, humildad]
+consulta: true
 ---
 
-# Oyekun Otrupon
+# 042. Oyekun Otrupon
 
-> Hijo de Oyekun con Otrupon. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]] (2)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/otrupon-meyi|Otrupon Meyi]] (12)
+**Buscar en Obsidian:** `Oyekun Otrupon` · `Oyekun Otrupon` · `oyekun-otrupon`
+**Padre:** [[oyekun-meyi|Oyekun Meyi]] (2) · **Segundo:** [[otrupon-meyi|Otrupon Meyi]] (12) · **Inverso:** [[otrupon-oyekun|Otrupon Oyekun]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Oyekun Otrupon** es Oyekun Meyi cruzado con Otrupon Meyi. El padre Oyekun cierra el ciclo, llama a eggun y pide entierro de lo viejo. El segundo pie Otrupon enferma para enseñar y sube lo que estaba abajo. Se lee primero [[oyekun-meyi|Oyekun Meyi]] (tono) y después [[otrupon-meyi|Otrupon Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[otrupon-oyekun|Otrupon Oyekun]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/otrupon-meyi|Otrupon Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- Maestros y aprendices; experiencia y obediencia.
+- La enfermedad que enseña.
+- Cruce Oyekun × Otrupon: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: muerte, ciclo, herencia × enfermedad, humildad, justicia
-- Orishas a tener en cuenta: Ikú, Oyá, Eggun, Olokun, Shangó, Babalú Ayé, Osain
+- Rezo de linaje de Oyekun Otrupon (anotar el texto que canta su casa).
+- Se invoca primero el padre Oyekun y se cierra con Otrupon.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Hay dos personas y una barriga; una soñó con santo.
+- Hija de Santa Bárbara: Shangó persigue; la fortuna puede traer lío de justicia.
+- Lea el ire de Oyekun *a través* de Otrupon: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Otrupon Oyekun.
+
+## Lista de patakies
+
+- Shangó, Oshosi y Oggún tumban árboles; el jobo, el atori y el heno hacen ebó y se salvan.
+- Los que van arriba y los que van abajo.
+- Historias de la casa donde Oyekun se encuentra con Otrupon: anotar aquí el patakín que le tiraron.
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Oyekun (Herencia que llega a tiempo) llega *a través* de Otrupon.
+- Se sostiene si se respeta lo que pide Babalú Ayé y Ikú.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Ikú detrás de amigos; identidades confundidas.
+- Cautela del segundo: Candela, robo, no tomar lo tapado.
+- Cruce típico: duelo + herencia se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Ikú, Oyá, Eggun, Olokun, Shangó, Babalú Ayé, Osain
+- Ámbitos: duelo, herencia, cuerpo, vergüenza
+- Temas: cierre, muerte, ciclo, enfermedad, humildad
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Qué ciclo se niega a enterrar?
+- ¿Qué enfermedad está dando clase?
+- ¿Este asunto es más de Oyekun (tono) o de Otrupon (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[oyekun-meyi|Oyekun Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[otrupon-meyi|Otrupon Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[otrupon-oyekun|Otrupon Oyekun]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Oyekun
 
-- Padre: [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/otrupon-oyekun|Otrupon Oyekun]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[oyekun-ogbe|Yekun Ogbe]] · [[oyekun-iwori|Oyekun Iwori]] · [[oyekun-odi|Oyekun Odi]] · [[oyekun-iroso|Oyekun Iroso]] · [[oyekun-ojuani|Oyekun Ojuani]] · [[oyekun-obara|Oyekun Obara]] · [[oyekun-okana|Oyekun Okana]] · [[oyekun-ogunda|Oyekun Ogunda]] · [[oyekun-osa|Oyekun Osa]] · [[oyekun-ika|Oyekun Ika]] · [[oyekun-otrupon|Oyekun Otrupon]] · [[oyekun-otura|Oyekun Otura]] · [[oyekun-irete|Oyekun Irete]] · [[oyekun-oshe|Oyekun Oshe]] · [[oyekun-ofun|Oyekun Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

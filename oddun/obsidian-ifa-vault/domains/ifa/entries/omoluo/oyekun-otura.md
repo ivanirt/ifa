@@ -1,76 +1,103 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Oyekun Otura
 slug: oyekun-otura
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Oyekun Otura
-family: Oyekun
-right: Oyekun
-left: Otura
-class: [omoluo, odu-compuesto]
-parent_meji: [[oyekun-meyi]]
-second_meji: [[otura-meyi]]
+n: 43
+familia: Oyekun
+padre: Oyekun
+segundo: Otura
+aliases: [Oyekun Otura, Oyekun Meyi Otura, oyekun otura]
+tags: [ifa, oddun, omoluo, familia/oyekun, cruce/otura]
+orishas: [Ikú, Oyá, Eggun, Olokun, Shangó, Obatalá, Orunmila, Ozain]
+temas: [cierre, muerte, ciclo, palabra, consejo, astucia]
+consulta: true
+patakies:
+  - "[[Como Ifa Abrió el Camino Para Que la Riqueza Viniera]]"
+  - "[[de Otura Niko]]"
+  - "[[Iku Dios de la muerte es el mensajero]]"
+  - "[[La Adivinación Para el Hombre Blanco Cuando Estaba]]"
+  - "[[Los Viejos Pierden su Autoridad total en la]]"
+  - "[[OturaMeji abrió el camino para que la riqueza]]"
+  - "[[OturaMeji viaja a Imodina para ayudar a los]]"
+  - "[[Por que los cangrejos no tiene cabeza (Otura Meji)]]"
+
 ---
 
-# Oyekun Otura
+# 043. Oyekun Otura
 
-> Hijo de Oyekun con Otura. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]] (2)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/otura-meyi|Otura Meyi]] (13)
+**Buscar en Obsidian:** `Oyekun Otura` · `Oyekun Otura` · `oyekun-otura`
+**Padre:** [[oyekun-meyi|Oyekun Meyi]] (2) · **Segundo:** [[otura-meyi|Otura Meyi]] (13) · **Inverso:** [[otura-oyekun|Otura Oyekun]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Oyekun Otura** es Oyekun Meyi cruzado con Otura Meyi. El padre Oyekun cierra el ciclo, llama a eggun y pide entierro de lo viejo. El segundo pie Otura sentencia con la palabra y pide siembra, no porfía. Se lee primero [[oyekun-meyi|Oyekun Meyi]] (tono) y después [[otura-meyi|Otura Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[otura-oyekun|Otura Oyekun]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/otura-meyi|Otura Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- Maestros y aprendices; experiencia y obediencia.
+- La palabra que crea y la palabra que condena.
+- Cruce Oyekun × Otura: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: muerte, ciclo, herencia × palabra, astucia, justicia
-- Orishas a tener en cuenta: Ikú, Oyá, Eggun, Olokun, Shangó, Obatalá, Orunmila, Ozain
+- Rezo de linaje de Oyekun Otura (anotar el texto que canta su casa).
+- Se invoca primero el padre Oyekun y se cierra con Otura.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Hay dos personas y una barriga; una soñó con santo.
+- Ifá del zorro en algunos caminos: reparte buenos y malos con astucia.
+- Lea el ire de Oyekun *a través* de Otura: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Otura Oyekun.
+
+## Lista de patakies
+
+- Shangó, Oshosi y Oggún tumban árboles; el jobo, el atori y el heno hacen ebó y se salvan.
+- El babalawo, las jicoteas y el dinero que se recompensa.
+- Historias de la casa donde Oyekun se encuentra con Otura: anotar aquí el patakín que le tiraron.
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Oyekun (Herencia que llega a tiempo) llega *a través* de Otura.
+- Se sostiene si se respeta lo que pide Obatalá y Ikú.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Ikú detrás de amigos; identidades confundidas.
+- Cautela del segundo: Soberbia voluntariosa; abandono por majadería.
+- Cruce típico: duelo + herencia se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Ikú, Oyá, Eggun, Olokun, Shangó, Obatalá, Orunmila, Ozain
+- Ámbitos: duelo, herencia, palabra, consejo
+- Temas: cierre, muerte, ciclo, palabra, consejo, astucia
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Qué ciclo se niega a enterrar?
+- ¿Su palabra está sembrando o sentenciando?
+- ¿Este asunto es más de Oyekun (tono) o de Otura (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[oyekun-meyi|Oyekun Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[otura-meyi|Otura Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[otura-oyekun|Otura Oyekun]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Oyekun
 
-- Padre: [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/otura-oyekun|Otura Oyekun]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[oyekun-ogbe|Yekun Ogbe]] · [[oyekun-iwori|Oyekun Iwori]] · [[oyekun-odi|Oyekun Odi]] · [[oyekun-iroso|Oyekun Iroso]] · [[oyekun-ojuani|Oyekun Ojuani]] · [[oyekun-obara|Oyekun Obara]] · [[oyekun-okana|Oyekun Okana]] · [[oyekun-ogunda|Oyekun Ogunda]] · [[oyekun-osa|Oyekun Osa]] · [[oyekun-ika|Oyekun Ika]] · [[oyekun-otrupon|Oyekun Otrupon]] · [[oyekun-otura|Oyekun Otura]] · [[oyekun-irete|Oyekun Irete]] · [[oyekun-oshe|Oyekun Oshe]] · [[oyekun-ofun|Oyekun Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

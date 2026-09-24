@@ -4,7 +4,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Odú Ifá — DAFA",
-  description: "Consulta de odú desde el ekele, con las notas de DAFA.",
+  description: "Odún del día y registro de tres signos desde el ekele, con las notas de DAFA.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

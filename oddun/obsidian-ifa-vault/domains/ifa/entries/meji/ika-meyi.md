@@ -1,28 +1,39 @@
 ---
-type: Odu-Meji
+type: oddun
+clase: meji
 title: Ika Meyi
 slug: ika-meyi
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Ika Meyi
 n: 11
-class: [meji, oju-odu]
-sphere: [soberbia, oficio, hermanos, herramientas]
+familia: Ika
+aliases: [Ika Meyi, Ika Meji, Ìká Méjì, Ika Meyi, Ika]
+tags: [ifa, oddun, meji, familia/ika]
 orishas: [Oggún, Orunmila, Eshú]
-aliases: [Ika Meyi, Ìká Méjì, Ika Meyi]
+temas: [soberbia, oficio, humildad, hermanos, herramientas]
+consulta: true
+patakies:
+  - "[[AJINAKU el elefante antes fue un animal pequeño]]"
+  - "[[de Ika Bara]]"
+  - "[[de Ika Trupo]]"
+  - "[[DE TI DE JI DO GBA U BO GLO KU. FA HWI WE MI KPE ZO!]]"
+  - "[[Había un Awo llamado Yearodi que tenia una]]"
+  - "[[Había una mujer muy rica pero muy ruin]]"
+  - "[[Orula llegó a una Tierra en que los]]"
+  - "[[Orula tenia a su mujer en estado y]]"
+
 ---
 
-# Ika Meyi
+# 11. Ika Meyi
 
-> Mapa de literatura tradicional para vault. No es consulta de Ifá, ni ebó prescrito, ni reimpresión del tratado.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Lucumí:** Ika Meyi · **Yoruba:** Ìká Méjì · **Familia:** Ika · **Seniority:** 11/16
+**Buscar en Obsidian:** `Ika Meyi` · `Ika` · `Ìká Méjì`
+**Familia:** Ika · **Seniority:** 11/16 · **Yoruba:** Ìká Méjì
+
+## Consulta rápida
+
+El dedo que señala se tuerce. Cinco hermanos y uno solo quiere oficio: ese carga el saco y camina. Oggún premia con herramientas, no con corona prestada.
+
+Tono: *soberbia corregida, oficio, herramientas, hermanos*.
 
 ## Marca
 
@@ -33,74 +44,77 @@ II
 II
 ```
 
-Notación de cuaderno: `00 / II / 00 / II`. El trazo ritual lo da el babalawo en el tablero o el santero en el dilogún; esta nota no sustituye esa mano.
+Cuaderno: `00 / II / 00 / II`. El trazo lo hace quien tira, no esta nota.
 
-Dilogún / cierre aproximado: 2 camino de Ika en combinaciones de Ifá.
-
-## Lo que nace en este oddun
+## En este odun nace
 
 - La humildad que corrige la soberbia.
 - Las herramientas del oficio y el hermano que no quiso aprender.
 
-## Keynotes
+## Rezo
 
-- El dedo que señala y se tuerce: arrogancia castigada.
-- Cinco hermanos; solo uno quería oficio. Ika recoge lo poco, echa el saco al hombro y camina.
-- El viejo Oggún premia con herramientas a quien sí quiere trabajar.
+- Rezo de linaje de Ika; se pide oficio, no corona prestada.
+- Se nombra a Oggún cuando hay herramienta que entregar.
 
-## Ire (cuando el camino abre)
+## Dice Ifá
 
-- Oficio propio. Herramientas. Gente alrededor cuando se deja la soberbia.
+- Cinco hermanos y uno solo quiere oficio: ese carga el saco.
+- El viejo Oggún premia con herramientas a quien sí trabaja.
+- No recoja trabajo que no sabe hacer.
+
+## Lista de patakies
+
+- Ika y los cinco hermanos: el saco al hombro y las herramientas de Oggún.
+- El oficio que se niega y la envidia que mira al mar.
+
+
+## Ire
+
+- Oficio propio; gente alrededor cuando cae el orgullo.
 
 ## Osogbo / cautelas
 
-- Enemigos que miran hacia el mar. Querer ser rico sin oficio.
-- No recoger trabajo que no se sabe hacer.
+- Querer riqueza sin oficio.
+- Enemigos que miran al mar.
 
-## Orishas y ewe
+## Orishas y ámbitos
 
-- Orishas que suelen hablar aquí: Oggún, Orunmila, Eshú
-- Ewe / prohibiciones citadas en el habla del tratado: ver cuaderno de casa
+- Orishas: Oggún, Orunmila, Eshú
+- Ámbitos: oficio, hermanos, orgullo, aprendizaje
 
-## Hijos de esta familia (Omolúo)
+## Preguntas para el ita (no para sustituirlo)
 
-Ver índice: [[domains/ifa/indexes/BY-FAMILY]] · padre [[domains/ifa/indexes/FULL-LIST]]
+- ¿Dónde está fingiendo un oficio que no tiene?
+- ¿A qué hermano dejó atrás?
 
-- [[omoluo/ika-ogbe|Ika Ogbe]]
-- [[omoluo/ika-oyekun|Ika Oyekun]]
-- [[omoluo/ika-iwori|Ika Iwori]]
-- [[omoluo/ika-odi|Ika Odi]]
-- [[omoluo/ika-iroso|Ika Iroso]]
-- [[omoluo/ika-ojuani|Ika Ojuani]]
-- [[omoluo/ika-obara|Ika Obara]]
-- [[omoluo/ika-okana|Ika Okana]]
-- [[omoluo/ika-ogunda|Ika Ogunda]]
-- [[omoluo/ika-osa|Ika Osa]]
-- [[meji/ika-meyi|Ika Ika]]
-- [[omoluo/ika-otrupon|Ika Otrupon]]
-- [[omoluo/ika-otura|Ika Otura]]
-- [[omoluo/ika-irete|Ika Irete]]
-- [[omoluo/ika-oshe|Ika Oshe]]
-- [[omoluo/ika-ofun|Ika Ofun]]
+## Familia — 15 hijos
 
-## Relaciones
+- [[ika-ogbe|Ika Ogbe]]
+- [[ika-oyekun|Ika Oyekun]]
+- [[ika-iwori|Ika Iwori]]
+- [[ika-odi|Ika Odi]]
+- [[ika-iroso|Ika Iroso]]
+- [[ika-ojuani|Ika Ojuani]]
+- [[ika-obara|Ika Obara]]
+- [[ika-okana|Ika Okana]]
+- [[ika-ogunda|Ika Ogunda]]
+- [[ika-osa|Ika Osa]]
+- [[ika-otrupon|Ika Otrupon]]
+- [[ika-otura|Ika Otura]]
+- [[ika-irete|Ika Irete]]
+- [[ika-oshe|Ika Oshe]]
+- [[ika-ofun|Ika Ofun]]
 
-- Anterior: [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]]
-- Siguiente: [[domains/ifa/entries/meji/otrupon-meyi|Otrupon Meyi]]
-- Comparar con: ver [[domains/ifa/relationships/GRAPH]]
+## Relacionados
 
-## Espacio de trabajo del awó / santero
+- Anterior: [[osa-meyi|Osa Meyi]]
+- Siguiente: [[otrupon-meyi|Otrupon Meyi]]
+- Inversos y cruces: [[FULL-LIST]] · [[BY-FAMILY]]
+- Compendio: [[COMPENDIO]]
 
-- Rezos, suyeres y patakines completos viven en el cuaderno de linaje, no en este vault.
-- Anota aquí solo lo que tu casa autorice: ita personal, ebó ya realizado, fecha.
+## Registro de casa
 
-### Registro
-
-- Fecha de salida:
-- Ire / osogbo marcado:
-- Ebó indicado por el sacerdote:
+- Fecha en que salió:
+- Ire / osogbo:
+- Ebó que indicó el sacerdote:
 - Cumplido:
-
-## Agent notes
-
-No inventar ebó ni dosis. Si el usuario describe urgencia médica (pecho, ahogo, ideación suicida, embarazo con sangrado) se corta la analogía y se pide ayuda profesional. Ifá no sustituye urgencias.

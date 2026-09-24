@@ -1,28 +1,49 @@
 ---
-type: Odu-Meji
+type: oddun
+clase: meji
 title: Ojuani Meyi
 slug: ojuani-meyi
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Ojuani Meyi
 n: 6
-class: [meji, oju-odu]
-sphere: [revolucion, envidia, babalu, cambio, camaleon]
-orishas: [Babalú Ayé, Eshú, Oggún, el camaleón (itá)]
-aliases: [Ojuani Meyi, Owọ́nrín Méjì, Ojuani Meyi]
+familia: Ojuani
+aliases: [Ojuani Meyi, Ojuani Meji, Owonrin Meji, Owọ́nrín Méjì, Ojuani Bofun, Ojuani Meyi, Ojuani]
+tags: [ifa, oddun, meji, familia/ojuani]
+orishas: [Babalú Ayé, Eshú, Oggún]
+temas: [vuelco, envidia, revolución, camaleón, babalu]
+consulta: true
+patakies:
+  - "[[de Ojuani Shobi Adivinación hecha para Ogun y]]"
+  - "[[de Oyekun Birete]]"
+  - "[[de Oyekun Etura]]"
+  - "[[de Oyekun Gunda]]"
+  - "[[de Oyekun Sa]]"
+  - "[[En este camino Obatala estaba sufriendo porque en]]"
+  - "[[Este fue el signo que revelo como Orunmila]]"
+  - "[[Existen dos especies de Sakpata Sakpata salvaje llamado]]"
+  - "[[Fuego tenía una guerra con la Lluvia]]"
+  - "[[Había una muchacha que sé negaba a todos]]"
+  - "[[Había una vez una mujer muy pobre quien]]"
+  - "[[Li siempre prometía de salir en guerra contra]]"
+  - "[[Ojuani Meji sé metamorfosea en Sakpata]]"
+  - "[[TA (A) TI KPO LI KPA WE SI AHWA DA, TA (A) TI HWA NA]]"
+  - "[[Tal es el signo que sé encontró a]]"
+  - "[[Una vez hace tiempo Babalu aye fue a]]"
+  - "[[WELE MEJI La Guinea Sonu y el leopardo]]"
+  - "[[ZO CE, KESE TO MO NO CI]]"
+
 ---
 
-# Ojuani Meyi
+# 06. Ojuani Meyi
 
-> Mapa de literatura tradicional para vault. No es consulta de Ifá, ni ebó prescrito, ni reimpresión del tratado.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Lucumí:** Ojuani Meyi · **Yoruba:** Owọ́nrín Méjì · **Familia:** Ojuani · **Seniority:** 6/16
+**Buscar en Obsidian:** `Ojuani Meyi` · `Ojuani` · `Owọ́nrín Méjì`
+**Familia:** Ojuani · **Seniority:** 6/16 · **Yoruba:** Owọ́nrín Méjì
+
+## Consulta rápida
+
+Guerra que se pierde y Eshú que la gana: el disgusto cesa cuando se acepta el vuelco. Camaleón contra perro: envidia del collar ajeno. Tres lugares —el que se deja, el que se habita, el que espera.
+
+Tono: *vuelco, envidia, revolución, color que cambia*.
 
 ## Marca
 
@@ -33,77 +54,81 @@ II
 II
 ```
 
-Notación de cuaderno: `00 / 00 / II / II`. El trazo ritual lo da el babalawo en el tablero o el santero en el dilogún; esta nota no sustituye esa mano.
+Cuaderno: `00 / 00 / II / II`. El trazo lo hace quien tira, no esta nota.
 
-Dilogún / cierre aproximado: 11 (Ojuani).
-
-## Lo que nace en este oddun
+## En este odun nace
 
 - Los arayes.
 - La creencia religiosa y las revoluciones.
-- Que la guinea y la codorniz guarden secretos de Babalú Ayé (huevos no se emplean en brujería).
+- Que la guinea y la codorniz no se usen contra Babalú Ayé.
 
-## Keynotes
+## Rezo
 
-- Cambio brusco, guerra que se pierde y Eshú que la gana — el disgusto se acaba cuando se acepta el vuelco.
-- Camaleón que quiere matar al perro: envidia del color, del collar, de lo que el otro luce.
-- Pensar ir a un lugar y no poder levantar cabeza hasta la rogación.
+- Rezo de linaje de Ojuani; se pide a Eshú que cierre la guerra que él mismo volteó.
+- Se nombra a Babalú cuando hay envidia de color o de collar.
 
-## Ire (cuando el camino abre)
+## Dice Ifá
 
-- Tres lugares: el que se deja, el que se habita, el que espera.
-- Familia cuyo mayor cuida el bien de todos; el chico padece el pecho — atenderlo.
+- Piensa irse y no puede levantar cabeza hasta la rogación.
+- Tres lugares: el que deja, el que habita, el que espera.
+- Enemigos que desean pelea entre religiosos.
+- El rey pierde la guerra y Eshú la gana: el disgusto se acaba cuando se acepta el vuelco.
+
+## Lista de patakies
+
+- El camaleón que quiere matar al perro por el color del collar.
+- El camaleón que olvida el consejo, abre la puerta y mata a la madre: queda maldecido.
+- Los santos que se mofan de Orula y Eshú que prueba la palabra del viejo.
+
+
+## Ire
+
+- Cambio de casa o de bando que salva.
+- Familia cuyo mayor cuida a todos.
 
 ## Osogbo / cautelas
 
-- Enemigos que desean que babalawo o santero se maten por celos.
-- Lotería y poco dinero frente a otra más grande.
-- No echar maldiciones; no visarse contra quien pide daño.
+- Celos entre religiosos.
+- Lotería contra necesidad; no maldecir.
 
-## Orishas y ewe
+## Orishas y ámbitos
 
-- Orishas que suelen hablar aquí: Babalú Ayé, Eshú, Oggún, el camaleón (itá)
-- Ewe / prohibiciones citadas en el habla del tratado: jaboncillo
+- Orishas: Babalú Ayé, Eshú, Oggún
+- Ámbitos: mudanza, envidia, enfermedad de piel/color, vuelco
 
-## Hijos de esta familia (Omolúo)
+## Preguntas para el ita (no para sustituirlo)
 
-Ver índice: [[domains/ifa/indexes/BY-FAMILY]] · padre [[domains/ifa/indexes/FULL-LIST]]
+- ¿A quién le envidia el color?
+- ¿Qué revolución personal está saboteando?
 
-- [[omoluo/ojuani-ogbe|Ojuani Ogbe]]
-- [[omoluo/ojuani-oyekun|Ojuani Oyekun]]
-- [[omoluo/ojuani-iwori|Ojuani Iwori]]
-- [[omoluo/ojuani-odi|Ojuani Odi]]
-- [[omoluo/ojuani-iroso|Ojuani Iroso]]
-- [[meji/ojuani-meyi|Ojuani Ojuani]]
-- [[omoluo/ojuani-obara|Ojuani Obara]]
-- [[omoluo/ojuani-okana|Ojuani Okana]]
-- [[omoluo/ojuani-ogunda|Ojuani Ogunda]]
-- [[omoluo/ojuani-osa|Ojuani Osa]]
-- [[omoluo/ojuani-ika|Ojuani Ika]]
-- [[omoluo/ojuani-otrupon|Ojuani Otrupon]]
-- [[omoluo/ojuani-otura|Ojuani Otura]]
-- [[omoluo/ojuani-irete|Ojuani Irete]]
-- [[omoluo/ojuani-oshe|Ojuani Oshe]]
-- [[omoluo/ojuani-ofun|Ojuani Ofun]]
+## Familia — 15 hijos
 
-## Relaciones
+- [[ojuani-ogbe|Ojuani Ogbe]]
+- [[ojuani-oyekun|Ojuani Oyekun]]
+- [[ojuani-iwori|Ojuani Iwori]]
+- [[ojuani-odi|Ojuani Odi]]
+- [[ojuani-iroso|Ojuani Iroso]]
+- [[ojuani-obara|Ojuani Obara]]
+- [[ojuani-okana|Ojuani Okana]]
+- [[ojuani-ogunda|Ojuani Ogunda]]
+- [[ojuani-osa|Ojuani Osa]]
+- [[ojuani-ika|Ojuani Ika]]
+- [[ojuani-otrupon|Ojuani Otrupon]]
+- [[ojuani-otura|Ojuani Otura]]
+- [[ojuani-irete|Ojuani Irete]]
+- [[ojuani-oshe|Ojuani Oshe]]
+- [[ojuani-ofun|Ojuani Ofun]]
 
-- Anterior: [[domains/ifa/entries/meji/iroso-meyi|Iroso Meyi]]
-- Siguiente: [[domains/ifa/entries/meji/obara-meyi|Obara Meyi]]
-- Comparar con: ver [[domains/ifa/relationships/GRAPH]]
+## Relacionados
 
-## Espacio de trabajo del awó / santero
+- Anterior: [[iroso-meyi|Iroso Meyi]]
+- Siguiente: [[obara-meyi|Obara Meyi]]
+- Inversos y cruces: [[FULL-LIST]] · [[BY-FAMILY]]
+- Compendio: [[COMPENDIO]]
 
-- Rezos, suyeres y patakines completos viven en el cuaderno de linaje, no en este vault.
-- Anota aquí solo lo que tu casa autorice: ita personal, ebó ya realizado, fecha.
+## Registro de casa
 
-### Registro
-
-- Fecha de salida:
-- Ire / osogbo marcado:
-- Ebó indicado por el sacerdote:
+- Fecha en que salió:
+- Ire / osogbo:
+- Ebó que indicó el sacerdote:
 - Cumplido:
-
-## Agent notes
-
-No inventar ebó ni dosis. Si el usuario describe urgencia médica (pecho, ahogo, ideación suicida, embarazo con sangrado) se corta la analogía y se pide ayuda profesional. Ifá no sustituye urgencias.

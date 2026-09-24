@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Irete Obara
 slug: irete-obara
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Irete Obara
-family: Irete
-right: Irete
-left: Obara
-class: [omoluo, odu-compuesto]
-parent_meji: [[irete-meyi]]
-second_meji: [[obara-meyi]]
+n: 218
+familia: Irete
+padre: Irete
+segundo: Obara
+aliases: [Irete Obara, Irete Meyi Obara, irete obara]
+tags: [ifa, oddun, omoluo, familia/irete, cruce/obara]
+orishas: [Shangó, Oggún, Oyá, Eggun, Olofin, Eleguá]
+temas: [pie, exilio, navaja, lengua, riqueza, realeza]
+consulta: true
 ---
 
-# Irete Obara
+# 218. Irete Obara
 
-> Hijo de Irete con Obara. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]] (14)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/obara-meyi|Obara Meyi]] (7)
+**Buscar en Obsidian:** `Irete Obara` · `Irete Obara` · `irete-obara`
+**Padre:** [[irete-meyi|Irete Meyi]] (14) · **Segundo:** [[obara-meyi|Obara Meyi]] (7) · **Inverso:** [[obara-irete|Obara Irete]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Irete Obara** es Irete Meyi cruzado con Obara Meyi. El padre Irete hace pisar el destino, destierra o resucita un pacto. El segundo pie Obara pone la lengua en el centro y discute el reparto. Se lee primero [[irete-meyi|Irete Meyi]] (tono) y después [[obara-meyi|Obara Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[obara-irete|Obara Irete]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/obara-meyi|Obara Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- La barbería; tijera y navaja del babalawo en kariosha.
+- El baile del pacto del awó con Ikú.
+- Cruce Irete × Obara: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: pie, exilio, navaja × lengua, riqueza, realeza
-- Orishas a tener en cuenta: Shangó, Oggún, Oyá, Eggun, Olofin, Eleguá, la Lengua
+- Rezo de linaje de Irete Obara (anotar el texto que canta su casa).
+- Se invoca primero el padre Irete y se cierra con Obara.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- El pie pisa destino: caídas, lágrimas, golpe en brazos y piernas.
+- Rey muerto, príncipe coronado.
+- Lea el ire de Irete *a través* de Obara: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Obara Irete.
+
+## Lista de patakies
+
+- Olofin, los viejos y las yeguas que no se entregan.
+- Obara desnudo tras el ebó: el pueblo lo nombra y Olofin le da traje y caballo.
+- Historias de la casa donde Irete se encuentra con Obara: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Irete (Oficio de navaja (iniciar, cortar, operar)) llega *a través* de Obara.
+- Se sostiene si se respeta lo que pide Shangó y Shangó.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Exilio; golpe; pacto incumplido.
+- Cautela del segundo: Mentira, pobreza extrema, bebidas que devuelven al borracho.
+- Cruce típico: pies + exilio se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Shangó, Oggún, Oyá, Eggun, Olofin, Eleguá
+- Ámbitos: pies, exilio, negocio, rumor
+- Temas: pie, exilio, navaja, lengua, riqueza, realeza
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Dónde está pisando sin mirar?
+- ¿Su boca está construyendo o derribando?
+- ¿Este asunto es más de Irete (tono) o de Obara (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[irete-meyi|Irete Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[obara-meyi|Obara Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[obara-irete|Obara Irete]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Irete
 
-- Padre: [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/obara-irete|Obara Irete]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[irete-ogbe|Irete Ogbe]] · [[irete-oyekun|Irete Oyekun]] · [[irete-iwori|Irete Iwori]] · [[irete-odi|Irete Odi]] · [[irete-iroso|Irete Iroso]] · [[irete-ojuani|Irete Ojuani]] · [[irete-obara|Irete Obara]] · [[irete-okana|Irete Okana]] · [[irete-ogunda|Irete Ogunda]] · [[irete-osa|Irete Osa]] · [[irete-ika|Irete Ika]] · [[irete-otrupon|Irete Otrupon]] · [[irete-otura|Irete Otura]] · [[irete-oshe|Irete Oshe]] · [[irete-ofun|Irete Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

@@ -1,265 +1,265 @@
-# Full list — Ifá / Oddun
+# Full list — 256 oddun
 
-Marca `[note]` cuando el archivo existe. Los 16 Meji están escritos; los 240 Omolúo están andamiados.
+Wikilinks por slug. `[note]` = archivo existe.
 
-## 16 Meji (Ojú Odù)
+## Meji
 
-- [note] 01. [[ejiogbe|Baba Ejiogbe]] — Èjì Ogbè
-- [note] 02. [[oyekun-meyi|Oyekun Meyi]] — Òyèkú Méjì
-- [note] 03. [[iwori-meyi|Iwori Meyi]] — Ìwòrì Méjì
-- [note] 04. [[odi-meyi|Odi Meyi]] — Ọ̀dí Méjì
-- [note] 05. [[iroso-meyi|Iroso Meyi]] — Ìrosùn Méjì
-- [note] 06. [[ojuani-meyi|Ojuani Meyi]] — Owọ́nrín Méjì
-- [note] 07. [[obara-meyi|Obara Meyi]] — Obàrà Méjì
-- [note] 08. [[okana-meyi|Okana Meyi]] — Ọ̀kànràn Méjì
-- [note] 09. [[ogunda-meyi|Ogunda Meyi]] — Ògúndá Méjì
-- [note] 10. [[osa-meyi|Osa Meyi]] — Òsá Méjì
-- [note] 11. [[ika-meyi|Ika Meyi]] — Ìká Méjì
-- [note] 12. [[otrupon-meyi|Otrupon Meyi]] — Oturúpọ̀n Méjì
-- [note] 13. [[otura-meyi|Otura Meyi]] — Òtúrá Méjì
-- [note] 14. [[irete-meyi|Irete Meyi]] — Ìretè Méjì
-- [note] 15. [[oshe-meyi|Oshe Meyi]] — Òsé Méjì
-- [note] 16. [[ofun-meyi|Ofun Meyi (Oragun)]] — Òfún Méjì
+- [note] 01. [[ejiogbe|Baba Ejiogbe]] (`Ogbe`)
+- [note] 02. [[oyekun-meyi|Oyekun Meyi]] (`Oyekun`)
+- [note] 03. [[iwori-meyi|Iwori Meyi]] (`Iwori`)
+- [note] 04. [[odi-meyi|Odi Meyi]] (`Odi`)
+- [note] 05. [[iroso-meyi|Iroso Meyi]] (`Iroso`)
+- [note] 06. [[ojuani-meyi|Ojuani Meyi]] (`Ojuani`)
+- [note] 07. [[obara-meyi|Obara Meyi]] (`Obara`)
+- [note] 08. [[okana-meyi|Okana Meyi]] (`Okana`)
+- [note] 09. [[ogunda-meyi|Ogunda Meyi]] (`Ogunda`)
+- [note] 10. [[osa-meyi|Osa Meyi]] (`Osa`)
+- [note] 11. [[ika-meyi|Ika Meyi]] (`Ika`)
+- [note] 12. [[otrupon-meyi|Otrupon Meyi]] (`Otrupon`)
+- [note] 13. [[otura-meyi|Otura Meyi]] (`Otura`)
+- [note] 14. [[irete-meyi|Irete Meyi]] (`Irete`)
+- [note] 15. [[oshe-meyi|Oshe Meyi]] (`Oshe`)
+- [note] 16. [[ofun-meyi|Ofun Meyi (Oragun)]] (`Ofun`)
 
-## 240 Omolúo
+## Omolúo
 
-- [note] 01×02. [[ogbe-oyekun|Ogbe Yekun]]
-- [note] 01×03. [[ogbe-iwori|Ogbe Weñe]]
-- [note] 01×04. [[ogbe-odi|Ogbe Di]]
-- [note] 01×05. [[ogbe-iroso|Ogbe Iroso]]
-- [note] 01×06. [[ogbe-ojuani|Ogbe Ojuani]]
-- [note] 01×07. [[ogbe-obara|Ogbe Obara]]
-- [note] 01×08. [[ogbe-okana|Ogbe Okana]]
-- [note] 01×09. [[ogbe-ogunda|Ogbe Ogunda]]
-- [note] 01×10. [[ogbe-osa|Ogbe Sa]]
-- [note] 01×11. [[ogbe-ika|Ogbe Ika]]
-- [note] 01×12. [[ogbe-otrupon|Ogbe Otrupon]]
-- [note] 01×13. [[ogbe-otura|Ogbe Otura]]
-- [note] 01×14. [[ogbe-irete|Ogbe Irete]]
-- [note] 01×15. [[ogbe-oshe|Ogbe She]]
-- [note] 01×16. [[ogbe-ofun|Ogbe Fun / Ogbe Funlo]]
-- [note] 02×01. [[oyekun-ogbe|Yekun Ogbe]]
-- [note] 02×03. [[oyekun-iwori|Oyekun Iwori]]
-- [note] 02×04. [[oyekun-odi|Oyekun Odi]]
-- [note] 02×05. [[oyekun-iroso|Oyekun Iroso]]
-- [note] 02×06. [[oyekun-ojuani|Oyekun Ojuani]]
-- [note] 02×07. [[oyekun-obara|Oyekun Obara]]
-- [note] 02×08. [[oyekun-okana|Oyekun Okana]]
-- [note] 02×09. [[oyekun-ogunda|Oyekun Ogunda]]
-- [note] 02×10. [[oyekun-osa|Oyekun Osa]]
-- [note] 02×11. [[oyekun-ika|Oyekun Ika]]
-- [note] 02×12. [[oyekun-otrupon|Oyekun Otrupon]]
-- [note] 02×13. [[oyekun-otura|Oyekun Otura]]
-- [note] 02×14. [[oyekun-irete|Oyekun Irete]]
-- [note] 02×15. [[oyekun-oshe|Oyekun Oshe]]
-- [note] 02×16. [[oyekun-ofun|Oyekun Ofun]]
-- [note] 03×01. [[iwori-ogbe|Iwori Bogbe]]
-- [note] 03×02. [[iwori-oyekun|Iwori Oyekun]]
-- [note] 03×04. [[iwori-odi|Iwori Odi]]
-- [note] 03×05. [[iwori-iroso|Iwori Iroso]]
-- [note] 03×06. [[iwori-ojuani|Iwori Ojuani]]
-- [note] 03×07. [[iwori-obara|Iwori Obara]]
-- [note] 03×08. [[iwori-okana|Iwori Okana]]
-- [note] 03×09. [[iwori-ogunda|Iwori Ogunda]]
-- [note] 03×10. [[iwori-osa|Iwori Osa]]
-- [note] 03×11. [[iwori-ika|Iwori Ika]]
-- [note] 03×12. [[iwori-otrupon|Iwori Otrupon]]
-- [note] 03×13. [[iwori-otura|Iwori Otura]]
-- [note] 03×14. [[iwori-irete|Iwori Irete]]
-- [note] 03×15. [[iwori-oshe|Iwori Oshe]]
-- [note] 03×16. [[iwori-ofun|Iwori Ofun]]
-- [note] 04×01. [[odi-ogbe|Odi Bre / Edibre]]
-- [note] 04×02. [[odi-oyekun|Odi Oyekun]]
-- [note] 04×03. [[odi-iwori|Odi Iwori]]
-- [note] 04×05. [[odi-iroso|Odi Iroso]]
-- [note] 04×06. [[odi-ojuani|Odi Ojuani]]
-- [note] 04×07. [[odi-obara|Odi Obara]]
-- [note] 04×08. [[odi-okana|Odi Okana]]
-- [note] 04×09. [[odi-ogunda|Odi Ogunda]]
-- [note] 04×10. [[odi-osa|Odi Osa]]
-- [note] 04×11. [[odi-ika|Odi Ika]]
-- [note] 04×12. [[odi-otrupon|Odi Otrupon]]
-- [note] 04×13. [[odi-otura|Odi Otura]]
-- [note] 04×14. [[odi-irete|Odi Irete]]
-- [note] 04×15. [[odi-oshe|Odi Oshe]]
-- [note] 04×16. [[odi-ofun|Odi Ofun]]
-- [note] 05×01. [[iroso-ogbe|Iroso Ogbe]]
-- [note] 05×02. [[iroso-oyekun|Iroso Oyekun]]
-- [note] 05×03. [[iroso-iwori|Iroso Iwori]]
-- [note] 05×04. [[iroso-odi|Iroso Odi]]
-- [note] 05×06. [[iroso-ojuani|Iroso Ojuani]]
-- [note] 05×07. [[iroso-obara|Iroso Obara]]
-- [note] 05×08. [[iroso-okana|Iroso Okana]]
-- [note] 05×09. [[iroso-ogunda|Iroso Ogunda]]
-- [note] 05×10. [[iroso-osa|Iroso Osa]]
-- [note] 05×11. [[iroso-ika|Iroso Ika]]
-- [note] 05×12. [[iroso-otrupon|Iroso Otrupon]]
-- [note] 05×13. [[iroso-otura|Iroso Otura]]
-- [note] 05×14. [[iroso-irete|Iroso Irete]]
-- [note] 05×15. [[iroso-oshe|Iroso Oshe]]
-- [note] 05×16. [[iroso-ofun|Iroso Ofun]]
-- [note] 06×01. [[ojuani-ogbe|Ojuani Ogbe]]
-- [note] 06×02. [[ojuani-oyekun|Ojuani Oyekun]]
-- [note] 06×03. [[ojuani-iwori|Ojuani Iwori]]
-- [note] 06×04. [[ojuani-odi|Ojuani Odi]]
-- [note] 06×05. [[ojuani-iroso|Ojuani Iroso]]
-- [note] 06×07. [[ojuani-obara|Ojuani Obara]]
-- [note] 06×08. [[ojuani-okana|Ojuani Okana]]
-- [note] 06×09. [[ojuani-ogunda|Ojuani Ogunda]]
-- [note] 06×10. [[ojuani-osa|Ojuani Osa]]
-- [note] 06×11. [[ojuani-ika|Ojuani Ika]]
-- [note] 06×12. [[ojuani-otrupon|Ojuani Otrupon]]
-- [note] 06×13. [[ojuani-otura|Ojuani Otura]]
-- [note] 06×14. [[ojuani-irete|Ojuani Irete]]
-- [note] 06×15. [[ojuani-oshe|Ojuani Oshe]]
-- [note] 06×16. [[ojuani-ofun|Ojuani Ofun]]
-- [note] 07×01. [[obara-ogbe|Obara Ogbe]]
-- [note] 07×02. [[obara-oyekun|Obara Oyekun]]
-- [note] 07×03. [[obara-iwori|Obara Iwori]]
-- [note] 07×04. [[obara-odi|Obara Odi]]
-- [note] 07×05. [[obara-iroso|Obara Iroso]]
-- [note] 07×06. [[obara-ojuani|Obara Ojuani]]
-- [note] 07×08. [[obara-okana|Obara Okana]]
-- [note] 07×09. [[obara-ogunda|Obara Ogunda]]
-- [note] 07×10. [[obara-osa|Obara Osa]]
-- [note] 07×11. [[obara-ika|Obara Ika]]
-- [note] 07×12. [[obara-otrupon|Obara Otrupon]]
-- [note] 07×13. [[obara-otura|Obara Otura]]
-- [note] 07×14. [[obara-irete|Obara Irete]]
-- [note] 07×15. [[obara-oshe|Obara Oshe]]
-- [note] 07×16. [[obara-ofun|Obara Ofun]]
-- [note] 08×01. [[okana-ogbe|Okana Ogbe]]
-- [note] 08×02. [[okana-oyekun|Okana Oyekun]]
-- [note] 08×03. [[okana-iwori|Okana Iwori]]
-- [note] 08×04. [[okana-odi|Okana Odi]]
-- [note] 08×05. [[okana-iroso|Okana Iroso]]
-- [note] 08×06. [[okana-ojuani|Okana Ojuani]]
-- [note] 08×07. [[okana-obara|Okana Obara]]
-- [note] 08×09. [[okana-ogunda|Okana Ogunda]]
-- [note] 08×10. [[okana-osa|Okana Osa]]
-- [note] 08×11. [[okana-ika|Okana Ika]]
-- [note] 08×12. [[okana-otrupon|Okana Otrupon]]
-- [note] 08×13. [[okana-otura|Okana Otura]]
-- [note] 08×14. [[okana-irete|Okana Irete]]
-- [note] 08×15. [[okana-oshe|Okana Oshe]]
-- [note] 08×16. [[okana-ofun|Okana Ofun]]
-- [note] 09×01. [[ogunda-ogbe|Ogunda Ogbe]]
-- [note] 09×02. [[ogunda-oyekun|Ogunda Oyekun]]
-- [note] 09×03. [[ogunda-iwori|Ogunda Iwori]]
-- [note] 09×04. [[ogunda-odi|Ogunda Odi]]
-- [note] 09×05. [[ogunda-iroso|Ogunda Iroso]]
-- [note] 09×06. [[ogunda-ojuani|Ogunda Ojuani]]
-- [note] 09×07. [[ogunda-obara|Ogunda Obara]]
-- [note] 09×08. [[ogunda-okana|Ogunda Okana]]
-- [note] 09×10. [[ogunda-osa|Ogunda Osa]]
-- [note] 09×11. [[ogunda-ika|Ogunda Ika]]
-- [note] 09×12. [[ogunda-otrupon|Ogunda Otrupon]]
-- [note] 09×13. [[ogunda-otura|Ogunda Otura]]
-- [note] 09×14. [[ogunda-irete|Ogunda Irete]]
-- [note] 09×15. [[ogunda-oshe|Ogunda Oshe]]
-- [note] 09×16. [[ogunda-ofun|Ogunda Ofun]]
-- [note] 10×01. [[osa-ogbe|Osa Ogbe]]
-- [note] 10×02. [[osa-oyekun|Osa Oyekun]]
-- [note] 10×03. [[osa-iwori|Osa Iwori]]
-- [note] 10×04. [[osa-odi|Osa Odi]]
-- [note] 10×05. [[osa-iroso|Osa Iroso]]
-- [note] 10×06. [[osa-ojuani|Osa Ojuani]]
-- [note] 10×07. [[osa-obara|Osa Obara]]
-- [note] 10×08. [[osa-okana|Osa Okana]]
-- [note] 10×09. [[osa-ogunda|Osa Ogunda]]
-- [note] 10×11. [[osa-ika|Osa Ika]]
-- [note] 10×12. [[osa-otrupon|Osa Otrupon]]
-- [note] 10×13. [[osa-otura|Osa Otura]]
-- [note] 10×14. [[osa-irete|Osa Irete]]
-- [note] 10×15. [[osa-oshe|Osa Oshe]]
-- [note] 10×16. [[osa-ofun|Osa Ofun]]
-- [note] 11×01. [[ika-ogbe|Ika Ogbe]]
-- [note] 11×02. [[ika-oyekun|Ika Oyekun]]
-- [note] 11×03. [[ika-iwori|Ika Iwori]]
-- [note] 11×04. [[ika-odi|Ika Odi]]
-- [note] 11×05. [[ika-iroso|Ika Iroso]]
-- [note] 11×06. [[ika-ojuani|Ika Ojuani]]
-- [note] 11×07. [[ika-obara|Ika Obara]]
-- [note] 11×08. [[ika-okana|Ika Okana]]
-- [note] 11×09. [[ika-ogunda|Ika Ogunda]]
-- [note] 11×10. [[ika-osa|Ika Osa]]
-- [note] 11×12. [[ika-otrupon|Ika Otrupon]]
-- [note] 11×13. [[ika-otura|Ika Otura]]
-- [note] 11×14. [[ika-irete|Ika Irete]]
-- [note] 11×15. [[ika-oshe|Ika Oshe]]
-- [note] 11×16. [[ika-ofun|Ika Ofun]]
-- [note] 12×01. [[otrupon-ogbe|Otrupon Ogbe]]
-- [note] 12×02. [[otrupon-oyekun|Otrupon Oyekun]]
-- [note] 12×03. [[otrupon-iwori|Otrupon Iwori]]
-- [note] 12×04. [[otrupon-odi|Otrupon Odi]]
-- [note] 12×05. [[otrupon-iroso|Otrupon Iroso]]
-- [note] 12×06. [[otrupon-ojuani|Otrupon Ojuani]]
-- [note] 12×07. [[otrupon-obara|Otrupon Obara]]
-- [note] 12×08. [[otrupon-okana|Otrupon Okana]]
-- [note] 12×09. [[otrupon-ogunda|Otrupon Ogunda]]
-- [note] 12×10. [[otrupon-osa|Otrupon Osa]]
-- [note] 12×11. [[otrupon-ika|Otrupon Ika]]
-- [note] 12×13. [[otrupon-otura|Otrupon Otura]]
-- [note] 12×14. [[otrupon-irete|Otrupon Irete]]
-- [note] 12×15. [[otrupon-oshe|Otrupon Oshe]]
-- [note] 12×16. [[otrupon-ofun|Otrupon Ofun]]
-- [note] 13×01. [[otura-ogbe|Otura Ogbe]]
-- [note] 13×02. [[otura-oyekun|Otura Oyekun]]
-- [note] 13×03. [[otura-iwori|Otura Iwori]]
-- [note] 13×04. [[otura-odi|Otura Odi]]
-- [note] 13×05. [[otura-iroso|Otura Iroso]]
-- [note] 13×06. [[otura-ojuani|Otura Ojuani]]
-- [note] 13×07. [[otura-obara|Otura Obara]]
-- [note] 13×08. [[otura-okana|Otura Okana]]
-- [note] 13×09. [[otura-ogunda|Otura Ogunda]]
-- [note] 13×10. [[otura-osa|Otura Osa]]
-- [note] 13×11. [[otura-ika|Otura Ika]]
-- [note] 13×12. [[otura-otrupon|Otura Otrupon]]
-- [note] 13×14. [[otura-irete|Otura Irete]]
-- [note] 13×15. [[otura-oshe|Otura Oshe]]
-- [note] 13×16. [[otura-ofun|Otura Ofun]]
-- [note] 14×01. [[irete-ogbe|Irete Ogbe]]
-- [note] 14×02. [[irete-oyekun|Irete Oyekun]]
-- [note] 14×03. [[irete-iwori|Irete Iwori]]
-- [note] 14×04. [[irete-odi|Irete Odi]]
-- [note] 14×05. [[irete-iroso|Irete Iroso]]
-- [note] 14×06. [[irete-ojuani|Irete Ojuani]]
-- [note] 14×07. [[irete-obara|Irete Obara]]
-- [note] 14×08. [[irete-okana|Irete Okana]]
-- [note] 14×09. [[irete-ogunda|Irete Ogunda]]
-- [note] 14×10. [[irete-osa|Irete Osa]]
-- [note] 14×11. [[irete-ika|Irete Ika]]
-- [note] 14×12. [[irete-otrupon|Irete Otrupon]]
-- [note] 14×13. [[irete-otura|Irete Otura]]
-- [note] 14×15. [[irete-oshe|Irete Oshe]]
-- [note] 14×16. [[irete-ofun|Irete Ofun]]
-- [note] 15×01. [[oshe-ogbe|Oshe Ogbe]]
-- [note] 15×02. [[oshe-oyekun|Oshe Oyekun]]
-- [note] 15×03. [[oshe-iwori|Oshe Iwori]]
-- [note] 15×04. [[oshe-odi|Oshe Odi]]
-- [note] 15×05. [[oshe-iroso|Oshe Iroso]]
-- [note] 15×06. [[oshe-ojuani|Oshe Ojuani]]
-- [note] 15×07. [[oshe-obara|Oshe Obara]]
-- [note] 15×08. [[oshe-okana|Oshe Okana]]
-- [note] 15×09. [[oshe-ogunda|Oshe Ogunda]]
-- [note] 15×10. [[oshe-osa|Oshe Osa]]
-- [note] 15×11. [[oshe-ika|Oshe Ika]]
-- [note] 15×12. [[oshe-otrupon|Oshe Otrupon]]
-- [note] 15×13. [[oshe-otura|Oshe Otura]]
-- [note] 15×14. [[oshe-irete|Oshe Irete]]
-- [note] 15×16. [[oshe-ofun|Oshe Ofun]]
-- [note] 16×01. [[ofun-ogbe|Ofun Gbe / Oragun Ogbe]]
-- [note] 16×02. [[ofun-oyekun|Ofun Oyekun]]
-- [note] 16×03. [[ofun-iwori|Ofun Iwori]]
-- [note] 16×04. [[ofun-odi|Ofun Odi]]
-- [note] 16×05. [[ofun-iroso|Ofun Iroso]]
-- [note] 16×06. [[ofun-ojuani|Ofun Ojuani]]
-- [note] 16×07. [[ofun-obara|Ofun Obara]]
-- [note] 16×08. [[ofun-okana|Ofun Okana]]
-- [note] 16×09. [[ofun-ogunda|Ofun Ogunda]]
-- [note] 16×10. [[ofun-osa|Ofun Osa]]
-- [note] 16×11. [[ofun-ika|Ofun Ika]]
-- [note] 16×12. [[ofun-otrupon|Ofun Otrupon]]
-- [note] 16×13. [[ofun-otura|Ofun Otura]]
-- [note] 16×14. [[ofun-irete|Ofun Irete]]
-- [note] 16×15. [[ofun-oshe|Ofun Oshe]]
+- [note] 017. [[ogbe-oyekun|Ogbe Yekun]] (`Ogbe`)
+- [note] 018. [[ogbe-iwori|Ogbe Weñe]] (`Ogbe`)
+- [note] 019. [[ogbe-odi|Ogbe Di]] (`Ogbe`)
+- [note] 020. [[ogbe-iroso|Ogbe Iroso]] (`Ogbe`)
+- [note] 021. [[ogbe-ojuani|Ogbe Ojuani]] (`Ogbe`)
+- [note] 022. [[ogbe-obara|Ogbe Bara]] (`Ogbe`)
+- [note] 023. [[ogbe-okana|Ogbe Kana]] (`Ogbe`)
+- [note] 024. [[ogbe-ogunda|Ogbe Gunda]] (`Ogbe`)
+- [note] 025. [[ogbe-osa|Ogbe Sa]] (`Ogbe`)
+- [note] 026. [[ogbe-ika|Ogbe Ika]] (`Ogbe`)
+- [note] 027. [[ogbe-otrupon|Ogbe Trupon]] (`Ogbe`)
+- [note] 028. [[ogbe-otura|Ogbe Tua]] (`Ogbe`)
+- [note] 029. [[ogbe-irete|Ogbe Rete]] (`Ogbe`)
+- [note] 030. [[ogbe-oshe|Ogbe She]] (`Ogbe`)
+- [note] 031. [[ogbe-ofun|Ogbe Fun]] (`Ogbe`)
+- [note] 032. [[oyekun-ogbe|Yekun Ogbe]] (`Oyekun`)
+- [note] 033. [[oyekun-iwori|Oyekun Iwori]] (`Oyekun`)
+- [note] 034. [[oyekun-odi|Oyekun Odi]] (`Oyekun`)
+- [note] 035. [[oyekun-iroso|Oyekun Iroso]] (`Oyekun`)
+- [note] 036. [[oyekun-ojuani|Oyekun Ojuani]] (`Oyekun`)
+- [note] 037. [[oyekun-obara|Oyekun Obara]] (`Oyekun`)
+- [note] 038. [[oyekun-okana|Oyekun Okana]] (`Oyekun`)
+- [note] 039. [[oyekun-ogunda|Oyekun Ogunda]] (`Oyekun`)
+- [note] 040. [[oyekun-osa|Oyekun Osa]] (`Oyekun`)
+- [note] 041. [[oyekun-ika|Oyekun Ika]] (`Oyekun`)
+- [note] 042. [[oyekun-otrupon|Oyekun Otrupon]] (`Oyekun`)
+- [note] 043. [[oyekun-otura|Oyekun Otura]] (`Oyekun`)
+- [note] 044. [[oyekun-irete|Oyekun Irete]] (`Oyekun`)
+- [note] 045. [[oyekun-oshe|Oyekun Oshe]] (`Oyekun`)
+- [note] 046. [[oyekun-ofun|Oyekun Ofun]] (`Oyekun`)
+- [note] 047. [[iwori-ogbe|Iwori Bogbe]] (`Iwori`)
+- [note] 048. [[iwori-oyekun|Iwori Oyekun]] (`Iwori`)
+- [note] 049. [[iwori-odi|Iwori Odi]] (`Iwori`)
+- [note] 050. [[iwori-iroso|Iwori Iroso]] (`Iwori`)
+- [note] 051. [[iwori-ojuani|Iwori Ojuani]] (`Iwori`)
+- [note] 052. [[iwori-obara|Iwori Obara]] (`Iwori`)
+- [note] 053. [[iwori-okana|Iwori Okana]] (`Iwori`)
+- [note] 054. [[iwori-ogunda|Iwori Ogunda]] (`Iwori`)
+- [note] 055. [[iwori-osa|Iwori Osa]] (`Iwori`)
+- [note] 056. [[iwori-ika|Iwori Ika]] (`Iwori`)
+- [note] 057. [[iwori-otrupon|Iwori Otrupon]] (`Iwori`)
+- [note] 058. [[iwori-otura|Iwori Otura]] (`Iwori`)
+- [note] 059. [[iwori-irete|Iwori Irete]] (`Iwori`)
+- [note] 060. [[iwori-oshe|Iwori Oshe]] (`Iwori`)
+- [note] 061. [[iwori-ofun|Iwori Ofun]] (`Iwori`)
+- [note] 062. [[odi-ogbe|Edibre]] (`Odi`)
+- [note] 063. [[odi-oyekun|Odi Oyekun]] (`Odi`)
+- [note] 064. [[odi-iwori|Odi Iwori]] (`Odi`)
+- [note] 065. [[odi-iroso|Odi Iroso]] (`Odi`)
+- [note] 066. [[odi-ojuani|Odi Ojuani]] (`Odi`)
+- [note] 067. [[odi-obara|Odi Obara]] (`Odi`)
+- [note] 068. [[odi-okana|Odi Okana]] (`Odi`)
+- [note] 069. [[odi-ogunda|Odi Ogunda]] (`Odi`)
+- [note] 070. [[odi-osa|Odi Osa]] (`Odi`)
+- [note] 071. [[odi-ika|Odi Ika]] (`Odi`)
+- [note] 072. [[odi-otrupon|Odi Otrupon]] (`Odi`)
+- [note] 073. [[odi-otura|Odi Otura]] (`Odi`)
+- [note] 074. [[odi-irete|Odi Irete]] (`Odi`)
+- [note] 075. [[odi-oshe|Odi Oshe]] (`Odi`)
+- [note] 076. [[odi-ofun|Odi Ofun]] (`Odi`)
+- [note] 077. [[iroso-ogbe|Iroso Ogbe]] (`Iroso`)
+- [note] 078. [[iroso-oyekun|Iroso Oyekun]] (`Iroso`)
+- [note] 079. [[iroso-iwori|Iroso Iwori]] (`Iroso`)
+- [note] 080. [[iroso-odi|Iroso Odi]] (`Iroso`)
+- [note] 081. [[iroso-ojuani|Iroso Ojuani]] (`Iroso`)
+- [note] 082. [[iroso-obara|Iroso Obara]] (`Iroso`)
+- [note] 083. [[iroso-okana|Iroso Okana]] (`Iroso`)
+- [note] 084. [[iroso-ogunda|Iroso Ogunda]] (`Iroso`)
+- [note] 085. [[iroso-osa|Iroso Osa]] (`Iroso`)
+- [note] 086. [[iroso-ika|Iroso Ika]] (`Iroso`)
+- [note] 087. [[iroso-otrupon|Iroso Otrupon]] (`Iroso`)
+- [note] 088. [[iroso-otura|Iroso Otura]] (`Iroso`)
+- [note] 089. [[iroso-irete|Iroso Irete]] (`Iroso`)
+- [note] 090. [[iroso-oshe|Iroso Oshe]] (`Iroso`)
+- [note] 091. [[iroso-ofun|Iroso Ofun]] (`Iroso`)
+- [note] 092. [[ojuani-ogbe|Ojuani Ogbe]] (`Ojuani`)
+- [note] 093. [[ojuani-oyekun|Ojuani Oyekun]] (`Ojuani`)
+- [note] 094. [[ojuani-iwori|Ojuani Iwori]] (`Ojuani`)
+- [note] 095. [[ojuani-odi|Ojuani Odi]] (`Ojuani`)
+- [note] 096. [[ojuani-iroso|Ojuani Iroso]] (`Ojuani`)
+- [note] 097. [[ojuani-obara|Ojuani Obara]] (`Ojuani`)
+- [note] 098. [[ojuani-okana|Ojuani Okana]] (`Ojuani`)
+- [note] 099. [[ojuani-ogunda|Ojuani Ogunda]] (`Ojuani`)
+- [note] 100. [[ojuani-osa|Ojuani Osa]] (`Ojuani`)
+- [note] 101. [[ojuani-ika|Ojuani Ika]] (`Ojuani`)
+- [note] 102. [[ojuani-otrupon|Ojuani Otrupon]] (`Ojuani`)
+- [note] 103. [[ojuani-otura|Ojuani Otura]] (`Ojuani`)
+- [note] 104. [[ojuani-irete|Ojuani Irete]] (`Ojuani`)
+- [note] 105. [[ojuani-oshe|Ojuani Oshe]] (`Ojuani`)
+- [note] 106. [[ojuani-ofun|Ojuani Ofun]] (`Ojuani`)
+- [note] 107. [[obara-ogbe|Obara Ogbe]] (`Obara`)
+- [note] 108. [[obara-oyekun|Obara Oyekun]] (`Obara`)
+- [note] 109. [[obara-iwori|Obara Iwori]] (`Obara`)
+- [note] 110. [[obara-odi|Obara Odi]] (`Obara`)
+- [note] 111. [[obara-iroso|Obara Iroso]] (`Obara`)
+- [note] 112. [[obara-ojuani|Obara Ojuani]] (`Obara`)
+- [note] 113. [[obara-okana|Obara Okana]] (`Obara`)
+- [note] 114. [[obara-ogunda|Obara Ogunda]] (`Obara`)
+- [note] 115. [[obara-osa|Obara Osa]] (`Obara`)
+- [note] 116. [[obara-ika|Obara Ika]] (`Obara`)
+- [note] 117. [[obara-otrupon|Obara Otrupon]] (`Obara`)
+- [note] 118. [[obara-otura|Obara Otura]] (`Obara`)
+- [note] 119. [[obara-irete|Obara Irete]] (`Obara`)
+- [note] 120. [[obara-oshe|Obara Oshe]] (`Obara`)
+- [note] 121. [[obara-ofun|Obara Ofun]] (`Obara`)
+- [note] 122. [[okana-ogbe|Okana Ogbe]] (`Okana`)
+- [note] 123. [[okana-oyekun|Okana Oyekun]] (`Okana`)
+- [note] 124. [[okana-iwori|Okana Iwori]] (`Okana`)
+- [note] 125. [[okana-odi|Okana Odi]] (`Okana`)
+- [note] 126. [[okana-iroso|Okana Iroso]] (`Okana`)
+- [note] 127. [[okana-ojuani|Okana Ojuani]] (`Okana`)
+- [note] 128. [[okana-obara|Okana Obara]] (`Okana`)
+- [note] 129. [[okana-ogunda|Okana Ogunda]] (`Okana`)
+- [note] 130. [[okana-osa|Okana Osa]] (`Okana`)
+- [note] 131. [[okana-ika|Okana Ika]] (`Okana`)
+- [note] 132. [[okana-otrupon|Okana Otrupon]] (`Okana`)
+- [note] 133. [[okana-otura|Okana Otura]] (`Okana`)
+- [note] 134. [[okana-irete|Okana Irete]] (`Okana`)
+- [note] 135. [[okana-oshe|Okana Oshe]] (`Okana`)
+- [note] 136. [[okana-ofun|Okana Ofun]] (`Okana`)
+- [note] 137. [[ogunda-ogbe|Ogunda Ogbe]] (`Ogunda`)
+- [note] 138. [[ogunda-oyekun|Ogunda Oyekun]] (`Ogunda`)
+- [note] 139. [[ogunda-iwori|Ogunda Iwori]] (`Ogunda`)
+- [note] 140. [[ogunda-odi|Ogunda Odi]] (`Ogunda`)
+- [note] 141. [[ogunda-iroso|Ogunda Iroso]] (`Ogunda`)
+- [note] 142. [[ogunda-ojuani|Ogunda Ojuani]] (`Ogunda`)
+- [note] 143. [[ogunda-obara|Ogunda Obara]] (`Ogunda`)
+- [note] 144. [[ogunda-okana|Ogunda Okana]] (`Ogunda`)
+- [note] 145. [[ogunda-osa|Ogunda Osa]] (`Ogunda`)
+- [note] 146. [[ogunda-ika|Ogunda Ika]] (`Ogunda`)
+- [note] 147. [[ogunda-otrupon|Ogunda Otrupon]] (`Ogunda`)
+- [note] 148. [[ogunda-otura|Ogunda Otura]] (`Ogunda`)
+- [note] 149. [[ogunda-irete|Ogunda Irete]] (`Ogunda`)
+- [note] 150. [[ogunda-oshe|Ogunda Oshe]] (`Ogunda`)
+- [note] 151. [[ogunda-ofun|Ogunda Ofun]] (`Ogunda`)
+- [note] 152. [[osa-ogbe|Osa Ogbe]] (`Osa`)
+- [note] 153. [[osa-oyekun|Osa Oyekun]] (`Osa`)
+- [note] 154. [[osa-iwori|Osa Iwori]] (`Osa`)
+- [note] 155. [[osa-odi|Osa Odi]] (`Osa`)
+- [note] 156. [[osa-iroso|Osa Iroso]] (`Osa`)
+- [note] 157. [[osa-ojuani|Osa Ojuani]] (`Osa`)
+- [note] 158. [[osa-obara|Osa Obara]] (`Osa`)
+- [note] 159. [[osa-okana|Osa Okana]] (`Osa`)
+- [note] 160. [[osa-ogunda|Osa Ogunda]] (`Osa`)
+- [note] 161. [[osa-ika|Osa Ika]] (`Osa`)
+- [note] 162. [[osa-otrupon|Osa Otrupon]] (`Osa`)
+- [note] 163. [[osa-otura|Osa Otura]] (`Osa`)
+- [note] 164. [[osa-irete|Osa Irete]] (`Osa`)
+- [note] 165. [[osa-oshe|Osa Oshe]] (`Osa`)
+- [note] 166. [[osa-ofun|Osa Ofun]] (`Osa`)
+- [note] 167. [[ika-ogbe|Ika Ogbe]] (`Ika`)
+- [note] 168. [[ika-oyekun|Ika Oyekun]] (`Ika`)
+- [note] 169. [[ika-iwori|Ika Iwori]] (`Ika`)
+- [note] 170. [[ika-odi|Ika Odi]] (`Ika`)
+- [note] 171. [[ika-iroso|Ika Iroso]] (`Ika`)
+- [note] 172. [[ika-ojuani|Ika Ojuani]] (`Ika`)
+- [note] 173. [[ika-obara|Ika Obara]] (`Ika`)
+- [note] 174. [[ika-okana|Ika Okana]] (`Ika`)
+- [note] 175. [[ika-ogunda|Ika Ogunda]] (`Ika`)
+- [note] 176. [[ika-osa|Ika Osa]] (`Ika`)
+- [note] 177. [[ika-otrupon|Ika Otrupon]] (`Ika`)
+- [note] 178. [[ika-otura|Ika Otura]] (`Ika`)
+- [note] 179. [[ika-irete|Ika Irete]] (`Ika`)
+- [note] 180. [[ika-oshe|Ika Oshe]] (`Ika`)
+- [note] 181. [[ika-ofun|Ika Ofun]] (`Ika`)
+- [note] 182. [[otrupon-ogbe|Otrupon Ogbe]] (`Otrupon`)
+- [note] 183. [[otrupon-oyekun|Otrupon Oyekun]] (`Otrupon`)
+- [note] 184. [[otrupon-iwori|Otrupon Iwori]] (`Otrupon`)
+- [note] 185. [[otrupon-odi|Otrupon Odi]] (`Otrupon`)
+- [note] 186. [[otrupon-iroso|Otrupon Iroso]] (`Otrupon`)
+- [note] 187. [[otrupon-ojuani|Otrupon Ojuani]] (`Otrupon`)
+- [note] 188. [[otrupon-obara|Otrupon Obara]] (`Otrupon`)
+- [note] 189. [[otrupon-okana|Otrupon Okana]] (`Otrupon`)
+- [note] 190. [[otrupon-ogunda|Otrupon Ogunda]] (`Otrupon`)
+- [note] 191. [[otrupon-osa|Otrupon Osa]] (`Otrupon`)
+- [note] 192. [[otrupon-ika|Otrupon Ika]] (`Otrupon`)
+- [note] 193. [[otrupon-otura|Otrupon Otura]] (`Otrupon`)
+- [note] 194. [[otrupon-irete|Otrupon Irete]] (`Otrupon`)
+- [note] 195. [[otrupon-oshe|Otrupon Oshe]] (`Otrupon`)
+- [note] 196. [[otrupon-ofun|Otrupon Ofun]] (`Otrupon`)
+- [note] 197. [[otura-ogbe|Otura Ogbe]] (`Otura`)
+- [note] 198. [[otura-oyekun|Otura Oyekun]] (`Otura`)
+- [note] 199. [[otura-iwori|Otura Iwori]] (`Otura`)
+- [note] 200. [[otura-odi|Otura Odi]] (`Otura`)
+- [note] 201. [[otura-iroso|Otura Iroso]] (`Otura`)
+- [note] 202. [[otura-ojuani|Otura Ojuani]] (`Otura`)
+- [note] 203. [[otura-obara|Otura Obara]] (`Otura`)
+- [note] 204. [[otura-okana|Otura Okana]] (`Otura`)
+- [note] 205. [[otura-ogunda|Otura Ogunda]] (`Otura`)
+- [note] 206. [[otura-osa|Otura Osa]] (`Otura`)
+- [note] 207. [[otura-ika|Otura Ika]] (`Otura`)
+- [note] 208. [[otura-otrupon|Otura Otrupon]] (`Otura`)
+- [note] 209. [[otura-irete|Otura Irete]] (`Otura`)
+- [note] 210. [[otura-oshe|Otura Oshe]] (`Otura`)
+- [note] 211. [[otura-ofun|Otura Ofun]] (`Otura`)
+- [note] 212. [[irete-ogbe|Irete Ogbe]] (`Irete`)
+- [note] 213. [[irete-oyekun|Irete Oyekun]] (`Irete`)
+- [note] 214. [[irete-iwori|Irete Iwori]] (`Irete`)
+- [note] 215. [[irete-odi|Irete Odi]] (`Irete`)
+- [note] 216. [[irete-iroso|Irete Iroso]] (`Irete`)
+- [note] 217. [[irete-ojuani|Irete Ojuani]] (`Irete`)
+- [note] 218. [[irete-obara|Irete Obara]] (`Irete`)
+- [note] 219. [[irete-okana|Irete Okana]] (`Irete`)
+- [note] 220. [[irete-ogunda|Irete Ogunda]] (`Irete`)
+- [note] 221. [[irete-osa|Irete Osa]] (`Irete`)
+- [note] 222. [[irete-ika|Irete Ika]] (`Irete`)
+- [note] 223. [[irete-otrupon|Irete Otrupon]] (`Irete`)
+- [note] 224. [[irete-otura|Irete Otura]] (`Irete`)
+- [note] 225. [[irete-oshe|Irete Oshe]] (`Irete`)
+- [note] 226. [[irete-ofun|Irete Ofun]] (`Irete`)
+- [note] 227. [[oshe-ogbe|Oshe Ogbe]] (`Oshe`)
+- [note] 228. [[oshe-oyekun|Oshe Oyekun]] (`Oshe`)
+- [note] 229. [[oshe-iwori|Oshe Iwori]] (`Oshe`)
+- [note] 230. [[oshe-odi|Oshe Odi]] (`Oshe`)
+- [note] 231. [[oshe-iroso|Oshe Iroso]] (`Oshe`)
+- [note] 232. [[oshe-ojuani|Oshe Ojuani]] (`Oshe`)
+- [note] 233. [[oshe-obara|Oshe Obara]] (`Oshe`)
+- [note] 234. [[oshe-okana|Oshe Okana]] (`Oshe`)
+- [note] 235. [[oshe-ogunda|Oshe Ogunda]] (`Oshe`)
+- [note] 236. [[oshe-osa|Oshe Osa]] (`Oshe`)
+- [note] 237. [[oshe-ika|Oshe Ika]] (`Oshe`)
+- [note] 238. [[oshe-otrupon|Oshe Otrupon]] (`Oshe`)
+- [note] 239. [[oshe-otura|Oshe Otura]] (`Oshe`)
+- [note] 240. [[oshe-irete|Oshe Irete]] (`Oshe`)
+- [note] 241. [[oshe-ofun|Oshe Ofun]] (`Oshe`)
+- [note] 242. [[ofun-ogbe|Ofun Gbe]] (`Ofun`)
+- [note] 243. [[ofun-oyekun|Ofun Oyekun]] (`Ofun`)
+- [note] 244. [[ofun-iwori|Ofun Iwori]] (`Ofun`)
+- [note] 245. [[ofun-odi|Ofun Odi]] (`Ofun`)
+- [note] 246. [[ofun-iroso|Ofun Iroso]] (`Ofun`)
+- [note] 247. [[ofun-ojuani|Ofun Ojuani]] (`Ofun`)
+- [note] 248. [[ofun-obara|Ofun Obara]] (`Ofun`)
+- [note] 249. [[ofun-okana|Ofun Okana]] (`Ofun`)
+- [note] 250. [[ofun-ogunda|Ofun Ogunda]] (`Ofun`)
+- [note] 251. [[ofun-osa|Ofun Osa]] (`Ofun`)
+- [note] 252. [[ofun-ika|Ofun Ika]] (`Ofun`)
+- [note] 253. [[ofun-otrupon|Ofun Otrupon]] (`Ofun`)
+- [note] 254. [[ofun-otura|Ofun Otura]] (`Ofun`)
+- [note] 255. [[ofun-irete|Ofun Irete]] (`Ofun`)
+- [note] 256. [[ofun-oshe|Ofun Oshe]] (`Ofun`)

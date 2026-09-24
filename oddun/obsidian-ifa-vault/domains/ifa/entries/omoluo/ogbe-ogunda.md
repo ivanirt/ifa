@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
-title: Ogbe Ogunda
+type: oddun
+clase: omoluo
+title: Ogbe Gunda
 slug: ogbe-ogunda
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Ogbe Ogunda
-family: Ogbe
-right: Ogbe
-left: Ogunda
-class: [omoluo, odu-compuesto]
-parent_meji: [[ejiogbe]]
-second_meji: [[ogunda-meyi]]
+n: 24
+familia: Ogbe
+padre: Ogbe
+segundo: Ogunda
+aliases: [Ogbe Gunda, Ogbe Ogunda, Baba Ejiogbe Ogunda, ogbe ogunda]
+tags: [ifa, oddun, omoluo, familia/ogbe, cruce/ogunda]
+orishas: [Orunmila, Obatalá, Eleguá, Olodumare, Oggún, Ochosi]
+temas: [luz, gobierno, orí, hierro, trabajo, justicia]
+consulta: true
 ---
 
-# Ogbe Ogunda
+# 024. Ogbe Gunda
 
-> Hijo de Ogbe con Ogunda. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/ejiogbe|Baba Ejiogbe]] (1)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/ogunda-meyi|Ogunda Meyi]] (9)
+**Buscar en Obsidian:** `Ogbe Gunda` · `Ogbe Ogunda` · `ogbe-ogunda`
+**Padre:** [[ejiogbe|Baba Ejiogbe]] (1) · **Segundo:** [[ogunda-meyi|Ogunda Meyi]] (9) · **Inverso:** [[ogunda-ogbe|Ogunda Ogbe]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Ogbe Gunda** es Baba Ejiogbe cruzado con Ogunda Meyi. El padre Ogbe abre, ilumina, pone en el trono y exige cabeza. El segundo pie Ogunda saca el hierro, el oficio y el riesgo de justicia. Se lee primero [[ejiogbe|Baba Ejiogbe]] (tono) y después [[ogunda-meyi|Ogunda Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[ogunda-ogbe|Ogunda Ogbe]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/ejiogbe|Baba Ejiogbe]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/ogunda-meyi|Ogunda Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- Las aguas y las tierras; la unidad y la lucha de contrarios.
+- El hierro y el juramento.
+- Cruce Ogbe × Ogunda: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: gobierno, orí, creación × hierro, trabajo, prision
-- Orishas a tener en cuenta: Orunmila, Obatalá, Eleguá, Olodumare, Oggún, Ochosi
+- Rezo de linaje de Ogbe Ogunda (anotar el texto que canta su casa).
+- Se invoca primero el padre Ogbe y se cierra con Ogunda.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Hay suerte grande y ojos puestos encima: la envidia acompaña al que se eleva.
+- Puede caer preso por un favor hecho o por un favor no agradecido.
+- Lea el ire de Ogbe *a través* de Ogunda: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Ogunda Ogbe.
+
+## Lista de patakies
+
+- Orunmila no duerme: el ruido del ekute y el puesto que hay que ocupar.
+- Eleguá, el anzuelo y Oggún que parte el asunto en dos.
+- Historias de la casa donde Ogbe se encuentra con Ogunda: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Ogbe (Gobierno, apertura de camino, riqueza si se respeta Orunmila y el orí) llega *a través* de Ogunda.
+- Se sostiene si se respeta lo que pide Oggún y Orunmila.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Traición cercana, chisme que llega a tribunal, casa o empleo que se pierde si se desprecia Osha.
+- Cautela del segundo: Pierna; gente que lo busca por la calle.
+- Cruce típico: orí + mando se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Orunmila, Obatalá, Eleguá, Olodumare, Oggún, Ochosi
+- Ámbitos: orí, mando, trabajo, herramienta
+- Temas: luz, gobierno, orí, hierro, trabajo, justicia
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Está gobernando su cabeza o lo gobiernan otros?
+- ¿Qué hierro está oxidado (oficio, juramento, cuchillo)?
+- ¿Este asunto es más de Ogbe (tono) o de Ogunda (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[ejiogbe|Baba Ejiogbe]] y lea tono + osogbo.
+2. Abra el segundo [[ogunda-meyi|Ogunda Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[ogunda-ogbe|Ogunda Ogbe]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Ogbe
 
-- Padre: [[domains/ifa/entries/meji/ejiogbe|Baba Ejiogbe]]
-- Inverso: [[domains/ifa/entries/omoluo/ogunda-ogbe|Ogunda Ogbe]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[ogbe-oyekun|Ogbe Yekun]] · [[ogbe-iwori|Ogbe Weñe]] · [[ogbe-odi|Ogbe Di]] · [[ogbe-iroso|Ogbe Iroso]] · [[ogbe-ojuani|Ogbe Ojuani]] · [[ogbe-obara|Ogbe Bara]] · [[ogbe-okana|Ogbe Kana]] · [[ogbe-ogunda|Ogbe Gunda]] · [[ogbe-osa|Ogbe Sa]] · [[ogbe-ika|Ogbe Ika]] · [[ogbe-otrupon|Ogbe Trupon]] · [[ogbe-otura|Ogbe Tua]] · [[ogbe-irete|Ogbe Rete]] · [[ogbe-oshe|Ogbe She]] · [[ogbe-ofun|Ogbe Fun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

@@ -1,28 +1,33 @@
 ---
-type: Odu-Meji
+type: oddun
+clase: meji
 title: Iwori Meyi
 slug: iwori-meyi
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Iwori Meyi
 n: 3
-class: [meji, oju-odu]
-sphere: [investigacion, sangre, justicia, olokun, letra-del-ano]
+familia: Iwori
+aliases: [Iwori Meyi, Iwori Meji, Iwory Meyi, Ìwòrì Méjì, Iwori Meyi, Iwori]
+tags: [ifa, oddun, meji, familia/iwori]
 orishas: [Orunmila, Olofin, Olokun, Eleguá]
-aliases: [Iwori Meyi, Ìwòrì Méjì, Iwori Meyi]
+temas: [ojo, investigación, sangre, testimonio, letra]
+consulta: true
+patakies:
+  - "[[Este es el signo que les apareció a]]"
+  - "[[XLA vivió en AGBODO]]"
+
 ---
 
-# Iwori Meyi
+# 03. Iwori Meyi
 
-> Mapa de literatura tradicional para vault. No es consulta de Ifá, ni ebó prescrito, ni reimpresión del tratado.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Lucumí:** Iwori Meyi · **Yoruba:** Ìwòrì Méjì · **Familia:** Iwori · **Seniority:** 3/16
+**Buscar en Obsidian:** `Iwori Meyi` · `Iwori` · `Ìwòrì Méjì`
+**Familia:** Iwori · **Seniority:** 3/16 · **Yoruba:** Ìwòrì Méjì
+
+## Consulta rápida
+
+El oddun que mira hacia adentro. Investiga antes de firmar, de heredar, de acusar. Después de anochecer el tablero se recoge. La calumnia se levanta con ebó y con prueba, no con grito.
+
+Tono: *ojo interior, investigación, testimonio, sangre a la cabeza*.
 
 ## Marca
 
@@ -33,81 +38,84 @@ II
 00
 ```
 
-Notación de cuaderno: `00 / II / II / 00`. El trazo ritual lo da el babalawo en el tablero o el santero en el dilogún; esta nota no sustituye esa mano.
+Cuaderno: `00 / II / II / 00`. El trazo lo hace quien tira, no esta nota.
 
-Dilogún / cierre aproximado: 12 (Eyila Chebora) / mirada interior.
-
-## Lo que nace en este oddun
+## En este odun nace
 
 - La letra del año.
-- Animales feroces, comida y hambre.
+- Animales feroces; comida y hambre.
 - Que las comidas de Olokun se lleven al mar.
-- Decapitación, celo animal, remolino.
-- Lo que circula en la sangre (imagen de defensas), la delgadez y la esperanza.
-- El color marrón o matipo; el análisis de hechos y lo podrido; la gonorrea alatosín.
+- La decapitación, el celo, el remolino.
+- Lo que circula en la sangre; la delgadez; la esperanza; el análisis de lo podrido.
 
-## Keynotes
+## Rezo
 
-- Ojo que mira hacia adentro: investigación, lógica, testimonio.
-- Después de las 6 pm la adivinación se recoge — descanso del tablero.
-- Sangre a la cabeza, enemigos que quieren entregar a la justicia, calumnia que se levanta con ebó.
-- Hombre de dinero que persigue; empleo inestable; engaño en herencia.
+- Rezo de linaje de Iwori; se recoge el tablero después del anochecer.
+- Se llama a Olofin y a Olokun cuando el asunto es de mar o de testimonio.
 
-## Ire (cuando el camino abre)
+## Dice Ifá
 
-- Suerte para el dinero si se cubre la cabeza y se cumple la rogación.
-- Pañuelo que se usa todos los días hasta ver lo deseado (imagen de constancia).
+- Se le sube la sangre a la cabeza; haga días de bajar costumbres.
+- Promesa a la Caridad / Ochún que no se cumplió.
+- Enemigos que quieren entregarlo a la justicia; la calumnia se levanta con ebó.
+- Empleo inseguro; engaño en una herencia.
+- No presentar a nadie en su perdición; no firmar a ciegas.
+
+## Lista de patakies
+
+- Los ricos acusan a Olokun ante Olofin; Eure Meyi y las dos lerí en el camino.
+- El hacendado, Iwori Meyi y los dos pesos del trabajo abandonado.
+- Olokun lleva las cenas al padre: desde ese día se entera de lo bueno y lo malo.
+
+
+## Ire
+
+- Dinero que llega si se cubre la cabeza y se cumple lo prometido.
+- Claridad sobre un engaño.
 
 ## Osogbo / cautelas
 
-- No presentar a una mujer desnuda a la perdición ajena.
-- No estar seguro en el trabajo hasta hacer ebó.
-- Dinero que se vuelve yomi si se incumple lo prometido a la Caridad / Ochún.
+- Herencia tramposa; empleo inseguro; sangre a la cabeza.
+- No exhibir a nadie en su perdición.
 
-## Orishas y ewe
+## Orishas y ámbitos
 
-- Orishas que suelen hablar aquí: Orunmila, Olofin, Olokun, Eleguá
-- Ewe / prohibiciones citadas en el habla del tratado: ver cuaderno de casa
+- Orishas: Orunmila, Olofin, Olokun, Eleguá
+- Ámbitos: papeles, estudio, calumnia, sangre
 
-## Hijos de esta familia (Omolúo)
+## Preguntas para el ita (no para sustituirlo)
 
-Ver índice: [[domains/ifa/indexes/BY-FAMILY]] · padre [[domains/ifa/indexes/FULL-LIST]]
+- ¿Qué no ha querido mirar de frente?
+- ¿Hay una promesa a Ochún o a Ifá incumplida?
 
-- [[omoluo/iwori-ogbe|Iwori Ogbe]]
-- [[omoluo/iwori-oyekun|Iwori Oyekun]]
-- [[meji/iwori-meyi|Iwori Iwori]]
-- [[omoluo/iwori-odi|Iwori Odi]]
-- [[omoluo/iwori-iroso|Iwori Iroso]]
-- [[omoluo/iwori-ojuani|Iwori Ojuani]]
-- [[omoluo/iwori-obara|Iwori Obara]]
-- [[omoluo/iwori-okana|Iwori Okana]]
-- [[omoluo/iwori-ogunda|Iwori Ogunda]]
-- [[omoluo/iwori-osa|Iwori Osa]]
-- [[omoluo/iwori-ika|Iwori Ika]]
-- [[omoluo/iwori-otrupon|Iwori Otrupon]]
-- [[omoluo/iwori-otura|Iwori Otura]]
-- [[omoluo/iwori-irete|Iwori Irete]]
-- [[omoluo/iwori-oshe|Iwori Oshe]]
-- [[omoluo/iwori-ofun|Iwori Ofun]]
+## Familia — 15 hijos
 
-## Relaciones
+- [[iwori-ogbe|Iwori Bogbe]]
+- [[iwori-oyekun|Iwori Oyekun]]
+- [[iwori-odi|Iwori Odi]]
+- [[iwori-iroso|Iwori Iroso]]
+- [[iwori-ojuani|Iwori Ojuani]]
+- [[iwori-obara|Iwori Obara]]
+- [[iwori-okana|Iwori Okana]]
+- [[iwori-ogunda|Iwori Ogunda]]
+- [[iwori-osa|Iwori Osa]]
+- [[iwori-ika|Iwori Ika]]
+- [[iwori-otrupon|Iwori Otrupon]]
+- [[iwori-otura|Iwori Otura]]
+- [[iwori-irete|Iwori Irete]]
+- [[iwori-oshe|Iwori Oshe]]
+- [[iwori-ofun|Iwori Ofun]]
 
-- Anterior: [[domains/ifa/entries/meji/oyekun-meyi|Oyekun Meyi]]
-- Siguiente: [[domains/ifa/entries/meji/odi-meyi|Odi Meyi]]
-- Comparar con: ver [[domains/ifa/relationships/GRAPH]]
+## Relacionados
 
-## Espacio de trabajo del awó / santero
+- Anterior: [[oyekun-meyi|Oyekun Meyi]]
+- Siguiente: [[odi-meyi|Odi Meyi]]
+- Inversos y cruces: [[FULL-LIST]] · [[BY-FAMILY]]
+- Compendio: [[COMPENDIO]]
 
-- Rezos, suyeres y patakines completos viven en el cuaderno de linaje, no en este vault.
-- Anota aquí solo lo que tu casa autorice: ita personal, ebó ya realizado, fecha.
+## Registro de casa
 
-### Registro
-
-- Fecha de salida:
-- Ire / osogbo marcado:
-- Ebó indicado por el sacerdote:
+- Fecha en que salió:
+- Ire / osogbo:
+- Ebó que indicó el sacerdote:
 - Cumplido:
-
-## Agent notes
-
-No inventar ebó ni dosis. Si el usuario describe urgencia médica (pecho, ahogo, ideación suicida, embarazo con sangrado) se corta la analogía y se pide ayuda profesional. Ifá no sustituye urgencias.

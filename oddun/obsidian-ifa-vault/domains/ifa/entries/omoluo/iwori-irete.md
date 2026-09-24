@@ -1,76 +1,103 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Iwori Irete
 slug: iwori-irete
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Iwori Irete
-family: Iwori
-right: Iwori
-left: Irete
-class: [omoluo, odu-compuesto]
-parent_meji: [[iwori-meyi]]
-second_meji: [[irete-meyi]]
+n: 59
+familia: Iwori
+padre: Iwori
+segundo: Irete
+aliases: [Iwori Irete, Iwori Meyi Irete, iwori irete]
+tags: [ifa, oddun, omoluo, familia/iwori, cruce/irete]
+orishas: [Orunmila, Olofin, Olokun, Eleguá, Shangó, Oggún, Oyá, Eggun]
+temas: [ojo, investigación, sangre, pie, exilio, navaja]
+consulta: true
+patakies:
+  - "[[Aquí fue donde Orunmila sé hospedo en la casa de]]"
+  - "[[de Iwori Tura]]"
+  - "[[El palo y la carne entraron en porfía]]"
+  - "[[En este Omoluwo Agbanivenado era muy curioso e]]"
+  - "[[Shango le acepto la guerra a un enemigo]]"
+  - "[[sin conexión con la REFRAN que precede]]"
+  - "[[ÉL hizo adivinación para el perro del monte]]"
+
 ---
 
-# Iwori Irete
+# 059. Iwori Irete
 
-> Hijo de Iwori con Irete. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/iwori-meyi|Iwori Meyi]] (3)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]] (14)
+**Buscar en Obsidian:** `Iwori Irete` · `Iwori Irete` · `iwori-irete`
+**Padre:** [[iwori-meyi|Iwori Meyi]] (3) · **Segundo:** [[irete-meyi|Irete Meyi]] (14) · **Inverso:** [[irete-iwori|Irete Iwori]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Iwori Irete** es Iwori Meyi cruzado con Irete Meyi. El padre Iwori obliga a mirar adentro, investigar y no firmar a ciegas. El segundo pie Irete hace pisar el destino, destierra o resucita un pacto. Se lee primero [[iwori-meyi|Iwori Meyi]] (tono) y después [[irete-meyi|Irete Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[irete-iwori|Irete Iwori]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/iwori-meyi|Iwori Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- La letra del año.
+- La barbería; tijera y navaja del babalawo en kariosha.
+- Cruce Iwori × Irete: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: investigacion, sangre, justicia × pie, exilio, navaja
-- Orishas a tener en cuenta: Orunmila, Olofin, Olokun, Eleguá, Shangó, Oggún, Oyá, Eggun
+- Rezo de linaje de Iwori Irete (anotar el texto que canta su casa).
+- Se invoca primero el padre Iwori y se cierra con Irete.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Se le sube la sangre a la cabeza; haga días de bajar costumbres.
+- El pie pisa destino: caídas, lágrimas, golpe en brazos y piernas.
+- Lea el ire de Iwori *a través* de Irete: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Irete Iwori.
+
+## Lista de patakies
+
+- Los ricos acusan a Olokun ante Olofin; Eure Meyi y las dos lerí en el camino.
+- Olofin, los viejos y las yeguas que no se entregan.
+- Historias de la casa donde Iwori se encuentra con Irete: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Iwori (Dinero que llega si se cubre la cabeza y se cumple lo prometido) llega *a través* de Irete.
+- Se sostiene si se respeta lo que pide Shangó y Orunmila.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Herencia tramposa; empleo inseguro; sangre a la cabeza.
+- Cautela del segundo: Exilio; golpe; pacto incumplido.
+- Cruce típico: papeles + estudio se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Orunmila, Olofin, Olokun, Eleguá, Shangó, Oggún, Oyá, Eggun
+- Ámbitos: papeles, estudio, pies, exilio
+- Temas: ojo, investigación, sangre, pie, exilio, navaja
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Qué no ha querido mirar de frente?
+- ¿Dónde está pisando sin mirar?
+- ¿Este asunto es más de Iwori (tono) o de Irete (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[iwori-meyi|Iwori Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[irete-meyi|Irete Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[irete-iwori|Irete Iwori]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Iwori
 
-- Padre: [[domains/ifa/entries/meji/iwori-meyi|Iwori Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/irete-iwori|Irete Iwori]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[iwori-ogbe|Iwori Bogbe]] · [[iwori-oyekun|Iwori Oyekun]] · [[iwori-odi|Iwori Odi]] · [[iwori-iroso|Iwori Iroso]] · [[iwori-ojuani|Iwori Ojuani]] · [[iwori-obara|Iwori Obara]] · [[iwori-okana|Iwori Okana]] · [[iwori-ogunda|Iwori Ogunda]] · [[iwori-osa|Iwori Osa]] · [[iwori-ika|Iwori Ika]] · [[iwori-otrupon|Iwori Otrupon]] · [[iwori-otura|Iwori Otura]] · [[iwori-irete|Iwori Irete]] · [[iwori-oshe|Iwori Oshe]] · [[iwori-ofun|Iwori Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

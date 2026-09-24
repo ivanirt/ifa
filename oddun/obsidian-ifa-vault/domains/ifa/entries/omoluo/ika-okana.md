@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Ika Okana
 slug: ika-okana
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Ika Okana
-family: Ika
-right: Ika
-left: Okana
-class: [omoluo, odu-compuesto]
-parent_meji: [[ika-meyi]]
-second_meji: [[okana-meyi]]
+n: 174
+familia: Ika
+padre: Ika
+segundo: Okana
+aliases: [Ika Okana, Ika Meyi Okana, ika okana]
+tags: [ifa, oddun, omoluo, familia/ika, cruce/okana]
+orishas: [Oggún, Orunmila, Eshú, Shangó, Ikú]
+temas: [soberbia, oficio, humildad, fuego, prisa, awofaka]
+consulta: true
 ---
 
-# Ika Okana
+# 174. Ika Okana
 
-> Hijo de Ika con Okana. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/ika-meyi|Ika Meyi]] (11)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]] (8)
+**Buscar en Obsidian:** `Ika Okana` · `Ika Okana` · `ika-okana`
+**Padre:** [[ika-meyi|Ika Meyi]] (11) · **Segundo:** [[okana-meyi|Okana Meyi]] (8) · **Inverso:** [[okana-ika|Okana Ika]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Ika Okana** es Ika Meyi cruzado con Okana Meyi. El padre Ika tuerce el dedo soberbio y exige oficio real. El segundo pie Okana prende fuego corto, da prisa y pide trueque de caminos. Se lee primero [[ika-meyi|Ika Meyi]] (tono) y después [[okana-meyi|Okana Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[okana-ika|Okana Ika]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/ika-meyi|Ika Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- La humildad que corrige la soberbia.
+- El ikofa eshanile y el awofaka.
+- Cruce Ika × Okana: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: soberbia, oficio, hermanos × fuego, violencia, awofaka
-- Orishas a tener en cuenta: Oggún, Orunmila, Eshú, Shangó, Ikú
+- Rezo de linaje de Ika Okana (anotar el texto que canta su casa).
+- Se invoca primero el padre Ika y se cierra con Okana.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Cinco hermanos y uno solo quiere oficio: ese carga el saco.
+- Mal por dentro de una pierna; casa que se quiere desatar.
+- Lea el ire de Ika *a través* de Okana: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Okana Ika.
+
+## Lista de patakies
+
+- Ika y los cinco hermanos: el saco al hombro y las herramientas de Oggún.
+- Eleguá pescando sin anzuelo y la pelea de los dueños de la canoa.
+- Historias de la casa donde Ika se encuentra con Okana: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Ika (Oficio propio; gente alrededor cuando cae el orgullo) llega *a través* de Okana.
+- Se sostiene si se respeta lo que pide Eshú y Oggún.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Querer riqueza sin oficio.
+- Cautela del segundo: Frijoles colorados; lengua ajena en ausencia.
+- Cruce típico: oficio + hermanos se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Oggún, Orunmila, Eshú, Shangó, Ikú
+- Ámbitos: oficio, hermanos, pelea, accidente
+- Temas: soberbia, oficio, humildad, fuego, prisa, awofaka
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Dónde está fingiendo un oficio que no tiene?
+- ¿Dónde está actuando con prisa de fuego?
+- ¿Este asunto es más de Ika (tono) o de Okana (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[ika-meyi|Ika Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[okana-meyi|Okana Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[okana-ika|Okana Ika]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Ika
 
-- Padre: [[domains/ifa/entries/meji/ika-meyi|Ika Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/okana-ika|Okana Ika]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[ika-ogbe|Ika Ogbe]] · [[ika-oyekun|Ika Oyekun]] · [[ika-iwori|Ika Iwori]] · [[ika-odi|Ika Odi]] · [[ika-iroso|Ika Iroso]] · [[ika-ojuani|Ika Ojuani]] · [[ika-obara|Ika Obara]] · [[ika-okana|Ika Okana]] · [[ika-ogunda|Ika Ogunda]] · [[ika-osa|Ika Osa]] · [[ika-otrupon|Ika Otrupon]] · [[ika-otura|Ika Otura]] · [[ika-irete|Ika Irete]] · [[ika-oshe|Ika Oshe]] · [[ika-ofun|Ika Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

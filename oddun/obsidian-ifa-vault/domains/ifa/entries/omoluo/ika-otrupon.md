@@ -1,76 +1,104 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Ika Otrupon
 slug: ika-otrupon
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Ika Otrupon
-family: Ika
-right: Ika
-left: Otrupon
-class: [omoluo, odu-compuesto]
-parent_meji: [[ika-meyi]]
-second_meji: [[otrupon-meyi]]
+n: 177
+familia: Ika
+padre: Ika
+segundo: Otrupon
+aliases: [Ika Otrupon, Ika Meyi Otrupon, ika otrupon]
+tags: [ifa, oddun, omoluo, familia/ika, cruce/otrupon]
+orishas: [Oggún, Orunmila, Eshú, Babalú Ayé, Osain, Eggun, Olokun]
+temas: [soberbia, oficio, humildad, enfermedad, ciclo]
+consulta: true
+patakies:
+  - "[[AJINAKU el elefante antes fue un animal pequeño]]"
+  - "[[de Ika Bara]]"
+  - "[[de Ika Trupo]]"
+  - "[[DE TI DE JI DO GBA U BO GLO KU. FA HWI WE MI KPE ZO!]]"
+  - "[[Había un Awo llamado Yearodi que tenia una]]"
+  - "[[Había una mujer muy rica pero muy ruin]]"
+  - "[[Orula llegó a una Tierra en que los]]"
+  - "[[Orula tenia a su mujer en estado y]]"
+
 ---
 
-# Ika Otrupon
+# 177. Ika Otrupon
 
-> Hijo de Ika con Otrupon. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/ika-meyi|Ika Meyi]] (11)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/otrupon-meyi|Otrupon Meyi]] (12)
+**Buscar en Obsidian:** `Ika Otrupon` · `Ika Otrupon` · `ika-otrupon`
+**Padre:** [[ika-meyi|Ika Meyi]] (11) · **Segundo:** [[otrupon-meyi|Otrupon Meyi]] (12) · **Inverso:** [[otrupon-ika|Otrupon Ika]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Ika Otrupon** es Ika Meyi cruzado con Otrupon Meyi. El padre Ika tuerce el dedo soberbio y exige oficio real. El segundo pie Otrupon enferma para enseñar y sube lo que estaba abajo. Se lee primero [[ika-meyi|Ika Meyi]] (tono) y después [[otrupon-meyi|Otrupon Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[otrupon-ika|Otrupon Ika]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/ika-meyi|Ika Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/otrupon-meyi|Otrupon Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- La humildad que corrige la soberbia.
+- La enfermedad que enseña.
+- Cruce Ika × Otrupon: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: soberbia, oficio, hermanos × enfermedad, humildad, justicia
-- Orishas a tener en cuenta: Oggún, Orunmila, Eshú, Babalú Ayé, Osain, Eggun, Olokun
+- Rezo de linaje de Ika Otrupon (anotar el texto que canta su casa).
+- Se invoca primero el padre Ika y se cierra con Otrupon.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Cinco hermanos y uno solo quiere oficio: ese carga el saco.
+- Hija de Santa Bárbara: Shangó persigue; la fortuna puede traer lío de justicia.
+- Lea el ire de Ika *a través* de Otrupon: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Otrupon Ika.
+
+## Lista de patakies
+
+- Ika y los cinco hermanos: el saco al hombro y las herramientas de Oggún.
+- Los que van arriba y los que van abajo.
+- Historias de la casa donde Ika se encuentra con Otrupon: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Ika (Oficio propio; gente alrededor cuando cae el orgullo) llega *a través* de Otrupon.
+- Se sostiene si se respeta lo que pide Babalú Ayé y Oggún.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Querer riqueza sin oficio.
+- Cautela del segundo: Candela, robo, no tomar lo tapado.
+- Cruce típico: oficio + hermanos se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Oggún, Orunmila, Eshú, Babalú Ayé, Osain, Eggun, Olokun
+- Ámbitos: oficio, hermanos, cuerpo, vergüenza
+- Temas: soberbia, oficio, humildad, enfermedad, ciclo
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Dónde está fingiendo un oficio que no tiene?
+- ¿Qué enfermedad está dando clase?
+- ¿Este asunto es más de Ika (tono) o de Otrupon (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[ika-meyi|Ika Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[otrupon-meyi|Otrupon Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[otrupon-ika|Otrupon Ika]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Ika
 
-- Padre: [[domains/ifa/entries/meji/ika-meyi|Ika Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/otrupon-ika|Otrupon Ika]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[ika-ogbe|Ika Ogbe]] · [[ika-oyekun|Ika Oyekun]] · [[ika-iwori|Ika Iwori]] · [[ika-odi|Ika Odi]] · [[ika-iroso|Ika Iroso]] · [[ika-ojuani|Ika Ojuani]] · [[ika-obara|Ika Obara]] · [[ika-okana|Ika Okana]] · [[ika-ogunda|Ika Ogunda]] · [[ika-osa|Ika Osa]] · [[ika-otrupon|Ika Otrupon]] · [[ika-otura|Ika Otura]] · [[ika-irete|Ika Irete]] · [[ika-oshe|Ika Oshe]] · [[ika-ofun|Ika Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

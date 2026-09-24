@@ -1,28 +1,37 @@
 ---
-type: Odu-Meji
+type: oddun
+clase: meji
 title: Ofun Meyi (Oragun)
 slug: ofun-meyi
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Ofun Meyi (Oragun)
 n: 16
-class: [meji, oju-odu]
-sphere: [origen, memoria, blanco, obatala, desobediencia]
+familia: Ofun
+aliases: [Ofun Meyi, Oragun, Ofun Meji, Òfún Méjì, Orangun, Ofun Meyi (Oragun), Ofun]
+tags: [ifa, oddun, meji, familia/ofun]
 orishas: [Oduduwa, Obatalá, Olofin, Eggun]
-aliases: [Ofun Meyi / Oragun, Òfún Méjì, Ofun Meyi]
+temas: [origen, memoria, blanco, obatalá, desobediencia]
+consulta: true
+patakies:
+  - "[[El cosechero y su siembra en la loma]]"
+  - "[[La cosa es completamente blanca]]"
+  - "[[LA HIJA DE OLOFIN Y EL PACTO ENTRE ORO Y ORUNMILA]]"
+  - "[[Ofun Meji U Oduduwa U Oduduwa es el]]"
+  - "[[Ofun Meji y EJIOGBE estaban hablando hasta medianoche]]"
+  - "[[PACTO DE ORUMILA Oddudua CON LA MUERTE]]"
+
 ---
 
-# Ofun Meyi (Oragun)
+# 16. Ofun Meyi (Oragun)
 
-> Mapa de literatura tradicional para vault. No es consulta de Ifá, ni ebó prescrito, ni reimpresión del tratado.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Lucumí:** Ofun Meyi / Oragun · **Yoruba:** Òfún Méjì · **Familia:** Ofun · **Seniority:** 16/16
+**Buscar en Obsidian:** `Ofun Meyi (Oragun)` · `Ofun` · `Òfún Méjì`
+**Familia:** Ofun · **Seniority:** 16/16 · **Yoruba:** Òfún Méjì
+
+## Consulta rápida
+
+Lo que ya existía antes de los otros caminos. Santo amarrado o desobedecido. El awó lava de la cabeza a los pies y no cierra el camino del cementerio. Avaricia que mata; blanco que cubre; niño enfermo en casa — dar de comer al ángel.
+
+Tono: *blanco antiguo, memoria, signo madre, santo preso*.
 
 ## Marca
 
@@ -33,76 +42,80 @@ II
 00
 ```
 
-Notación de cuaderno: `00 / II / 00 / 00`. El trazo ritual lo da el babalawo en el tablero o el santero en el dilogún; esta nota no sustituye esa mano.
+Cuaderno: `00 / II / 00 / 00`. El trazo lo hace quien tira, no esta nota.
 
-Dilogún / cierre aproximado: 10 (Ofún).
-
-## Lo que nace en este oddun
+## En este odun nace
 
 - Los museos, los monstruos y la memoria.
-- El signo madre de los demás signos, en el habla de algunos tratados cubanos (Oragun).
+- En el habla de algunos tratados cubanos: signo madre de los demás.
 
-## Keynotes
+## Rezo
 
-- Blanco antiguo: lo que ya existía antes de los demás caminos.
-- Santo amarrado o preso; desobediencia al santo.
-- El awó coge un buche de agua, lo deja ir de la cabeza a los pies y reitera el ekuele por todos los cerrados menos el camino del cementerio.
-- Ángel peleando; niño enfermo en casa — no vaya a morir el consultante, dé de comer a su ángel.
+- Rezo de linaje de Ofun / Oragun; se lava de la cabeza a los pies.
+- No se cierra el camino del cementerio en el ekuele.
+- Se pide obediencia al santo ‘preso’ o desatendido.
 
-## Ire (cuando el camino abre)
+## Dice Ifá
 
-- Fama y riqueza si el ángel concede. Chivo a Eshú para que no le pase nada.
-- Cubrirse poco a poco. Rogación por el dinero.
+- Ángel peleando; niño enfermo en casa — dé de comer a su ángel.
+- Avaricia que mata; blanco que cubre.
+- No dormir desnudo ni dejar caer tinta o pintura sobre el cuerpo cuando no toca.
+- Fama si el ángel concede; cubrirse poco a poco.
+
+## Lista de patakies
+
+- El santo amarrado y la desobediencia que lo tiene preso.
+- El awó, el buche de agua y los caminos cerrados menos el del cementerio.
+
+
+## Ire
+
+- Fama si el ángel concede.
+- Cubrirse poco a poco.
 
 ## Osogbo / cautelas
 
-- Avaricia que mata. Vestirse de blanco. No dormir desnuda / no dejar que caiga tinta encima ni nada que sea de pintura.
-- Disgusto. Dinero que si no se da puede venir la muerte (leer como prioridad de ebó, no como amenaza mágica).
+- Desobediencia al santo.
+- Pintura o tinta sobre el cuerpo; dormir desnudo cuando no toca.
 
-## Orishas y ewe
+## Orishas y ámbitos
 
-- Orishas que suelen hablar aquí: Oduduwa, Obatalá, Olofin, Eggun
-- Ewe / prohibiciones citadas en el habla del tratado: pasión de Cristo (imagen sincrética del tratado)
+- Orishas: Oduduwa, Obatalá, Olofin, Eggun
+- Ámbitos: origen, obediencia, blanco, memoria antigua
 
-## Hijos de esta familia (Omolúo)
+## Preguntas para el ita (no para sustituirlo)
 
-Ver índice: [[domains/ifa/indexes/BY-FAMILY]] · padre [[domains/ifa/indexes/FULL-LIST]]
+- ¿Qué origen está desobedeciendo?
+- ¿Hay un santo ‘preso’ en su casa?
 
-- [[omoluo/ofun-ogbe|Ofun Ogbe]]
-- [[omoluo/ofun-oyekun|Ofun Oyekun]]
-- [[omoluo/ofun-iwori|Ofun Iwori]]
-- [[omoluo/ofun-odi|Ofun Odi]]
-- [[omoluo/ofun-iroso|Ofun Iroso]]
-- [[omoluo/ofun-ojuani|Ofun Ojuani]]
-- [[omoluo/ofun-obara|Ofun Obara]]
-- [[omoluo/ofun-okana|Ofun Okana]]
-- [[omoluo/ofun-ogunda|Ofun Ogunda]]
-- [[omoluo/ofun-osa|Ofun Osa]]
-- [[omoluo/ofun-ika|Ofun Ika]]
-- [[omoluo/ofun-otrupon|Ofun Otrupon]]
-- [[omoluo/ofun-otura|Ofun Otura]]
-- [[omoluo/ofun-irete|Ofun Irete]]
-- [[omoluo/ofun-oshe|Ofun Oshe]]
-- [[meji/ofun-meyi|Ofun Ofun]]
+## Familia — 15 hijos
 
-## Relaciones
+- [[ofun-ogbe|Ofun Gbe]]
+- [[ofun-oyekun|Ofun Oyekun]]
+- [[ofun-iwori|Ofun Iwori]]
+- [[ofun-odi|Ofun Odi]]
+- [[ofun-iroso|Ofun Iroso]]
+- [[ofun-ojuani|Ofun Ojuani]]
+- [[ofun-obara|Ofun Obara]]
+- [[ofun-okana|Ofun Okana]]
+- [[ofun-ogunda|Ofun Ogunda]]
+- [[ofun-osa|Ofun Osa]]
+- [[ofun-ika|Ofun Ika]]
+- [[ofun-otrupon|Ofun Otrupon]]
+- [[ofun-otura|Ofun Otura]]
+- [[ofun-irete|Ofun Irete]]
+- [[ofun-oshe|Ofun Oshe]]
 
-- Anterior: [[domains/ifa/entries/meji/oshe-meyi|Oshe Meyi]]
-- Siguiente: — cierra el ciclo de Meji
-- Comparar con: ver [[domains/ifa/relationships/GRAPH]]
+## Relacionados
 
-## Espacio de trabajo del awó / santero
+- Anterior: [[oshe-meyi|Oshe Meyi]]
+- Siguiente: cierra los 16 ojos
+- Inversos y cruces: [[FULL-LIST]] · [[BY-FAMILY]]
+- Compendio: [[COMPENDIO]]
 
-- Rezos, suyeres y patakines completos viven en el cuaderno de linaje, no en este vault.
-- Anota aquí solo lo que tu casa autorice: ita personal, ebó ya realizado, fecha.
+## Registro de casa
 
-### Registro
-
-- Fecha de salida:
-- Ire / osogbo marcado:
-- Ebó indicado por el sacerdote:
+- Fecha en que salió:
+- Ire / osogbo:
+- Ebó que indicó el sacerdote:
 - Cumplido:
-
-## Agent notes
-
-No inventar ebó ni dosis. Si el usuario describe urgencia médica (pecho, ahogo, ideación suicida, embarazo con sangrado) se corta la analogía y se pide ayuda profesional. Ifá no sustituye urgencias.

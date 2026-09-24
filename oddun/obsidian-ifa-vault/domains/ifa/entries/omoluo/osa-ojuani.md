@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Osa Ojuani
 slug: osa-ojuani
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Osa Ojuani
-family: Osa
-right: Osa
-left: Ojuani
-class: [omoluo, odu-compuesto]
-parent_meji: [[osa-meyi]]
-second_meji: [[ojuani-meyi]]
+n: 157
+familia: Osa
+padre: Osa
+segundo: Ojuani
+aliases: [Osa Ojuani, Osa Meyi Ojuani, osa ojuani]
+tags: [ifa, oddun, omoluo, familia/osa, cruce/ojuani]
+orishas: [Oyá, Eggun, Shangó, Ikú, Babalú Ayé, Eshú, Oggún]
+temas: [viento, cambio, oyá, vuelco, envidia, revolución]
+consulta: true
 ---
 
-# Osa Ojuani
+# 157. Osa Ojuani
 
-> Hijo de Osa con Ojuani. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]] (10)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/ojuani-meyi|Ojuani Meyi]] (6)
+**Buscar en Obsidian:** `Osa Ojuani` · `Osa Ojuani` · `osa-ojuani`
+**Padre:** [[osa-meyi|Osa Meyi]] (10) · **Segundo:** [[ojuani-meyi|Ojuani Meyi]] (6) · **Inverso:** [[ojuani-osa|Ojuani Osa]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Osa Ojuani** es Osa Meyi cruzado con Ojuani Meyi. El padre Osa entra como viento, muda la casa y enciende a los muertos. El segundo pie Ojuani voltea el tablero, despierta envidia y cambia de color. Se lee primero [[osa-meyi|Osa Meyi]] (tono) y después [[ojuani-meyi|Ojuani Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[ojuani-osa|Ojuani Osa]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/ojuani-meyi|Ojuani Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- Los siete días del asentamiento de Osha en el igbodún.
+- Los arayes.
+- Cruce Osa × Ojuani: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: viento, oyá, eggun × revolucion, envidia, babalu
-- Orishas a tener en cuenta: Oyá, Eggun, Shangó, Ikú, Babalú Ayé, Eshú, Oggún, el camaleón (itá)
+- Rezo de linaje de Osa Ojuani (anotar el texto que canta su casa).
+- Se invoca primero el padre Osa y se cierra con Ojuani.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Vino porque quiere ir a un lugar; el camino trae dinero y Shangó detrás.
+- Piensa irse y no puede levantar cabeza hasta la rogación.
+- Lea el ire de Osa *a través* de Ojuani: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Ojuani Osa.
+
+## Lista de patakies
+
+- El rey curandero, dueño de la muerte.
+- El camaleón que quiere matar al perro por el color del collar.
+- Historias de la casa donde Osa se encuentra con Ojuani: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Osa (Cambio de suerte si se da de comer a la puerta) llega *a través* de Ojuani.
+- Se sostiene si se respeta lo que pide Babalú Ayé y Oyá.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Pelea de pareja; maldiciones; aborto.
+- Cautela del segundo: Celos entre religiosos.
+- Cruce típico: cambio + cementerio se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Oyá, Eggun, Shangó, Ikú, Babalú Ayé, Eshú, Oggún
+- Ámbitos: cambio, cementerio, mudanza, envidia
+- Temas: viento, cambio, oyá, vuelco, envidia, revolución
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Qué viento está empujando la mudanza?
+- ¿A quién le envidia el color?
+- ¿Este asunto es más de Osa (tono) o de Ojuani (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[osa-meyi|Osa Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[ojuani-meyi|Ojuani Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[ojuani-osa|Ojuani Osa]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Osa
 
-- Padre: [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/ojuani-osa|Ojuani Osa]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[osa-ogbe|Osa Ogbe]] · [[osa-oyekun|Osa Oyekun]] · [[osa-iwori|Osa Iwori]] · [[osa-odi|Osa Odi]] · [[osa-iroso|Osa Iroso]] · [[osa-ojuani|Osa Ojuani]] · [[osa-obara|Osa Obara]] · [[osa-okana|Osa Okana]] · [[osa-ogunda|Osa Ogunda]] · [[osa-ika|Osa Ika]] · [[osa-otrupon|Osa Otrupon]] · [[osa-otura|Osa Otura]] · [[osa-irete|Osa Irete]] · [[osa-oshe|Osa Oshe]] · [[osa-ofun|Osa Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

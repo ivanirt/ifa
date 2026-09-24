@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Okana Iwori
 slug: okana-iwori
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Okana Iwori
-family: Okana
-right: Okana
-left: Iwori
-class: [omoluo, odu-compuesto]
-parent_meji: [[okana-meyi]]
-second_meji: [[iwori-meyi]]
+n: 124
+familia: Okana
+padre: Okana
+segundo: Iwori
+aliases: [Okana Iwori, Okana Meyi Iwori, okana iwori]
+tags: [ifa, oddun, omoluo, familia/okana, cruce/iwori]
+orishas: [Eshú, Shangó, Ikú, Orunmila, Olofin, Olokun, Eleguá]
+temas: [fuego, prisa, awofaka, ojo, investigación, sangre]
+consulta: true
 ---
 
-# Okana Iwori
+# 124. Okana Iwori
 
-> Hijo de Okana con Iwori. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]] (8)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/iwori-meyi|Iwori Meyi]] (3)
+**Buscar en Obsidian:** `Okana Iwori` · `Okana Iwori` · `okana-iwori`
+**Padre:** [[okana-meyi|Okana Meyi]] (8) · **Segundo:** [[iwori-meyi|Iwori Meyi]] (3) · **Inverso:** [[iwori-okana|Iwori Okana]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Okana Iwori** es Okana Meyi cruzado con Iwori Meyi. El padre Okana prende fuego corto, da prisa y pide trueque de caminos. El segundo pie Iwori obliga a mirar adentro, investigar y no firmar a ciegas. Se lee primero [[okana-meyi|Okana Meyi]] (tono) y después [[iwori-meyi|Iwori Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[iwori-okana|Iwori Okana]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/iwori-meyi|Iwori Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- El ikofa eshanile y el awofaka.
+- La letra del año.
+- Cruce Okana × Iwori: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: fuego, violencia, awofaka × investigacion, sangre, justicia
-- Orishas a tener en cuenta: Eshú, Shangó, Ikú, Orunmila, Olofin, Olokun, Eleguá
+- Rezo de linaje de Okana Iwori (anotar el texto que canta su casa).
+- Se invoca primero el padre Okana y se cierra con Iwori.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Mal por dentro de una pierna; casa que se quiere desatar.
+- Se le sube la sangre a la cabeza; haga días de bajar costumbres.
+- Lea el ire de Okana *a través* de Iwori: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Iwori Okana.
+
+## Lista de patakies
+
+- Eleguá pescando sin anzuelo y la pelea de los dueños de la canoa.
+- Los ricos acusan a Olokun ante Olofin; Eure Meyi y las dos lerí en el camino.
+- Historias de la casa donde Okana se encuentra con Iwori: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Okana (El vuelco ritual revela el ire tapado) llega *a través* de Iwori.
+- Se sostiene si se respeta lo que pide Orunmila y Eshú.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Frijoles colorados; lengua ajena en ausencia.
+- Cautela del segundo: Herencia tramposa; empleo inseguro; sangre a la cabeza.
+- Cruce típico: pelea + accidente se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Eshú, Shangó, Ikú, Orunmila, Olofin, Olokun, Eleguá
+- Ámbitos: pelea, accidente, papeles, estudio
+- Temas: fuego, prisa, awofaka, ojo, investigación, sangre
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Dónde está actuando con prisa de fuego?
+- ¿Qué no ha querido mirar de frente?
+- ¿Este asunto es más de Okana (tono) o de Iwori (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[okana-meyi|Okana Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[iwori-meyi|Iwori Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[iwori-okana|Iwori Okana]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Okana
 
-- Padre: [[domains/ifa/entries/meji/okana-meyi|Okana Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/iwori-okana|Iwori Okana]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[okana-ogbe|Okana Ogbe]] · [[okana-oyekun|Okana Oyekun]] · [[okana-iwori|Okana Iwori]] · [[okana-odi|Okana Odi]] · [[okana-iroso|Okana Iroso]] · [[okana-ojuani|Okana Ojuani]] · [[okana-obara|Okana Obara]] · [[okana-ogunda|Okana Ogunda]] · [[okana-osa|Okana Osa]] · [[okana-ika|Okana Ika]] · [[okana-otrupon|Okana Otrupon]] · [[okana-otura|Okana Otura]] · [[okana-irete|Okana Irete]] · [[okana-oshe|Okana Oshe]] · [[okana-ofun|Okana Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

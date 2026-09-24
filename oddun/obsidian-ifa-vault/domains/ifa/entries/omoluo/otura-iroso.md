@@ -1,76 +1,93 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Otura Iroso
 slug: otura-iroso
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Otura Iroso
-family: Otura
-right: Otura
-left: Iroso
-class: [omoluo, odu-compuesto]
-parent_meji: [[otura-meyi]]
-second_meji: [[iroso-meyi]]
+n: 201
+familia: Otura
+padre: Otura
+segundo: Iroso
+aliases: [Otura Iroso, Otura Meyi Iroso, otura iroso]
+tags: [ifa, oddun, omoluo, familia/otura, cruce/iroso]
+orishas: [Obatalá, Orunmila, Ozain, Shangó, Osún, Eggun]
+temas: [palabra, consejo, astucia, sangre, memoria, humildad]
+consulta: true
 ---
 
-# Otura Iroso
+# 201. Otura Iroso
 
-> Hijo de Otura con Iroso. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/otura-meyi|Otura Meyi]] (13)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/iroso-meyi|Iroso Meyi]] (5)
+**Buscar en Obsidian:** `Otura Iroso` · `Otura Iroso` · `otura-iroso`
+**Padre:** [[otura-meyi|Otura Meyi]] (13) · **Segundo:** [[iroso-meyi|Iroso Meyi]] (5) · **Inverso:** [[iroso-otura|Iroso Otura]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Otura Iroso** es Otura Meyi cruzado con Iroso Meyi. El padre Otura sentencia con la palabra y pide siembra, no porfía. El segundo pie Iroso trae sangre, memoria, lágrima y riesgo de trampa. Se lee primero [[otura-meyi|Otura Meyi]] (tono) y después [[iroso-meyi|Iroso Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[iroso-otura|Iroso Otura]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/otura-meyi|Otura Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/iroso-meyi|Iroso Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- La palabra que crea y la palabra que condena.
+- La humildad.
+- Cruce Otura × Iroso: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: palabra, astucia, justicia × memoria, sangre, humildad
-- Orishas a tener en cuenta: Obatalá, Orunmila, Ozain, Shangó, Osún, Eggun
+- Rezo de linaje de Otura Iroso (anotar el texto que canta su casa).
+- Se invoca primero el padre Otura y se cierra con Iroso.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Ifá del zorro en algunos caminos: reparte buenos y malos con astucia.
+- Sueño con guacalote y collar colorado: cuidado con la candela.
+- Lea el ire de Otura *a través* de Iroso: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Iroso Otura.
+
+## Lista de patakies
+
+- El babalawo, las jicoteas y el dinero que se recompensa.
+- El babalawo, la hija del rey y la prenda que Awóle devuelve.
+- Historias de la casa donde Otura se encuentra con Iroso: anotar aquí el patakín que le tiraron.
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Otura (Siembra que prende) llega *a través* de Iroso.
+- Se sostiene si se respeta lo que pide Shangó y Obatalá.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Soberbia voluntariosa; abandono por majadería.
+- Cautela del segundo: Trampa en el puesto o en el campo.
+- Cruce típico: palabra + consejo se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Obatalá, Orunmila, Ozain, Shangó, Osún, Eggun
+- Ámbitos: palabra, consejo, salud de la vista, memoria
+- Temas: palabra, consejo, astucia, sangre, memoria, humildad
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Su palabra está sembrando o sentenciando?
+- ¿Qué no quiere recordar?
+- ¿Este asunto es más de Otura (tono) o de Iroso (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[otura-meyi|Otura Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[iroso-meyi|Iroso Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[iroso-otura|Iroso Otura]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Otura
 
-- Padre: [[domains/ifa/entries/meji/otura-meyi|Otura Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/iroso-otura|Iroso Otura]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[otura-ogbe|Otura Ogbe]] · [[otura-oyekun|Otura Oyekun]] · [[otura-iwori|Otura Iwori]] · [[otura-odi|Otura Odi]] · [[otura-iroso|Otura Iroso]] · [[otura-ojuani|Otura Ojuani]] · [[otura-obara|Otura Obara]] · [[otura-okana|Otura Okana]] · [[otura-ogunda|Otura Ogunda]] · [[otura-osa|Otura Osa]] · [[otura-ika|Otura Ika]] · [[otura-otrupon|Otura Otrupon]] · [[otura-irete|Otura Irete]] · [[otura-oshe|Otura Oshe]] · [[otura-ofun|Otura Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

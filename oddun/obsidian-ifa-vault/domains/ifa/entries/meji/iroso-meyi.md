@@ -1,28 +1,44 @@
 ---
-type: Odu-Meji
+type: oddun
+clase: meji
 title: Iroso Meyi
 slug: iroso-meyi
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Iroso Meyi
 n: 5
-class: [meji, oju-odu]
-sphere: [memoria, sangre, humildad, trampa, osun]
+familia: Iroso
+aliases: [Iroso Meyi, Irosun Meji, Iroso Meji, Ìrosùn Méjì, Iroso Meyi, Iroso]
+tags: [ifa, oddun, meji, familia/iroso]
 orishas: [Shangó, Obatalá, Osún, Eggun]
-aliases: [Iroso Meyi, Ìrosùn Méjì, Iroso Meyi]
+temas: [sangre, memoria, humildad, visión, trampa]
+consulta: true
+patakies:
+  - "[[de Iroso Umbo]]"
+  - "[[Dice Ifa que en este signo Orunmila vivía]]"
+  - "[[Dice Ifa que era una nación que le]]"
+  - "[[Dios que IFA muestra en el país de]]"
+  - "[[El camino de Abita]]"
+  - "[[En el pueblo de Pobe vivía un Awo]]"
+  - "[[Fuego y Lluvia pelearon por una mujer]]"
+  - "[[Había un Awo que tenia a un ahijado]]"
+  - "[[Había una vez un matrimonio cuyo hombre era]]"
+  - "[[Iroso Meji LosoJime Es el signo que encontró]]"
+  - "[[La nuez de palma Sede invitó a IFA]]"
+  - "[[Metalofi encontró este signo cuando no tenia niños]]"
+  - "[[Pataki]]"
+
 ---
 
-# Iroso Meyi
+# 05. Iroso Meyi
 
-> Mapa de literatura tradicional para vault. No es consulta de Ifá, ni ebó prescrito, ni reimpresión del tratado.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Lucumí:** Iroso Meyi · **Yoruba:** Ìrosùn Méjì · **Familia:** Iroso · **Seniority:** 5/16
+**Buscar en Obsidian:** `Iroso Meyi` · `Iroso` · `Ìrosùn Méjì`
+**Familia:** Iroso · **Seniority:** 5/16 · **Yoruba:** Ìrosùn Méjì
+
+## Consulta rápida
+
+Lo que se ve y lo que se llora. Medicina y memoria. Casa que puede incendiarse por vela o por orgullo. No se queda ciego quien enseña la enfermedad a tiempo.
+
+Tono: *sangre, memoria, vista, humildad, trampa*.
 
 ## Marca
 
@@ -33,79 +49,82 @@ II
 00
 ```
 
-Notación de cuaderno: `II / II / 00 / 00`. El trazo ritual lo da el babalawo en el tablero o el santero en el dilogún; esta nota no sustituye esa mano.
+Cuaderno: `II / II / 00 / 00`. El trazo lo hace quien tira, no esta nota.
 
-Dilogún / cierre aproximado: 4 (Iroso).
-
-## Lo que nace en este oddun
+## En este odun nace
 
 - La humildad.
-- La fosa mortuoria y el espíritu de Osún.
+- La fosa y el espíritu de Osún.
 - La religiosidad y el tablero de Ifá.
-- La vista y la lágrima; suicidio y pérdida de memoria (como aviso, no como destino).
+- La vista y la lágrima; el olvido que asusta.
 
-## Keynotes
+## Rezo
 
-- Sangre, medicina y memoria. Lo que se ve y lo que se llora.
-- Hijo de Obatalá / Virgen de Monserrate en el habla sincrética del tratado.
-- Casa que puede incendiarse: cuidado con vela y collar colorado.
-- No es legal consigo mismo: abandonó familia o no cree lo que se le dice.
+- Rezo de linaje de Iroso; se pide vista clara y memoria.
+- Se enciende vela con tiento: la casa puede incendiarse.
 
-## Ire (cuando el camino abre)
+## Dice Ifá
 
-- Llegará a estar bien hasta tener criados y un hijo empleado del gobierno — imagen de estabilidad tardía.
-- Dinero puesto a Ochún.
+- Sueño con guacalote y collar colorado: cuidado con la candela.
+- Hay una cosa mala en la cabeza que no lo deja hacer el bien.
+- Trampa en el puesto o en el campo; quieren quitarle la comida.
+- Enfermedad que no se da a conocer: no quedarse ciego de orgullo.
+- No echar maldiciones; no cambiar con cualquiera.
+
+## Lista de patakies
+
+- El babalawo, la hija del rey y la prenda que Awóle devuelve.
+- La camarilla del palacio y las trampas en los cuartos; Orula pide todos los planos.
+- El pájaro en la jaula de Shangó que no come y vuela cuando le sueltan el hilo.
+
+
+## Ire
+
+- Estabilidad tardía; hijo que se coloca; dinero puesto a Ochún.
 
 ## Osogbo / cautelas
 
-- Trampa en el campo o en el puesto que le tienen preparado.
-- Quieren quitarle la comida; enfermedad que no se da a conocer (no quedarse ciego por orgullo).
-- No echar maldiciones. No cambiar con nadie para que la suerte no se vaya.
+- Trampa en el puesto o en el campo.
+- Quieren quitarle la comida; no echar maldición.
 
-## Orishas y ewe
+## Orishas y ámbitos
 
-- Orishas que suelen hablar aquí: Shangó, Obatalá, Osún, Eggun
-- Ewe / prohibiciones citadas en el habla del tratado: ver cuaderno de casa
+- Orishas: Shangó, Obatalá, Osún, Eggun
+- Ámbitos: salud de la vista, memoria, fuego en casa, humildad
 
-## Hijos de esta familia (Omolúo)
+## Preguntas para el ita (no para sustituirlo)
 
-Ver índice: [[domains/ifa/indexes/BY-FAMILY]] · padre [[domains/ifa/indexes/FULL-LIST]]
+- ¿Qué no quiere recordar?
+- ¿Dónde hay una trampa disfrazada de oportunidad?
 
-- [[omoluo/iroso-ogbe|Iroso Ogbe]]
-- [[omoluo/iroso-oyekun|Iroso Oyekun]]
-- [[omoluo/iroso-iwori|Iroso Iwori]]
-- [[omoluo/iroso-odi|Iroso Odi]]
-- [[meji/iroso-meyi|Iroso Iroso]]
-- [[omoluo/iroso-ojuani|Iroso Ojuani]]
-- [[omoluo/iroso-obara|Iroso Obara]]
-- [[omoluo/iroso-okana|Iroso Okana]]
-- [[omoluo/iroso-ogunda|Iroso Ogunda]]
-- [[omoluo/iroso-osa|Iroso Osa]]
-- [[omoluo/iroso-ika|Iroso Ika]]
-- [[omoluo/iroso-otrupon|Iroso Otrupon]]
-- [[omoluo/iroso-otura|Iroso Otura]]
-- [[omoluo/iroso-irete|Iroso Irete]]
-- [[omoluo/iroso-oshe|Iroso Oshe]]
-- [[omoluo/iroso-ofun|Iroso Ofun]]
+## Familia — 15 hijos
 
-## Relaciones
+- [[iroso-ogbe|Iroso Ogbe]]
+- [[iroso-oyekun|Iroso Oyekun]]
+- [[iroso-iwori|Iroso Iwori]]
+- [[iroso-odi|Iroso Odi]]
+- [[iroso-ojuani|Iroso Ojuani]]
+- [[iroso-obara|Iroso Obara]]
+- [[iroso-okana|Iroso Okana]]
+- [[iroso-ogunda|Iroso Ogunda]]
+- [[iroso-osa|Iroso Osa]]
+- [[iroso-ika|Iroso Ika]]
+- [[iroso-otrupon|Iroso Otrupon]]
+- [[iroso-otura|Iroso Otura]]
+- [[iroso-irete|Iroso Irete]]
+- [[iroso-oshe|Iroso Oshe]]
+- [[iroso-ofun|Iroso Ofun]]
 
-- Anterior: [[domains/ifa/entries/meji/odi-meyi|Odi Meyi]]
-- Siguiente: [[domains/ifa/entries/meji/ojuani-meyi|Ojuani Meyi]]
-- Comparar con: ver [[domains/ifa/relationships/GRAPH]]
+## Relacionados
 
-## Espacio de trabajo del awó / santero
+- Anterior: [[odi-meyi|Odi Meyi]]
+- Siguiente: [[ojuani-meyi|Ojuani Meyi]]
+- Inversos y cruces: [[FULL-LIST]] · [[BY-FAMILY]]
+- Compendio: [[COMPENDIO]]
 
-- Rezos, suyeres y patakines completos viven en el cuaderno de linaje, no en este vault.
-- Anota aquí solo lo que tu casa autorice: ita personal, ebó ya realizado, fecha.
+## Registro de casa
 
-### Registro
-
-- Fecha de salida:
-- Ire / osogbo marcado:
-- Ebó indicado por el sacerdote:
+- Fecha en que salió:
+- Ire / osogbo:
+- Ebó que indicó el sacerdote:
 - Cumplido:
-
-## Agent notes
-
-No inventar ebó ni dosis. Si el usuario describe urgencia médica (pecho, ahogo, ideación suicida, embarazo con sangrado) se corta la analogía y se pide ayuda profesional. Ifá no sustituye urgencias.

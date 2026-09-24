@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Iroso Osa
 slug: iroso-osa
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Iroso Osa
-family: Iroso
-right: Iroso
-left: Osa
-class: [omoluo, odu-compuesto]
-parent_meji: [[iroso-meyi]]
-second_meji: [[osa-meyi]]
+n: 85
+familia: Iroso
+padre: Iroso
+segundo: Osa
+aliases: [Iroso Osa, Iroso Meyi Osa, iroso osa]
+tags: [ifa, oddun, omoluo, familia/iroso, cruce/osa]
+orishas: [Shangó, Obatalá, Osún, Eggun, Oyá, Ikú]
+temas: [sangre, memoria, humildad, viento, cambio, oyá]
+consulta: true
 ---
 
-# Iroso Osa
+# 085. Iroso Osa
 
-> Hijo de Iroso con Osa. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/iroso-meyi|Iroso Meyi]] (5)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]] (10)
+**Buscar en Obsidian:** `Iroso Osa` · `Iroso Osa` · `iroso-osa`
+**Padre:** [[iroso-meyi|Iroso Meyi]] (5) · **Segundo:** [[osa-meyi|Osa Meyi]] (10) · **Inverso:** [[osa-iroso|Osa Iroso]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Iroso Osa** es Iroso Meyi cruzado con Osa Meyi. El padre Iroso trae sangre, memoria, lágrima y riesgo de trampa. El segundo pie Osa entra como viento, muda la casa y enciende a los muertos. Se lee primero [[iroso-meyi|Iroso Meyi]] (tono) y después [[osa-meyi|Osa Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[osa-iroso|Osa Iroso]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/iroso-meyi|Iroso Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- La humildad.
+- Los siete días del asentamiento de Osha en el igbodún.
+- Cruce Iroso × Osa: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: memoria, sangre, humildad × viento, oyá, eggun
-- Orishas a tener en cuenta: Shangó, Obatalá, Osún, Eggun, Oyá, Ikú
+- Rezo de linaje de Iroso Osa (anotar el texto que canta su casa).
+- Se invoca primero el padre Iroso y se cierra con Osa.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Sueño con guacalote y collar colorado: cuidado con la candela.
+- Vino porque quiere ir a un lugar; el camino trae dinero y Shangó detrás.
+- Lea el ire de Iroso *a través* de Osa: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Osa Iroso.
+
+## Lista de patakies
+
+- El babalawo, la hija del rey y la prenda que Awóle devuelve.
+- El rey curandero, dueño de la muerte.
+- Historias de la casa donde Iroso se encuentra con Osa: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Iroso (Estabilidad tardía; hijo que se coloca; dinero puesto a Ochún) llega *a través* de Osa.
+- Se sostiene si se respeta lo que pide Oyá y Shangó.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Trampa en el puesto o en el campo.
+- Cautela del segundo: Pelea de pareja; maldiciones; aborto.
+- Cruce típico: salud de la vista + memoria se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Shangó, Obatalá, Osún, Eggun, Oyá, Ikú
+- Ámbitos: salud de la vista, memoria, cambio, cementerio
+- Temas: sangre, memoria, humildad, viento, cambio, oyá
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Qué no quiere recordar?
+- ¿Qué viento está empujando la mudanza?
+- ¿Este asunto es más de Iroso (tono) o de Osa (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[iroso-meyi|Iroso Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[osa-meyi|Osa Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[osa-iroso|Osa Iroso]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Iroso
 
-- Padre: [[domains/ifa/entries/meji/iroso-meyi|Iroso Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/osa-iroso|Osa Iroso]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[iroso-ogbe|Iroso Ogbe]] · [[iroso-oyekun|Iroso Oyekun]] · [[iroso-iwori|Iroso Iwori]] · [[iroso-odi|Iroso Odi]] · [[iroso-ojuani|Iroso Ojuani]] · [[iroso-obara|Iroso Obara]] · [[iroso-okana|Iroso Okana]] · [[iroso-ogunda|Iroso Ogunda]] · [[iroso-osa|Iroso Osa]] · [[iroso-ika|Iroso Ika]] · [[iroso-otrupon|Iroso Otrupon]] · [[iroso-otura|Iroso Otura]] · [[iroso-irete|Iroso Irete]] · [[iroso-oshe|Iroso Oshe]] · [[iroso-ofun|Iroso Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

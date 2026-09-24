@@ -1,28 +1,39 @@
 ---
-type: Odu-Meji
+type: oddun
+clase: meji
 title: Otura Meyi
 slug: otura-meyi
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Otura Meyi
 n: 13
-class: [meji, oju-odu]
-sphere: [palabra, astucia, justicia, siembra]
+familia: Otura
+aliases: [Otura Meyi, Otura Meji, Òtúrá Méjì, Otura Meyi, Otura]
+tags: [ifa, oddun, meji, familia/otura]
 orishas: [Obatalá, Orunmila, Ozain]
-aliases: [Otura Meyi, Òtúrá Méjì, Otura Meyi]
+temas: [palabra, consejo, astucia, siembra, juicio]
+consulta: true
+patakies:
+  - "[[Como Ifa Abrió el Camino Para Que la Riqueza Viniera]]"
+  - "[[de Otura Niko]]"
+  - "[[Iku Dios de la muerte es el mensajero]]"
+  - "[[La Adivinación Para el Hombre Blanco Cuando Estaba]]"
+  - "[[Los Viejos Pierden su Autoridad total en la]]"
+  - "[[OturaMeji abrió el camino para que la riqueza]]"
+  - "[[OturaMeji viaja a Imodina para ayudar a los]]"
+  - "[[Por que los cangrejos no tiene cabeza (Otura Meji)]]"
+
 ---
 
-# Otura Meyi
+# 13. Otura Meyi
 
-> Mapa de literatura tradicional para vault. No es consulta de Ifá, ni ebó prescrito, ni reimpresión del tratado.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Lucumí:** Otura Meyi · **Yoruba:** Òtúrá Méjì · **Familia:** Otura · **Seniority:** 13/16
+**Buscar en Obsidian:** `Otura Meyi` · `Otura` · `Òtúrá Méjì`
+**Familia:** Otura · **Seniority:** 13/16 · **Yoruba:** Òtúrá Méjì
+
+## Consulta rápida
+
+Ifá del zorro en algunos caminos: reparte buenos y malos con astucia. Maíz sobre la tierra. Se gana cuando se deja de porfiar contra Orunmila. Nueve días de calma valen más que hierro en el cinto.
+
+Tono: *palabra que crea o condena, consejo, astucia, siembra*.
 
 ## Marca
 
@@ -33,74 +44,79 @@ II
 II
 ```
 
-Notación de cuaderno: `II / II / 00 / II`. El trazo ritual lo da el babalawo en el tablero o el santero en el dilogún; esta nota no sustituye esa mano.
+Cuaderno: `II / II / 00 / II`. El trazo lo hace quien tira, no esta nota.
 
-Dilogún / cierre aproximado: 13 caminos de palabra / sermón.
-
-## Lo que nace en este oddun
+## En este odun nace
 
 - La palabra que crea y la palabra que condena.
 - El sermón, el consejo, el tablero que habla claro.
 
-## Keynotes
+## Rezo
 
-- Ifá del zorro en algunos caminos: astucia que reparte seres humanos entre buenos y malos.
-- Maíz sobre la tierra. Calma para que Ifá gane, no el capricho.
-- Justicia en la esquina por espacio de nueve días; no ande con hierro encima si no le toca.
+- Rezo de linaje de Otura; se pide lengua de consejo, no de sentencia.
+- Ozain puede pedir inshé en este camino.
 
-## Ire (cuando el camino abre)
+## Dice Ifá
 
-- Ganar cuando se deja de porfiar. Ozain pide inshé. Tierra sembrada.
+- Ifá del zorro en algunos caminos: reparte buenos y malos con astucia.
+- Maíz sobre la tierra; calma para que gane Ifá, no el capricho.
+- Nueve días de no andar con hierro si no le toca.
+- Mujer que se va por majaderías si se porfía contra el santo.
+
+## Lista de patakies
+
+- El babalawo, las jicoteas y el dinero que se recompensa.
+- La siembra y el que porfía con Orunmila.
+
+
+## Ire
+
+- Siembra que prende.
+- Juicio que se gana callando a tiempo.
 
 ## Osogbo / cautelas
 
-- Soberbia voluntariosa. Mujer que abandona por majaderías.
-- Porfiar contra Orunmila y los dioses que mandan.
+- Soberbia voluntariosa; abandono por majadería.
+- Porfiar contra el santo.
 
-## Orishas y ewe
+## Orishas y ámbitos
 
-- Orishas que suelen hablar aquí: Obatalá, Orunmila, Ozain
-- Ewe / prohibiciones citadas en el habla del tratado: ver cuaderno de casa
+- Orishas: Obatalá, Orunmila, Ozain
+- Ámbitos: palabra, consejo, siembra, juicio
 
-## Hijos de esta familia (Omolúo)
+## Preguntas para el ita (no para sustituirlo)
 
-Ver índice: [[domains/ifa/indexes/BY-FAMILY]] · padre [[domains/ifa/indexes/FULL-LIST]]
+- ¿Su palabra está sembrando o sentenciando?
+- ¿Está porfiando con Ifá?
 
-- [[omoluo/otura-ogbe|Otura Ogbe]]
-- [[omoluo/otura-oyekun|Otura Oyekun]]
-- [[omoluo/otura-iwori|Otura Iwori]]
-- [[omoluo/otura-odi|Otura Odi]]
-- [[omoluo/otura-iroso|Otura Iroso]]
-- [[omoluo/otura-ojuani|Otura Ojuani]]
-- [[omoluo/otura-obara|Otura Obara]]
-- [[omoluo/otura-okana|Otura Okana]]
-- [[omoluo/otura-ogunda|Otura Ogunda]]
-- [[omoluo/otura-osa|Otura Osa]]
-- [[omoluo/otura-ika|Otura Ika]]
-- [[omoluo/otura-otrupon|Otura Otrupon]]
-- [[meji/otura-meyi|Otura Otura]]
-- [[omoluo/otura-irete|Otura Irete]]
-- [[omoluo/otura-oshe|Otura Oshe]]
-- [[omoluo/otura-ofun|Otura Ofun]]
+## Familia — 15 hijos
 
-## Relaciones
+- [[otura-ogbe|Otura Ogbe]]
+- [[otura-oyekun|Otura Oyekun]]
+- [[otura-iwori|Otura Iwori]]
+- [[otura-odi|Otura Odi]]
+- [[otura-iroso|Otura Iroso]]
+- [[otura-ojuani|Otura Ojuani]]
+- [[otura-obara|Otura Obara]]
+- [[otura-okana|Otura Okana]]
+- [[otura-ogunda|Otura Ogunda]]
+- [[otura-osa|Otura Osa]]
+- [[otura-ika|Otura Ika]]
+- [[otura-otrupon|Otura Otrupon]]
+- [[otura-irete|Otura Irete]]
+- [[otura-oshe|Otura Oshe]]
+- [[otura-ofun|Otura Ofun]]
 
-- Anterior: [[domains/ifa/entries/meji/otrupon-meyi|Otrupon Meyi]]
-- Siguiente: [[domains/ifa/entries/meji/irete-meyi|Irete Meyi]]
-- Comparar con: ver [[domains/ifa/relationships/GRAPH]]
+## Relacionados
 
-## Espacio de trabajo del awó / santero
+- Anterior: [[otrupon-meyi|Otrupon Meyi]]
+- Siguiente: [[irete-meyi|Irete Meyi]]
+- Inversos y cruces: [[FULL-LIST]] · [[BY-FAMILY]]
+- Compendio: [[COMPENDIO]]
 
-- Rezos, suyeres y patakines completos viven en el cuaderno de linaje, no en este vault.
-- Anota aquí solo lo que tu casa autorice: ita personal, ebó ya realizado, fecha.
+## Registro de casa
 
-### Registro
-
-- Fecha de salida:
-- Ire / osogbo marcado:
-- Ebó indicado por el sacerdote:
+- Fecha en que salió:
+- Ire / osogbo:
+- Ebó que indicó el sacerdote:
 - Cumplido:
-
-## Agent notes
-
-No inventar ebó ni dosis. Si el usuario describe urgencia médica (pecho, ahogo, ideación suicida, embarazo con sangrado) se corta la analogía y se pide ayuda profesional. Ifá no sustituye urgencias.

@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Ogbe Iroso
 slug: ogbe-iroso
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Ogbe Iroso
-family: Ogbe
-right: Ogbe
-left: Iroso
-class: [omoluo, odu-compuesto]
-parent_meji: [[ejiogbe]]
-second_meji: [[iroso-meyi]]
+n: 20
+familia: Ogbe
+padre: Ogbe
+segundo: Iroso
+aliases: [Ogbe Iroso, Baba Ejiogbe Iroso, Ogbe Irosun, ogbe iroso]
+tags: [ifa, oddun, omoluo, familia/ogbe, cruce/iroso]
+orishas: [Orunmila, Obatalá, Eleguá, Olodumare, Shangó, Osún, Eggun]
+temas: [luz, gobierno, orí, sangre, memoria, humildad]
+consulta: true
 ---
 
-# Ogbe Iroso
+# 020. Ogbe Iroso
 
-> Hijo de Ogbe con Iroso. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/ejiogbe|Baba Ejiogbe]] (1)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/iroso-meyi|Iroso Meyi]] (5)
+**Buscar en Obsidian:** `Ogbe Iroso` · `Ogbe Iroso` · `ogbe-iroso`
+**Padre:** [[ejiogbe|Baba Ejiogbe]] (1) · **Segundo:** [[iroso-meyi|Iroso Meyi]] (5) · **Inverso:** [[iroso-ogbe|Iroso Ogbe]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Ogbe Iroso** es Baba Ejiogbe cruzado con Iroso Meyi. El padre Ogbe abre, ilumina, pone en el trono y exige cabeza. El segundo pie Iroso trae sangre, memoria, lágrima y riesgo de trampa. Se lee primero [[ejiogbe|Baba Ejiogbe]] (tono) y después [[iroso-meyi|Iroso Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[iroso-ogbe|Iroso Ogbe]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/ejiogbe|Baba Ejiogbe]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/iroso-meyi|Iroso Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- Las aguas y las tierras; la unidad y la lucha de contrarios.
+- La humildad.
+- Cruce Ogbe × Iroso: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: gobierno, orí, creación × memoria, sangre, humildad
-- Orishas a tener en cuenta: Orunmila, Obatalá, Eleguá, Olodumare, Shangó, Osún, Eggun
+- Rezo de linaje de Ogbe Iroso (anotar el texto que canta su casa).
+- Se invoca primero el padre Ogbe y se cierra con Iroso.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Hay suerte grande y ojos puestos encima: la envidia acompaña al que se eleva.
+- Sueño con guacalote y collar colorado: cuidado con la candela.
+- Lea el ire de Ogbe *a través* de Iroso: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Iroso Ogbe.
+
+## Lista de patakies
+
+- Orunmila no duerme: el ruido del ekute y el puesto que hay que ocupar.
+- El babalawo, la hija del rey y la prenda que Awóle devuelve.
+- Historias de la casa donde Ogbe se encuentra con Iroso: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Ogbe (Gobierno, apertura de camino, riqueza si se respeta Orunmila y el orí) llega *a través* de Iroso.
+- Se sostiene si se respeta lo que pide Shangó y Orunmila.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Traición cercana, chisme que llega a tribunal, casa o empleo que se pierde si se desprecia Osha.
+- Cautela del segundo: Trampa en el puesto o en el campo.
+- Cruce típico: orí + mando se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Orunmila, Obatalá, Eleguá, Olodumare, Shangó, Osún, Eggun
+- Ámbitos: orí, mando, salud de la vista, memoria
+- Temas: luz, gobierno, orí, sangre, memoria, humildad
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Está gobernando su cabeza o lo gobiernan otros?
+- ¿Qué no quiere recordar?
+- ¿Este asunto es más de Ogbe (tono) o de Iroso (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[ejiogbe|Baba Ejiogbe]] y lea tono + osogbo.
+2. Abra el segundo [[iroso-meyi|Iroso Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[iroso-ogbe|Iroso Ogbe]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Ogbe
 
-- Padre: [[domains/ifa/entries/meji/ejiogbe|Baba Ejiogbe]]
-- Inverso: [[domains/ifa/entries/omoluo/iroso-ogbe|Iroso Ogbe]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[ogbe-oyekun|Ogbe Yekun]] · [[ogbe-iwori|Ogbe Weñe]] · [[ogbe-odi|Ogbe Di]] · [[ogbe-iroso|Ogbe Iroso]] · [[ogbe-ojuani|Ogbe Ojuani]] · [[ogbe-obara|Ogbe Bara]] · [[ogbe-okana|Ogbe Kana]] · [[ogbe-ogunda|Ogbe Gunda]] · [[ogbe-osa|Ogbe Sa]] · [[ogbe-ika|Ogbe Ika]] · [[ogbe-otrupon|Ogbe Trupon]] · [[ogbe-otura|Ogbe Tua]] · [[ogbe-irete|Ogbe Rete]] · [[ogbe-oshe|Ogbe She]] · [[ogbe-ofun|Ogbe Fun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

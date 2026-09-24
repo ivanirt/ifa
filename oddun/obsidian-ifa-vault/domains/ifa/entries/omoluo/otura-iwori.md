@@ -1,76 +1,93 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Otura Iwori
 slug: otura-iwori
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Otura Iwori
-family: Otura
-right: Otura
-left: Iwori
-class: [omoluo, odu-compuesto]
-parent_meji: [[otura-meyi]]
-second_meji: [[iwori-meyi]]
+n: 199
+familia: Otura
+padre: Otura
+segundo: Iwori
+aliases: [Otura Iwori, Otura Meyi Iwori, otura iwori]
+tags: [ifa, oddun, omoluo, familia/otura, cruce/iwori]
+orishas: [Obatalá, Orunmila, Ozain, Olofin, Olokun, Eleguá]
+temas: [palabra, consejo, astucia, ojo, investigación, sangre]
+consulta: true
 ---
 
-# Otura Iwori
+# 199. Otura Iwori
 
-> Hijo de Otura con Iwori. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/otura-meyi|Otura Meyi]] (13)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/iwori-meyi|Iwori Meyi]] (3)
+**Buscar en Obsidian:** `Otura Iwori` · `Otura Iwori` · `otura-iwori`
+**Padre:** [[otura-meyi|Otura Meyi]] (13) · **Segundo:** [[iwori-meyi|Iwori Meyi]] (3) · **Inverso:** [[iwori-otura|Iwori Otura]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Otura Iwori** es Otura Meyi cruzado con Iwori Meyi. El padre Otura sentencia con la palabra y pide siembra, no porfía. El segundo pie Iwori obliga a mirar adentro, investigar y no firmar a ciegas. Se lee primero [[otura-meyi|Otura Meyi]] (tono) y después [[iwori-meyi|Iwori Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[iwori-otura|Iwori Otura]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/otura-meyi|Otura Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/iwori-meyi|Iwori Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- La palabra que crea y la palabra que condena.
+- La letra del año.
+- Cruce Otura × Iwori: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: palabra, astucia, justicia × investigacion, sangre, justicia
-- Orishas a tener en cuenta: Obatalá, Orunmila, Ozain, Olofin, Olokun, Eleguá
+- Rezo de linaje de Otura Iwori (anotar el texto que canta su casa).
+- Se invoca primero el padre Otura y se cierra con Iwori.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Ifá del zorro en algunos caminos: reparte buenos y malos con astucia.
+- Se le sube la sangre a la cabeza; haga días de bajar costumbres.
+- Lea el ire de Otura *a través* de Iwori: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Iwori Otura.
+
+## Lista de patakies
+
+- El babalawo, las jicoteas y el dinero que se recompensa.
+- Los ricos acusan a Olokun ante Olofin; Eure Meyi y las dos lerí en el camino.
+- Historias de la casa donde Otura se encuentra con Iwori: anotar aquí el patakín que le tiraron.
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Otura (Siembra que prende) llega *a través* de Iwori.
+- Se sostiene si se respeta lo que pide Orunmila y Obatalá.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Soberbia voluntariosa; abandono por majadería.
+- Cautela del segundo: Herencia tramposa; empleo inseguro; sangre a la cabeza.
+- Cruce típico: palabra + consejo se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Obatalá, Orunmila, Ozain, Olofin, Olokun, Eleguá
+- Ámbitos: palabra, consejo, papeles, estudio
+- Temas: palabra, consejo, astucia, ojo, investigación, sangre
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Su palabra está sembrando o sentenciando?
+- ¿Qué no ha querido mirar de frente?
+- ¿Este asunto es más de Otura (tono) o de Iwori (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[otura-meyi|Otura Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[iwori-meyi|Iwori Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[iwori-otura|Iwori Otura]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Otura
 
-- Padre: [[domains/ifa/entries/meji/otura-meyi|Otura Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/iwori-otura|Iwori Otura]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[otura-ogbe|Otura Ogbe]] · [[otura-oyekun|Otura Oyekun]] · [[otura-iwori|Otura Iwori]] · [[otura-odi|Otura Odi]] · [[otura-iroso|Otura Iroso]] · [[otura-ojuani|Otura Ojuani]] · [[otura-obara|Otura Obara]] · [[otura-okana|Otura Okana]] · [[otura-ogunda|Otura Ogunda]] · [[otura-osa|Otura Osa]] · [[otura-ika|Otura Ika]] · [[otura-otrupon|Otura Otrupon]] · [[otura-irete|Otura Irete]] · [[otura-oshe|Otura Oshe]] · [[otura-ofun|Otura Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

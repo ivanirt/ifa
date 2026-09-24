@@ -1,76 +1,94 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Ojuani Iwori
 slug: ojuani-iwori
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Ojuani Iwori
-family: Ojuani
-right: Ojuani
-left: Iwori
-class: [omoluo, odu-compuesto]
-parent_meji: [[ojuani-meyi]]
-second_meji: [[iwori-meyi]]
+n: 94
+familia: Ojuani
+padre: Ojuani
+segundo: Iwori
+aliases: [Ojuani Iwori, Ojuani Meyi Iwori, ojuani iwori]
+tags: [ifa, oddun, omoluo, familia/ojuani, cruce/iwori]
+orishas: [Babalú Ayé, Eshú, Oggún, Orunmila, Olofin, Olokun, Eleguá]
+temas: [vuelco, envidia, revolución, ojo, investigación, sangre]
+consulta: true
 ---
 
-# Ojuani Iwori
+# 094. Ojuani Iwori
 
-> Hijo de Ojuani con Iwori. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/ojuani-meyi|Ojuani Meyi]] (6)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/iwori-meyi|Iwori Meyi]] (3)
+**Buscar en Obsidian:** `Ojuani Iwori` · `Ojuani Iwori` · `ojuani-iwori`
+**Padre:** [[ojuani-meyi|Ojuani Meyi]] (6) · **Segundo:** [[iwori-meyi|Iwori Meyi]] (3) · **Inverso:** [[iwori-ojuani|Iwori Ojuani]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Ojuani Iwori** es Ojuani Meyi cruzado con Iwori Meyi. El padre Ojuani voltea el tablero, despierta envidia y cambia de color. El segundo pie Iwori obliga a mirar adentro, investigar y no firmar a ciegas. Se lee primero [[ojuani-meyi|Ojuani Meyi]] (tono) y después [[iwori-meyi|Iwori Meyi]] (matiz). Si la salida se siente al revés, abra también el inverso [[iwori-ojuani|Iwori Ojuani]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/ojuani-meyi|Ojuani Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/iwori-meyi|Iwori Meyi]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- Los arayes.
+- La letra del año.
+- Cruce Ojuani × Iwori: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: revolucion, envidia, babalu × investigacion, sangre, justicia
-- Orishas a tener en cuenta: Babalú Ayé, Eshú, Oggún, el camaleón (itá), Orunmila, Olofin, Olokun, Eleguá
+- Rezo de linaje de Ojuani Iwori (anotar el texto que canta su casa).
+- Se invoca primero el padre Ojuani y se cierra con Iwori.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Piensa irse y no puede levantar cabeza hasta la rogación.
+- Se le sube la sangre a la cabeza; haga días de bajar costumbres.
+- Lea el ire de Ojuani *a través* de Iwori: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Iwori Ojuani.
+
+## Lista de patakies
+
+- El camaleón que quiere matar al perro por el color del collar.
+- Los ricos acusan a Olokun ante Olofin; Eure Meyi y las dos lerí en el camino.
+- Historias de la casa donde Ojuani se encuentra con Iwori: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Ojuani (Cambio de casa o de bando que salva) llega *a través* de Iwori.
+- Se sostiene si se respeta lo que pide Orunmila y Babalú Ayé.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Celos entre religiosos.
+- Cautela del segundo: Herencia tramposa; empleo inseguro; sangre a la cabeza.
+- Cruce típico: mudanza + envidia se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Babalú Ayé, Eshú, Oggún, Orunmila, Olofin, Olokun, Eleguá
+- Ámbitos: mudanza, envidia, papeles, estudio
+- Temas: vuelco, envidia, revolución, ojo, investigación, sangre
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿A quién le envidia el color?
+- ¿Qué no ha querido mirar de frente?
+- ¿Este asunto es más de Ojuani (tono) o de Iwori (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[ojuani-meyi|Ojuani Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[iwori-meyi|Iwori Meyi]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[iwori-ojuani|Iwori Ojuani]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Ojuani
 
-- Padre: [[domains/ifa/entries/meji/ojuani-meyi|Ojuani Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/iwori-ojuani|Iwori Ojuani]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[ojuani-ogbe|Ojuani Ogbe]] · [[ojuani-oyekun|Ojuani Oyekun]] · [[ojuani-iwori|Ojuani Iwori]] · [[ojuani-odi|Ojuani Odi]] · [[ojuani-iroso|Ojuani Iroso]] · [[ojuani-obara|Ojuani Obara]] · [[ojuani-okana|Ojuani Okana]] · [[ojuani-ogunda|Ojuani Ogunda]] · [[ojuani-osa|Ojuani Osa]] · [[ojuani-ika|Ojuani Ika]] · [[ojuani-otrupon|Ojuani Otrupon]] · [[ojuani-otura|Ojuani Otura]] · [[ojuani-irete|Ojuani Irete]] · [[ojuani-oshe|Ojuani Oshe]] · [[ojuani-ofun|Ojuani Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:

@@ -1,76 +1,99 @@
 ---
-type: Odu-Omoluo
+type: oddun
+clase: omoluo
 title: Osa Ofun
 slug: osa-ofun
-tags: [ifa, oddun, vault]
-generated:
-  by: process:grok-alt-med-vault
-  at: 2026-09-23
-status: draft
-evidence_tier: tradition-literature
-domain: ifa
-source: DICE IFA — Versión Ampliada y Corregida (roster + keynotes parafraseados; no es reimpresión)
-name: Osa Ofun
-family: Osa
-right: Osa
-left: Ofun
-class: [omoluo, odu-compuesto]
-parent_meji: [[osa-meyi]]
-second_meji: [[ofun-meyi]]
+n: 166
+familia: Osa
+padre: Osa
+segundo: Ofun
+aliases: [Osa Ofun, Osa Meyi Ofun, osa ofun]
+tags: [ifa, oddun, omoluo, familia/osa, cruce/ofun]
+orishas: [Oyá, Eggun, Shangó, Ikú, Oduduwa, Obatalá, Olofin]
+temas: [viento, cambio, oyá, origen, memoria, blanco]
+consulta: true
+patakies:
+  - "[[Cierto día Obatalá estaba sentado en la mesa]]"
+  - "[[EL NACIMIENTO DE AGRIYELU]]"
+  - "[[LOS ALACRANES]]"
+
 ---
 
-# Osa Ofun
+# 166. Osa Ofun
 
-> Hijo de Osa con Ofun. Nota andamiada: keynotes largos y patakines se cargan desde el cuaderno de casa, no desde el PDF fuente.
+> Estudio para vault de Obsidian. **No es consulta de Ifá ni ebó prescrito.** El ita lo tira el sacerdote de su casa. Esta nota organiza keynotes para buscar y cruzar.
 
-**Familia (derecha / primero):** [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]] (10)
-**Segundo (izquierda):** [[domains/ifa/entries/meji/ofun-meyi|Ofun Meyi (Oragun)]] (16)
+**Buscar en Obsidian:** `Osa Ofun` · `Osa Ofun` · `osa-ofun`
+**Padre:** [[osa-meyi|Osa Meyi]] (10) · **Segundo:** [[ofun-meyi|Ofun Meyi (Oragun)]] (16) · **Inverso:** [[ofun-osa|Ofun Osa]]
 
-## Marca
+## Consulta rápida
 
-Combinación de las dos piernas Meji. El babalawo marca el odù en el tablero; no copies un dibujo de internet como si fuera ita.
+**Osa Ofun** es Osa Meyi cruzado con Ofun Meyi (Oragun). El padre Osa entra como viento, muda la casa y enciende a los muertos. El segundo pie Ofun devuelve al origen blanco y señala al santo desobedecido. Se lee primero [[osa-meyi|Osa Meyi]] (tono) y después [[ofun-meyi|Ofun Meyi (Oragun)]] (matiz). Si la salida se siente al revés, abra también el inverso [[ofun-osa|Ofun Osa]].
 
-## Cómo leerlo en este vault
+## En este odun nace
 
-1. Lee primero el padre [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]] — da el tono del camino.
-2. Cruza con [[domains/ifa/entries/meji/ofun-meyi|Ofun Meyi (Oragun)]] — da el matiz, el osogbo o el ire específico.
-3. Completa las secciones de abajo con el ita de tu linaje.
+- Los siete días del asentamiento de Osha en el igbodún.
+- Los museos, los monstruos y la memoria.
+- Cruce Osa × Ofun: el padre pone el tono y el segundo lo filtra.
 
-## Lo que suele nacer (plantilla)
+## Rezo
 
-- Cruce de esferas: viento, oyá, eggun × origen, memoria, blanco
-- Orishas a tener en cuenta: Oyá, Eggun, Shangó, Ikú, Oduduwa, Obatalá, Olofin
+- Rezo de linaje de Osa Ofun (anotar el texto que canta su casa).
+- Se invoca primero el padre Osa y se cierra con Ofun.
+- No se calca el tratado: cada ile tiene su suye.
 
-## Keynotes de casa
+## Dice Ifá
 
-- 
+- Vino porque quiere ir a un lugar; el camino trae dinero y Shangó detrás.
+- Ángel peleando; niño enfermo en casa — dé de comer a su ángel.
+- Lea el ire de Osa *a través* de Ofun: si uno de los dos pies se ignora, el otro se tuerce.
+- Compare siempre con el inverso Ofun Osa.
+
+## Lista de patakies
+
+- El rey curandero, dueño de la muerte.
+- El santo amarrado y la desobediencia que lo tiene preso.
+- Historias de la casa donde Osa se encuentra con Ofun: anotar aquí el patakín que le tiraron.
+
 
 ## Ire
 
-- 
+- Cuando abre: el ire de Osa (Cambio de suerte si se da de comer a la puerta) llega *a través* de Ofun.
+- Se sostiene si se respeta lo que pide Oduduwa y Oyá.
 
 ## Osogbo / cautelas
 
-- 
+- Cautela del padre: Pelea de pareja; maldiciones; aborto.
+- Cautela del segundo: Desobediencia al santo.
+- Cruce típico: cambio + cementerio se tuerce si se ignora a uno de los dos pies.
 
-## Patakín (resumen propio, no calco)
+## Orishas y ámbitos a vigilar
 
-- 
+- Orishas: Oyá, Eggun, Shangó, Ikú, Oduduwa, Obatalá, Olofin
+- Ámbitos: cambio, cementerio, origen, obediencia
+- Temas: viento, cambio, oyá, origen, memoria, blanco
 
-## Ebó (solo lo indicado por sacerdote)
+## Preguntas para el ita
 
-- 
+- ¿Qué viento está empujando la mudanza?
+- ¿Qué origen está desobedeciendo?
+- ¿Este asunto es más de Osa (tono) o de Ofun (matiz)?
 
-## Refranes
+## Cómo consultarlo en este vault
 
-- 
+1. Abra el padre [[osa-meyi|Osa Meyi]] y lea tono + osogbo.
+2. Abra el segundo [[ofun-meyi|Ofun Meyi (Oragun)]] y marque qué matiz está vivo (salud, justicia, pareja, dinero).
+3. Compare con el inverso [[ofun-osa|Ofun Osa]].
+4. Anote abajo solo el ita de **su** casa.
 
-## Relaciones
+## Hermanos de la familia Osa
 
-- Padre: [[domains/ifa/entries/meji/osa-meyi|Osa Meyi]]
-- Inverso: [[domains/ifa/entries/omoluo/ofun-osa|Ofun Osa]]
-- Hermanos de familia: [[domains/ifa/indexes/BY-FAMILY]]
+[[osa-ogbe|Osa Ogbe]] · [[osa-oyekun|Osa Oyekun]] · [[osa-iwori|Osa Iwori]] · [[osa-odi|Osa Odi]] · [[osa-iroso|Osa Iroso]] · [[osa-ojuani|Osa Ojuani]] · [[osa-obara|Osa Obara]] · [[osa-okana|Osa Okana]] · [[osa-ogunda|Osa Ogunda]] · [[osa-ika|Osa Ika]] · [[osa-otrupon|Osa Otrupon]] · [[osa-otura|Osa Otura]] · [[osa-irete|Osa Irete]] · [[osa-oshe|Osa Oshe]] · [[osa-ofun|Osa Ofun]]
 
-## Agent notes
+## Registro de casa
 
-Si no hay ita de linaje cargado, no rellenes ebó ni rezo. Devuelve solo el cruce de keynotes de los dos Meji y pregunta por la casa.
+- Fecha:
+- Ire / osogbo:
+- Quien tiró (babalawo / santero):
+- Ebó indicado:
+- Cumplido:
