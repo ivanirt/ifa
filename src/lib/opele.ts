@@ -38,22 +38,22 @@ export const LEG_LABEL: Record<LegId, string> = {
   ofun: "Ofun",
 };
 
-/** I = open (false), II = closed (true). Top → bottom. */
+/** I = open (false), II = closed (true). Top → bottom. Matches the 16 méjì opele chart. */
 export const LEG_PATTERN: Record<LegId, [boolean, boolean, boolean, boolean]> = {
   ogbe: [false, false, false, false],
   oyeku: [true, true, true, true],
   iwori: [true, false, false, true],
   odi: [false, true, true, false],
-  irosun: [true, true, false, false],
-  owonrin: [false, false, true, true],
-  obara: [false, true, false, false],
-  okanran: [false, false, true, false],
+  irosun: [false, false, true, true],
+  owonrin: [true, true, false, false],
+  obara: [false, true, true, true],
+  okanran: [true, true, true, false],
   ogunda: [false, false, false, true],
   osa: [true, false, false, false],
   ika: [true, false, true, true],
   oturupon: [true, true, false, true],
-  otura: [false, true, true, true],
-  irete: [true, true, true, false],
+  otura: [false, true, false, false],
+  irete: [false, false, true, false],
   ose: [false, true, false, true],
   ofun: [true, false, true, false],
 };
